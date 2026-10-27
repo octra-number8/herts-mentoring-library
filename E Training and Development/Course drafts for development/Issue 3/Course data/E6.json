@@ -1,0 +1,704 @@
+{
+ "code": "E6",
+ "issue": "Issue 3",
+ "issueDate": "November 2026",
+ "fileTitle": "The Chair and Beyond",
+ "slug": "the-chair-and-beyond",
+ "title": "The Chair and Beyond",
+ "summary": "For Wardens, Masters Elect, Masters and Immediate Past Masters: the year in the Chair as a mentoring opportunity, working with your officers, preparing honestly for the Chair, the year after it, and the constitutional facts a Master needs.",
+ "tier": "foundation",
+ "audiences": [
+  "lodge_mentor",
+  "all"
+ ],
+ "audienceText": "Wardens, Masters Elect, Masters and Immediate Past Masters; Lodge Mentors and Directors of Ceremonies who support them",
+ "stages": [
+  "established"
+ ],
+ "topics": [
+  "the chair",
+  "office",
+  "leadership",
+  "past masters",
+  "constitutions"
+ ],
+ "level": "recommended",
+ "principle": "guide",
+ "minutes": 75,
+ "passMark": 75,
+ "completion": "Complete the required lessons and the scenario, and pass the final assessment at 75%. The Before you start quiz, the reflections, the Lodge task and Thirty days on are optional.",
+ "source": "E6 The Chair and Beyond, Course Draft for Development Issue 2 and the original course draft for development (October 2026), themselves based on E6a The Chair and Beyond Facilitator Guide, Action Sheet and Pocket Card. Checked against the verified facts register (26 October 2026), the Book of Constitutions (2026), the PGLH Secretaries' Handbook, the Lodge Director of Ceremonies Guide (October 2025), the Lodge Mentor's Guide and UGLE Members' Pathway papers (Participation; Stewardship; August 2021, now part of Building Together).",
+ "changeSummary": [
+  "Restructured into seven modules with a short Before you start quiz, one required scenario and a single mixed final assessment (pass mark 75%, was 70%).",
+  "Office is now discussed, never assumed: an honest picture of time, cost and commitment, roles beyond the line, and family and connections first, for the Master too.",
+  "Private circumstances stay private: nothing about a Brother's health, money, family or work goes to the Committee; the scenario now tests this.",
+  "Constitutional facts corrected to the 2026 Book of Constitutions: Rule 183 as amended for Hertfordshire, Rule 104(f) for the Immediate Past Master, Rule 115 for a second year, Rules 105(a) and 109, Rule 172.",
+  "The quorum of five is now attributed to the Secretaries' Handbook, not Rule 119; the three-minute speech and thirty-minute Committee are now plain suggestions.",
+  "The year after the Chair now uses the experience of other Provinces, with no figures claimed.",
+  "Reflections no longer ask for names: they ask for the shape of the office line or about the learner's own year.",
+  "Office plan detail moved to the topic course Succession Planning; welfare and drifting Brethren point to Keeping Good Men and Welfare, Wellbeing and Knowing Your Limits."
+ ],
+ "modules": [
+  {
+   "title": "About this course",
+   "summary": "What the course covers and a quick check of where you are starting from.",
+   "lessons": [
+    {
+     "title": "About this course",
+     "kind": "content",
+     "minutes": 3,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "The ritual book tells a Master what to say. It says very little about the rest: the tone of the Lodge for a year, the newest Brother's first impressions, the officers who need a word of encouragement (or a bit less pressure), and what happens to you once you leave the Chair. This course is about the rest.\n\nIt is written for Wardens, Masters Elect, Masters and Immediate Past Masters, and for the Lodge Mentors and Directors of Ceremonies who work alongside them. If you are a Warden who is not yet sure the Chair is for you, it is for you too. Part of the point is to give you an honest picture.\n\n### By the end of this course you will be able to\n\n1. Look at your year through the eyes of your newest Brother, and plan the moments that matter to him.\n2. Use the things only the Master can do to set the tone of the Lodge.\n3. Agree with your officers who does what, so that nobody carries the whole year alone.\n4. Talk about office in a way that neither hurries a Brother nor leaves him waiting, and that respects his family, work and circumstances.\n5. Prepare for the Chair as a Warden with a realistic view of the time, cost and commitment.\n6. Plan the year after the Chair, for yourself and for the Past Masters around you.\n7. Check the constitutional facts and Provincial procedures that matter in the Chair.\n\n### How the course works\n\n| Part | What it is |\n|---|---|\n| Before you start | Four quick questions. They do not count. |\n| The lessons | Short readings, one branching scenario and two optional private reflections. |\n| Final assessment | Twelve questions, most of them situations. Pass mark 75%. You can try again. |\n| Your Lodge task and thirty days on | Optional. One thing to do in your Lodge, and a short look back a month later. |\n\nYour progress is saved, so you can stop and come back."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "Not every Brother wants the Chair, and that is a perfectly good choice. Some Brethren enjoy ritual and office; others get most from the meetings, the friendships, the charity work or the social side. This course is for those heading for the Chair, those in it, and those who help them. It is not a recruitment drive for the progressive line."
+      }
+     ]
+    },
+    {
+     "title": "Before you start",
+     "kind": "quiz",
+     "minutes": 2,
+     "required": false,
+     "isAssessment": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Four questions to see where you are starting from. They do not count towards completion."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "true_false",
+       "prompt": "The Immediate Past Master is an officer of the Lodge.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. He is not an officer of the Lodge.",
+       "feedbackIncorrect": "He is not. Rule 104(f) of the Book of Constitutions is clear on this.",
+       "explanation": "The Immediate Past Master holds his place because he has been Master (Rule 104(f)). Unless the Lodge gives him a role, the year after the Chair comes with a seat and nothing to do. Module 5 looks at what that means."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "In Hertfordshire, the Secretary accepts a resignation on the Lodge's behalf.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. No acceptance is needed and the Secretary has no power to accept it.",
+       "feedbackIncorrect": "No acceptance is needed. The Secretary acknowledges receipt and reports it to the Lodge.",
+       "explanation": "Under Rule 183 the Secretary acknowledges a resignation and reports it at the next regular meeting. In Hertfordshire the Brother then has sixty days to withdraw it, with no vote of the Lodge. The full wording is in Module 6."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "A well-run Lodge should expect every Master Mason to aim for the Chair.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Some Brethren want the Chair; many do not. Both are legitimate.",
+       "feedbackIncorrect": "Not every Brother wants the Chair, and a Lodge that assumes he does will push some good men away.",
+       "explanation": "Office is something to discuss with a Brother, never something to assume. Plenty of Brethren contribute a great deal without ever wanting the progressive line."
+      },
+      {
+       "kind": "single",
+       "prompt": "What is the honest position on the year after the Chair?",
+       "options": [
+        "National figures show it is when most Past Masters resign",
+        "Experienced Provinces describe it as a time when a Past Master can feel let down, though there are no published figures",
+        "It matters only for Past Masters who did not enjoy their year"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. It rests on experience, not statistics.",
+       "feedbackIncorrect": "There are no published figures. The point rests on the experience of other Provinces.",
+       "explanation": "Metropolitan Grand Lodge and East Lancashire both describe the year after the Chair as a time when a Past Master can feel cast aside. Hertfordshire treats it as a second risk window on the strength of that experience. Say so honestly if asked, and do not quote numbers that do not exist."
+      }
+     ],
+     "devNotes": "QA (Issue 3): Q4 option c replaced ('Past Masters never leave' was not a plausible answer)."
+    }
+   ]
+  },
+  {
+   "title": "Your year as a mentoring opportunity",
+   "summary": "The year through the newest Brother's eyes, and the things only the Master can do.",
+   "lessons": [
+    {
+     "title": "Your year through his eyes",
+     "kind": "content",
+     "minutes": 7,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Think of the most recently Initiated Brother in your Lodge. Much of his picture of Freemasonry will be formed during somebody's year in the Chair, and this year it is yours.\n\nA useful test for any Master: can you name your newest Brother, say who his Personal Mentor is, and say roughly when his next ceremony will be? If not, that is a five-minute conversation with your Lodge Mentor, and a good place to start.\n\n### Two times worth watching\n\nUGLE's guidance says that a significant proportion of new members leave within two years of Initiation, often before they become Master Masons (Members' Pathway, Stewardship, August 2021). There is no published national percentage.\n\nThe second is the year after the Chair, which experienced Provinces describe as a time when a Past Master can feel let down and cast aside. There are no published figures for it either. Module 5 looks at it properly.\n\nA Master stands close to both. His newest Brethren are in the first, and he will soon be in the second himself. Neither is a cause for alarm: most new Brethren settle well and most Past Masters find plenty to do. They are simply the times when a little thought goes furthest.\n\n### Walk the year as he will\n\nWalk through your year as a new Brother experiences it: the ballot, his Initiation, the second meeting, the nights he cannot come, his Passing, the summer break. Which of those moments does your Lodge think about in advance, and which are left to chance?\n\n### The second meeting\n\nA new Brother's second meeting is often mostly business, and nobody has told him. At the Festive Board he may find himself on the edge of conversations about people and events he knows nothing about. It is the moment most often left to chance, and it is easy to get right: a word beforehand about what to expect, a seat near his Personal Mentor, and a Brother or two asked to make sure he is included.\n\n### The joke at the bar\n\n\"Thought we'd lost you!\" It is meant kindly and everybody laughs, including him. Some Brethren shrug it off. Others hear that their absence was noticed and talked about, and wonder whether to come back at all. The Master sets the tone on this as on most things. A quiet word to the Lodge about how we greet Brethren who have been away for a while costs nothing and helps more than most schemes.\n\n### The summer break\n\nResearch in one Province, reported by UGLE in 2021, found that men Initiated between January and June were less likely to remain than those Initiated between September and December, largely because of reduced participation; UGLE links this to the long summer break. The Province is not named and no figures are published. If your year includes a spring Initiation, keep the summer friendly: a social he and his family can come to, and his Personal Mentor keeping in touch in the ordinary way.\n\n### The Festive Board\n\nMake sure no new or joining Brother sits alone or among strangers. Show him the firing and the toasts before his first Festive Board rather than leaving him to guess. These are small things, and he will remember them."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "You cannot plan every moment, and you do not need to. Pick the two or three that matter most for the newest Brethren in your Lodge this year, and agree who will look after each."
+      }
+     ],
+     "devNotes": "QA (Issue 3): the second-meeting and bar-joke examples reworded so they no longer reuse lines from the Personal Mentor Course's composite story ('talked across me', 'look who's remembered where we meet'). The year-after-the-Chair paragraph shortened here and given in full once, in Lesson 5.1 (facts.md 10)."
+    },
+    {
+     "title": "What only the Master can do",
+     "kind": "content",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Plenty of people help to run a Lodge, and the Master should not try to do their part for them. A few things, though, carry far more weight when the Master does them.\n\n1. **Set the tone.** For a year the culture of the Lodge is largely the Master's. What he laughs at, who he sits with, how he speaks to the newest Brother and how he greets one who has been away: the Lodge notices, and copies it.\n2. **Give mentoring a place on the Committee agenda.** A short item from the Lodge Mentor at each Committee: are newer Brethren getting on, does every candidate and joining member have a Personal Mentor, is there anything the Lodge could do better? It is about how the Lodge is doing, not a report on individuals. Personal and welfare matters stay with the people concerned and the Almoner, not the Committee.\n3. **Talk to the Lodge about mentoring once in your year.** A few minutes in open Lodge on what mentoring means in Hertfordshire, and the reminder that we are all mentors to others. Your Lodge Mentor will gladly help you prepare it.\n4. **Watch for pressure at both ends.** No office before a Brother is ready and willing, no more ritual than he wants to take on, and no hard sell on the Royal Arch at the bar. Equally, nobody keen and capable left for years without anyone asking whether he would like to do more. You look after the office line with the Director of Ceremonies (DC) and the Lodge Mentor, and you can see it from the Chair better than most.\n5. **Have the conversations only the Master can have.** When a Brother is unhappy about something in the Lodge itself, about office, or about another member, a quiet word from the Master can settle what nobody else can. Ask \"How can we help?\", never \"Why aren't you attending?\" Where his wellbeing is involved, bring in the Almoner, normally with his agreement."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "The topic course Keeping Good Men sets out the steps Lodges use when a Brother seems to be drifting away, and who takes each one. Welfare, Wellbeing and Knowing Your Limits covers welfare conversations and when urgent help is needed."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "Nobody does all five perfectly. Pick the two that matter most in your Lodge this year and do those well."
+      }
+     ],
+     "devNotes": "QA (Issue 3): the Support question now uses the canon phrase 'Why aren't you attending?' (A1)."
+    }
+   ]
+  },
+  {
+   "title": "Working with your officers",
+   "summary": "Who does what, sharing the load, and handling office without pressure in either direction.",
+   "lessons": [
+    {
+     "title": "Working with your officers",
+     "kind": "content",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A good year in the Chair is a team effort. Early in your year, or better still as Master Elect, sit down with each of these Brethren and agree how you will work together.\n\n| Who | What to agree |\n|---|---|\n| Lodge Mentor | A short mentoring item at each Committee; a Personal Mentor for each candidate and joining member; how you will mention mentoring in open Lodge; any Brother who might welcome more involvement, or less. |\n| Director of Ceremonies | Ceremony preparation and the Lodge of Instruction; how newer Brethren are drawn into ritual gently, if they want to be; the office line, which you look at together with the Lodge Mentor. |\n| Secretary | The candidate timeline your year depends on; dispensations applied for in good time; letting the Almoner and the Lodge Mentor know promptly if a Brother resigns. |\n| Almoner | Brethren who are unwell, bereaved or have not been seen for a while; visits; being alongside you when a conversation touches a Brother's wellbeing. |\n| Treasurer | Arrears handled kindly. A first missed subscription is a reason for a quiet word, not a letter. |\n| Royal Arch Representative | What is said about the Royal Arch, when and by whom. Information, not recruitment. |\n\nOn resignations: UGLE asks the Secretary to tell the Almoner and the Provincial Office without delay. It helps if the Lodge Mentor hears promptly too, so the right person can get in touch.\n\n### Share the work\n\nA Master who tries to do everything himself usually ends the year tired and slightly resentful. Let the Wardens take their share, ask Past Masters to deliver pieces of ritual, and let the DC run the ceremonies he is there to run. Sharing the work is not a sign of weakness; it is how juniors learn and how Past Masters stay involved.\n\n### Family first, for the Master too\n\nThe year in the Chair is when a Lodge is most likely to ask too much of one man. The Province puts family and connections first, then Masonry, and that applies to the Master as much as to anyone. A Master who delegates, protects his family and work, and is seen to do so, gives every junior Brother permission to do the same. Most Masters who manage this finish the year wanting more Freemasonry, not less."
+      }
+     ],
+     "devNotes": "QA (Issue 3): table header changed from 'Officer' to 'Who' because the Royal Arch Representative is an appointment, not a Lodge officer (facts.md C06). 'Same day, including the Lodge Mentor' is facts.md A05's recommended wording and awaits confirmation as Provincial policy (Part 3 item 7); E7e uses the same wording."
+    },
+    {
+     "title": "Office: neither hurried nor forgotten",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Office can be one of the best parts of Freemasonry. It can also be the reason a Brother stops enjoying it.\n\nIt can go wrong in either direction. Some Brethren are asked to take office before they have settled in, or to learn more ritual than they are comfortable with, and quietly decide it is not for them. Others would happily do more, but nobody thinks to ask, and after a few years they wonder what they are there for. Neither is good for the Brother or the Lodge. There is no formula for this: you have to know the man and talk to him.\n\n### Ask, do not assume\n\n- **Not every Brother wants the Chair.** Some want progressive office later rather than sooner, some prefer a role outside the line, and some are happiest coming to meetings, enjoying the evening and going home. All of them belong.\n- **Office is discussed, never announced.** \"You're Junior Deacon next year\" is not a conversation. \"How would you feel about office, and what would help?\" is.\n- **Give him the real picture.** The time (rehearsals, the Lodge of Instruction, learning, meetings), the cost (dining, regalia, the Installation and the charity side), and the commitment over several years in the line. The DC and the Treasurer can give your Lodge's own figures. A Brother who says yes with his eyes open is much more likely to enjoy it.\n- **Circumstances change.** Family, work, health and money all come and go. A Brother who steps back this year may be delighted to step forward in three. Keep the door open, and mean it.\n- **More is fine, and so is less.** A Brother who wants more involvement is not pushy. One who wants less is not disloyal.\n\n### Roles beyond the line\n\nSteward, Charity Steward, Almoner, Lodge Mentor, Personal Mentor, Assistant Secretary, a piece of ritual now and then, the Lodge history, the website, the social programme. Many Brethren give more to a Lodge through these than they ever would in the progressive line.\n\n### Keep his confidences\n\nWhen a Brother tells you why he would rather wait, the reason is his. The Committee needs to know that he is not taking office this year, not why. If it would genuinely help for someone else to know more, ask him first."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "The topic course Succession Planning goes further: building a Lodge office plan with the DC and the Lodge Mentor, the readiness conversation, and handing on roles."
+      }
+     ]
+    },
+    {
+     "title": "Reflection: the shape of your office line",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "This is private, and it is about the shape of your Lodge's office line, not about individuals. If a named version would help, do it on paper with your DC and Lodge Mentor, not here."
+      }
+     ],
+     "prompt": "Think about your Lodge's progressive offices over the next three years as a shape rather than a list of names. Roughly how many are filled by Brethren who want to progress? Where are the gaps, and when do they fall? Does anything suggest someone is being hurried, or that someone keen has been left waiting? What is one thing you will raise with your DC and Lodge Mentor? Please do not include names or personal details of other Brethren."
+    },
+    {
+     "title": "Scenario: the Warden whose job has changed",
+     "kind": "scenario",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Work through what you would do. There is no score: each choice shows how it is likely to play out, and you can recover from most of them."
+      }
+     ],
+     "scenario": {
+      "start": "w1",
+      "nodes": {
+       "w1": {
+        "text": "You are Master. Over a coffee, your Junior Warden, a good man and well liked, tells you that his new job means he is away two weeks in every four. He has not started learning anything for next year and says he feels he is letting everyone down. What do you do first?",
+        "choices": [
+         {
+          "label": "Thank him for telling you, and ask what he would like if he could choose: carry on with some help, pause for a year, or step out of the line for now.",
+          "next": "w2",
+          "feedback": "A good start. You have opened the conversation rather than closed it, and the choice is his, not the Lodge timetable's. Listen to the answer before offering solutions."
+         },
+         {
+          "label": "Reassure him that everyone finds it hard and that he will be fine once he gets going.",
+          "next": "w1b",
+          "feedback": "Kind, and very natural. But it closes the conversation and quietly tells him to carry on regardless. He came to you with a real problem and leaves with a pat on the back."
+         },
+         {
+          "label": "Tell him not to worry and that you will ask the DC to look at the options.",
+          "next": "w1c",
+          "feedback": "Well meant, but you have started deciding for him. Once the DC is 'looking at options', other people will soon be discussing his job and his place in the line without him."
+         }
+        ]
+       },
+       "w1b": {
+        "text": "Three months later he has missed the Lodge of Instruction twice and has stopped replying to the DC's messages. The DC asks you what is going on.",
+        "choices": [
+         {
+          "label": "Go back to the Junior Warden yourself, say you think you brushed his worry aside, and have the open conversation now.",
+          "next": "w2",
+          "feedback": "Recoverable. Owning the earlier brush-off makes it easier for him to be honest. It is later and a little harder than it needed to be, but it is the right conversation."
+         },
+         {
+          "label": "Ask the DC to remind him firmly that the Senior Warden's work needs to be learned.",
+          "next": "w1d",
+          "feedback": "The DC is entitled to be concerned, but a firm reminder to a man who already feels he is letting everyone down will land as pressure."
+         }
+        ]
+       },
+       "w1d": {
+        "text": "The reminder arrives. The Junior Warden replies to the DC that it is probably best if he steps out of office altogether, and he does not come to the next meeting.",
+        "choices": [
+         {
+          "label": "Visit or ring him yourself, apologise for the pressure, and ask what he would really like to happen.",
+          "next": "w2",
+          "feedback": "An honest apology from the Master repairs a great deal. Then let him choose, and make sure every option, including staying in line with help, is genuinely open."
+         },
+         {
+          "label": "Accept his decision and move the line up.",
+          "next": "end_lost",
+          "feedback": "His decision should be respected, but it was made under pressure and without the full conversation. You may have lost an officer, and possibly a member, who could have been helped."
+         }
+        ]
+       },
+       "w1c": {
+        "text": "The DC mentions at the Committee that the Junior Warden 'may not manage next year because of his job'. A few days later someone mentions it to him at the bar. He feels he has been discussed behind his back.",
+        "choices": [
+         {
+          "label": "Apologise to him in person, explain you were trying to help, and ask what he would like to happen.",
+          "next": "w2",
+          "feedback": "The right thing to do. Be clear it was your mistake rather than the DC's, and agree with him what, if anything, will be said in future."
+         },
+         {
+          "label": "Explain that the Committee needed to know so that it could plan.",
+          "next": "end_lost",
+          "feedback": "The Committee needed to know that the line might change, perhaps. It did not need his work circumstances, and certainly not before he had been asked. Defending it makes things worse."
+         }
+        ]
+       },
+       "w2": {
+        "text": "He says he would like to stay in the line, but he needs a lighter year: someone to share the longer pieces of ritual, and rehearsals at times that fit his work pattern. He also says he would rather his job was not discussed around the Lodge. What now?",
+        "choices": [
+         {
+          "label": "Agree it with the DC and the Lodge Mentor: share the longer pieces among Past Masters, rehearse when he can, and talk again in three months.",
+          "next": "w3",
+          "feedback": "Good. Sharing ritual is routine in many Lodges, and a review date means nobody is left guessing. You have kept a capable man in the line without pushing him."
+         },
+         {
+          "label": "Gently suggest that stepping out of the line for a year might be the safer option.",
+          "next": "w2c",
+          "feedback": "Sometimes that is right, but he has just told you what he wants. Steering him away from it, however kindly, is deciding for him."
+         },
+         {
+          "label": "Explain that the Lodge expects its Senior Warden to do his own work.",
+          "next": "w2b",
+          "feedback": "Some Lodges do have that tradition, but nothing requires it. Rigidity here costs men, and it tells every junior Brother that circumstances do not count."
+         }
+        ]
+       },
+       "w2b": {
+        "text": "He goes quiet, then says that in that case he had better step aside. He clearly does not want to.",
+        "choices": [
+         {
+          "label": "Stop, say you put that badly, and tell him that sharing ritual is perfectly possible. Then agree a plan with the DC and the Lodge Mentor.",
+          "next": "w3",
+          "feedback": "Recovered. Admitting you got it wrong costs you nothing and keeps him in the line on terms that work for him."
+         },
+         {
+          "label": "Accept his decision.",
+          "next": "end_lost",
+          "feedback": "He has stepped aside because of a rule that was not really a rule. That is pressure in the other direction."
+         }
+        ]
+       },
+       "w2c": {
+        "text": "He agrees, but without much conviction. Walking out, he says: 'I suppose that's best for the Lodge.'",
+        "choices": [
+         {
+          "label": "Go back to him: 'Is that what you want, or what you think we want?' Then offer the lighter year properly.",
+          "next": "w3",
+          "feedback": "Good catch. 'Best for the Lodge' is often a sign that a Brother is giving the answer he thinks is expected."
+         }
+        ]
+       },
+       "w3": {
+        "text": "The plan is agreed. At the next Committee a Past Master asks why the Senior Warden's ritual is being shared next year. What do you say?",
+        "choices": [
+         {
+          "label": "Say that it has been agreed with him to share some of the work next year, and leave it there.",
+          "next": "end_good",
+          "feedback": "Right. The Committee needs to know the arrangement, not his circumstances. Anything more is his to share."
+         },
+         {
+          "label": "Explain about his new job and his rota so that people understand.",
+          "next": "w3b",
+          "feedback": "Well meant, and it may even win sympathy. But he asked for his job not to be discussed, and you have just discussed it."
+         }
+        ]
+       },
+       "w3b": {
+        "text": "A week later he mentions, a little stiffly, that several people have asked him about his new job.",
+        "choices": [
+         {
+          "label": "Apologise, and agree with him what will be said in future.",
+          "next": "end_good",
+          "feedback": "An honest apology, and a lesson for next time: when a Brother shares his circumstances, ask before passing them on, even with the best intentions."
+         }
+        ]
+       },
+       "end_good": {
+        "text": "He stays in the line, the longer pieces of ritual are shared, and his Personal Mentor keeps in touch in the ordinary way. The office line is looked at again at the next Committee with the arrangement known and his circumstances kept to himself. A capable man has been kept without being pushed, and every junior Brother has seen that the Lodge makes room for family and work.",
+        "choices": []
+       },
+       "end_lost": {
+        "text": "He steps out of office and, over the following months, comes less often. It may not be permanent, and a friendly conversation later could still bring him back. What was missed: an open question at the start, his choice rather than the Lodge's, the fact that ritual can be shared, and keeping his circumstances to himself. Try the scenario again to see the other routes.",
+        "choices": []
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "title": "For the Wardens",
+   "summary": "An honest look at the Chair, and what to do with two years' notice.",
+   "lessons": [
+    {
+     "title": "Preparing for the Chair",
+     "kind": "content",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "As a Warden you have roughly two years' notice of the Chair. Use them.\n\n### First, is it what you want?\n\nBeing in the line is not a promise that can never be revisited. If your circumstances have changed, or you are not sure the Chair is for you, say so now to the Lodge Mentor, the DC or the Master. It is far easier to plan around an honest \"not yet\" in the spring than a crisis in the autumn, and nobody worth listening to will think less of you for it.\n\n### The realistic picture\n\n- **Time.** Ceremonies, rehearsals and the Lodge of Instruction, Committee meetings, visits, and the meetings of Provincial Grand Lodge. Ask a recent Past Master how many evenings his year really took.\n- **Cost.** Dining, visiting, regalia, the Installation and the charity side of the year. The Treasurer can tell you what is usual in your Lodge. A good year need not be an expensive one.\n- **Commitment.** Two years as a Warden and a year in the Chair is one commitment, not three separate ones. Talk to your family about it as one, before you are in the middle of it.\n- **Eligibility.** To be elected Master you must have served a full year as a Warden (or as Master), counted from one regular Installation meeting to the next. The details, and what happens if you were invested late, are in Module 6.\n\n### Things to do now\n\n- **Learn the Lodge, not only the ritual.** Who is new, who might welcome more involvement, who has gone quiet for a while.\n- **Sit in on the Committee and spend time with the Secretary.** Most of a Master's year is planned there.\n- **Think about your officers early, and talk to each one before announcing anything.** Office is offered and discussed, never assumed.\n- **Plan your year's programme,** including socials that families can enjoy.\n- **Visit other Lodges** and borrow their best ideas. Nobody will mind.\n- **Make sure someone has explained the Royal Arch to you properly,** so that you can answer questions accurately when Brethren ask. Information, not pressure, and the timing is always each Brother's own. The topic course One Journey covers it.\n- **Keep a mentor of your own.** Masters need one too, and a Past Master who has done it recently is ideal."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "A few practical suggestions from experienced Masters, not rules: keep your Installation reply short and thank people rather than repeat what they have said; get the toast list early and practise the names and ranks; and keep Committee meetings to the agenda so that there is more time for the Festive Board."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "After the Chair",
+   "summary": "The Immediate Past Master and Past Masters: included, involved, interested.",
+   "lessons": [
+    {
+     "title": "The year after the Chair",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Experienced Provinces describe the year after the Chair as a time when a Past Master can feel let down and cast aside (Metropolitan Grand Lodge's Mentor's Handbook, 2025; East Lancashire's Mentoring Handbook). There is no published figure for how many leave then. Hertfordshire treats it as a second risk window on the strength of that experience.\n\nThe Immediate Past Master is not an officer of the Lodge (Book of Constitutions, Rule 104(f)). He holds his place because he has been Master. Unless the Lodge gives him a role, the year after the Chair comes with a seat and nothing to do.\n\nSome Past Masters are glad of a quieter year, and after a busy one that is entirely fair. Others miss the role more than they expected, and find the sudden silence hard. The answer is the same as everywhere else in mentoring: ask him.\n\n### Included, Involved, Interested\n\n- **Included:** asked, consulted, sat with and thanked.\n- **Involved:** a role if he wants one, such as Personal Mentor, Preceptor, Almoner, Charity Steward, Lodge Mentor, or a project for the Lodge.\n- **Interested:** something new, such as visiting, research, Provincial work, or the Royal Arch if he is not already a Companion and would like to know more.\n\nTalk about it before the Installation, not after, and offer rather than assign. Past Masters make excellent Personal Mentors: they remember what the Chair cost and what it gave.\n\n### For the Master now\n\nHow the Lodge treats last year's Master is noticed by everyone in the line behind him. Thank your Immediate Past Master properly, ask his advice, and find out what he would like to do next. One day it will be you."
+      }
+     ]
+    },
+    {
+     "title": "Reflection: your own year after the Chair",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "This one is about you. If you are a Warden, sketch what you would like; if you are already a Past Master, think about the year you had or are having."
+      }
+     ],
+     "prompt": "What would you like your year after the Chair to look like: a role, a project, a Brother to mentor, a quieter year, or something new to learn? What would you like the Lodge to know before your Installation, and who will you tell? Please do not include names or personal details of other Brethren."
+    }
+   ]
+  },
+  {
+   "title": "Facts for the Chair",
+   "summary": "The constitutional facts and Provincial procedures a Master needs.",
+   "lessons": [
+    {
+     "title": "Facts for the Chair",
+     "kind": "content",
+     "minutes": 7,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "These are the rules and Provincial procedures a Master is most likely to need. Each is taken from the Book of Constitutions (2026 edition) or the Provincial Secretaries' Handbook. Where something is Provincial procedure rather than a rule, it says so.\n\n### Becoming Master\n\n**Eligibility (Rules 105(a) and 109).** To be elected Master, a Brother must have served a full year as Master, Senior Warden or Junior Warden, counted from one regular Installation meeting to the next. A Warden invested later than the Installation meeting has not served a full year and can only be elected with a dispensation from the Provincial Grand Master, granted on petition. It is not automatic, so promise nothing until it is granted.\n\n**A second year (Rule 115).** A Master may serve two years in succession. A third consecutive year needs a dispensation from the Provincial Grand Master, given only in cases of necessity. He must still be elected for the second year. In Hertfordshire he is proclaimed, not installed again, and he receives no Past Master's jewel until he has installed his successor (Secretaries' Handbook, Provincial procedure).\n\n**The Immediate Past Master (Rule 104(f)).** The Immediate Past Master is not an officer of the Lodge. He holds his place because he has been Master.\n\n**Dispensations.** Applied for through Hermes to the Provincial Grand Secretary, not less than three weeks and not more than three months before the meeting, and issued before the summons is printed. A fee applies (the Handbook currently gives £12). They are not granted automatically: the Provincial Grand Master needs to see that a need exists.\n\n### Ceremonies and candidates\n\n**Interval between degrees (Rule 172).** There must be at least four weeks between a Brother's degrees. A ceremony held sooner is void unless the Grand Master validates it afterwards; there is no dispensation to shorten the interval in advance. Four weeks is a minimum, not a target: readiness decides.\n\n**Degree by Request (Rule 173).** Another Lodge may confer a degree on your candidate at the written request of the Master (or a Warden in the Master's absence) and the Secretary.\n\n**Grand Lodge Certificate.** Presented as soon as possible after it arrives, or sent by recorded delivery and the fact minuted. The Secretary should not hold it back in the hope that the Brother will attend (Secretaries' Handbook). A presentation is a moment worth making something of.\n\n**Holding a meeting.** The Secretaries' Handbook says five Brethren must be present, not counting the Tyler and the candidate, of whom two must be members of the Lodge and one an Installed Master. If no Installed Master is present, the meeting is abandoned and the fact minuted.\n\n### Membership\n\n**Resignation (Rule 183, as it applies in Hertfordshire).** A Brother may resign at any time, by written notice to the Secretary (an email is enough) or by saying so at a regular meeting of the Lodge. No acceptance is needed, and the Secretary has no power to accept it: he acknowledges receipt and reports it to the Lodge at the next regular meeting. Hertfordshire is one of the Provinces where the amended Rule 183 applies, so the Brother automatically has sixty days to withdraw his resignation, counted from the day the Secretary receives it or the day he resigns in open Lodge. No vote of the Lodge is needed. Those sixty days are the time for a conversation.\n\n**Arrears (Rule 148).** If a Brother's subscription stays unpaid for two full years, he ceases to be a member of the Lodge. This is reported at the next regular meeting and minuted. The Lodge may act sooner under its by-laws and Rule 181, but the mentoring point is earlier still: the first missed subscription is a reason for a quiet word, not a letter.\n\n**Recording why a Brother leaves (Rule 146).** Rule 146 requires the reason a member leaves to be recorded. Record it honestly and kindly.\n\n**Unattached Brethren visiting (Rule 127).** A Brother who has resigned from every Lodge, but not from the Craft, is still a Freemason. He may visit any Lodge once, signing the attendance book as \"unattached\". He may visit one Lodge on up to two further occasions (three visits in all) if he is thinking of joining it, provided the Master of that Lodge has confirmed this purpose to the Secretary in writing and the last visit is within a year of the first. A Brother who ceased membership for arrears or was excluded may not visit until he joins a Lodge again; one who has resigned from the Craft or been expelled may not visit at all.\n\n**Two missed meetings.** UGLE's guidance is that if a member misses two consecutive meetings, with or without an apology, an agreed person phones him within seven days of the second meeting. Where the Secretary keeps the attendance register in Hermes, UGLE says the system will also notify the Lodge Almoner. Do not wait for that notification: the call is the Lodge's to make, and it is a friendly call, not a check-up.\n\n### Provincial practice\n\n**Official visitors.** The Deputy and Assistant Provincial Grand Masters represent themselves by virtue of their Patents of Office and are never described as the Provincial Grand Master's representative. Anyone wearing a chain of office represents himself and is offered the gavel (Secretaries' Handbook).\n\n**The gavel at the Festive Board.** The Master alone handles it. The Handbook suggests that Preceptors brief the Master on Festive Board procedure, including a reminder to thank the proposer of his toast after the Master's Song.\n\n**Hertfordshire fire.** A long-standing tradition endorsed by the Provincial Grand Master, with the proviso that its speed should not become undignified (Lodge Director of Ceremonies Guide). Show a new Brother before his first Festive Board.\n\n**White Table.** Should be avoided at Installations and Initiations, and Masonic subjects are for the meeting, not the dinner (Secretaries' Handbook).\n\n**Inclusion.** Kneeling is not obligatory, and the candidate himself is the best guide to the Volume of the Sacred Law on which he is obligated. The DC Guide also suggests asking one of the youngest Brethren to help set up the Lodge room, so that he learns what will happen (Lodge Director of Ceremonies Guide).\n\n**The Royal Arch.** At the Union in December 1813 it was declared that pure Antient Masonry consists of three degrees, the Entered Apprentice, the Fellow Craft and the Master Mason, including the Supreme Order of the Holy Royal Arch. That declaration still opens the Book of Constitutions. Information, never recruitment.\n\n### What we do not claim\n\nThere is no published national figure for how many Brethren leave in their first years or after the Chair. What we say about those times rests on UGLE's guidance and the experience of other Provinces. Say so if asked."
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "Rules, fees and procedures change. Check the current Book of Constitutions and Secretaries' Handbook, and ask your Secretary, before relying on any detail here."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Assessment and your plan",
+   "summary": "Show what you know, then put one thing to work in your Lodge.",
+   "lessons": [
+    {
+     "title": "Final assessment",
+     "kind": "quiz",
+     "minutes": 12,
+     "required": true,
+     "isAssessment": true,
+     "passMark": 75,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Twelve questions, most of them situations. You need 75% to pass, and you can try again. Where more than one answer is reasonable, you will be asked to choose all that apply."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "single",
+       "prompt": "Your Junior Warden says, a little awkwardly, that he is not sure he wants to go on to the Chair. He enjoys the Lodge but finds the ritual a strain. What is the best first response?",
+       "options": [
+        "Reassure him that everyone feels like that and that he will be fine once he is in the Chair",
+        "Thank him for being honest, ask what he enjoys and what worries him, and make clear that stepping out of the line, now or later, is a perfectly good choice",
+        "Ask the DC to have a word with him about how the line will be affected",
+        "Suggest he takes a few months to think about it and lets you know"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. An open conversation, with every option genuinely available.",
+       "feedbackIncorrect": "The better response is to open the conversation and make clear that no is an acceptable answer.",
+       "explanation": "Reassurance closes the conversation and can push him on against his wishes. Passing it to the DC decides for him and spreads what he told you in confidence. Leaving him to think alone is not wrong, but it misses the chance to find out what would help: a lighter year with shared ritual, a pause, or a role outside the line. Talk first, then agree a time to talk again."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "A new Brother's second meeting is mostly business. Which of these would help him? Choose all that apply.",
+       "options": [
+        "A word beforehand from his Personal Mentor about what to expect",
+        "A seat at the Festive Board near his Personal Mentor or another Brother he knows",
+        "Asking a Brother or two to make sure he is included in conversation",
+        "Leaving him to find his own way, so that he learns independence"
+       ],
+       "correct": [
+        0,
+        1,
+        2
+       ],
+       "feedbackCorrect": "Right. Small, deliberate touches make the second meeting work.",
+       "feedbackIncorrect": "The first three all help. Leaving him to find his own way is how the second meeting goes wrong.",
+       "explanation": "The second meeting is the one most often left to chance. A word beforehand, a familiar face at dinner and a Brother or two who include him cost nothing. Independence comes soon enough; at this stage he needs to feel he belongs."
+      },
+      {
+       "kind": "single",
+       "prompt": "At the Committee, a Past Master suggests minuting that a Brother is 'not taking office next year because of money problems at home', so that nobody takes it personally. What do you do as Master?",
+       "options": [
+        "Agree, as it will stop people gossiping",
+        "Record only that the Brother is not taking office next year, as agreed with him, and say that his reasons are his own",
+        "Ask the Almoner to give the Committee more details so that it can decide how to help"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. The Committee needs the arrangement, not the reasons.",
+       "feedbackIncorrect": "The Committee needs to know he is not taking office, not why.",
+       "explanation": "A Brother's money, health, family or work circumstances are never minuted or discussed at Committee. Doing so, even kindly, breaks his trust and tells every Brother that confidences do not stay confidential. If he would welcome help, the Almoner can talk to him privately, with his agreement."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "In Hertfordshire, a Brother who resigns by saying so in open Lodge still has sixty days in which to withdraw his resignation, without any vote of the Lodge.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. The sixty days apply however he resigns.",
+       "feedbackIncorrect": "It is true. In Hertfordshire the amended Rule 183 applies.",
+       "explanation": "Hertfordshire is one of the Provinces where the amended Rule 183 applies. The sixty days run from the day the Secretary receives the resignation or the day he resigns in open Lodge, and no vote of the Lodge is needed. The Secretary acknowledges a resignation but has no power to accept it. Those sixty days are the time for a friendly conversation, not a debate."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "A Junior Warden invested at a meeting after the Installation meeting can be elected Master at the next Installation without any special permission, as long as he has been a Warden for most of the year.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. He has not served a full year, so he needs a dispensation.",
+       "feedbackIncorrect": "It is false. Most of the year is not enough.",
+       "explanation": "Rules 105(a) and 109 require a full year as Master, Senior Warden or Junior Warden, counted from one regular Installation meeting to the next. A Warden invested later needs a dispensation from the Provincial Grand Master, granted on petition, and it is not automatic. Check with the Secretary and promise nothing until it is granted."
+      },
+      {
+       "kind": "single",
+       "prompt": "Your Lodge's line has broken and the Master is willing to serve a second year. Which statement is accurate?",
+       "options": [
+        "He continues automatically without an election, and is installed again",
+        "He must be elected for the second year; in Hertfordshire he is proclaimed rather than installed again, and receives no Past Master's jewel until he installs his successor",
+        "A second year always needs a dispensation from the Provincial Grand Master"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Rule 115, plus Hertfordshire procedure.",
+       "feedbackIncorrect": "He must still be elected. In Hertfordshire he is proclaimed, not installed again.",
+       "explanation": "Rule 115 allows a Master to serve two years in succession; a third consecutive year needs a dispensation given only in cases of necessity. The proclamation and the jewel are Hertfordshire procedure from the Secretaries' Handbook. Talk to the Master privately first: a second year is a big ask of him and his family."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "If a candidate is ready and keen, the Lodge can obtain a dispensation in advance to confer his next degree three weeks after the last one.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. There is no dispensation to shorten the interval.",
+       "feedbackIncorrect": "It is false. Rule 172 allows no advance dispensation.",
+       "explanation": "There must be at least four weeks between degrees. A ceremony held sooner is void unless the Grand Master validates it afterwards, and there is no dispensation to shorten the interval in advance. Four weeks is a minimum, not a target: readiness decides."
+      },
+      {
+       "kind": "single",
+       "prompt": "A recently retired Master tells you he has felt 'a bit spare' since leaving the Chair and is wondering what the point is now. What is most likely to help?",
+       "options": [
+        "Tell him every Past Master feels that way and it passes",
+        "Ask him what he enjoyed and what he would like to do next, and offer something real if he wants it, such as mentoring a new Brother or a project for the Lodge",
+        "Appoint him to an office straight away so that he has something to do"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Ask, then offer something real.",
+       "feedbackIncorrect": "Ask what he would like first. An office he did not ask for may not be the answer.",
+       "explanation": "The Immediate Past Master is not an officer of the Lodge, and the year after the Chair can feel like a seat with nothing to do. Some Past Masters want a quieter year; others want a role. Included, Involved, Interested: find out which he wants, and ideally talk about it before the Installation next time."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Fellow Craft asks you at the Festive Board whether he 'has to' join the Royal Arch. What is the best response as Master?",
+       "options": [
+        "Tell him most good Masons join, so he should put his name down",
+        "Tell him it is not something to think about until he has been through the Chair",
+        "Give him an honest, friendly outline, say the timing is entirely his, and offer to introduce him to the Royal Arch Representative when he would like to know more"
+       ],
+       "correct": [
+        2
+       ],
+       "feedbackCorrect": "Right. Information, not recruitment; timing, not inevitability.",
+       "feedbackIncorrect": "The better response is honest information, with the timing left to him.",
+       "explanation": "Pressing him is the hard sell that puts men off. 'Wait until the Chair' is, in UGLE's words, a myth based on outdated ideas: a Master Mason becomes eligible four weeks after he is Raised. An outline and an introduction when he wants one leave the decision where it belongs. The topic course One Journey covers this in detail."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "Midway through your year, work becomes much busier and you are struggling to keep up. Which of these are sensible? Choose all that apply.",
+       "options": [
+        "Ask Past Masters to take some of the ritual",
+        "Talk to the DC and the Wardens about sharing the load",
+        "Keep it to yourself, as the Master is expected to cope",
+        "Talk to your own mentor or a recent Past Master about how they managed"
+       ],
+       "correct": [
+        0,
+        1,
+        3
+       ],
+       "feedbackCorrect": "Right. Share the load and ask for help.",
+       "feedbackIncorrect": "Sharing the work and asking for help are both sensible. Keeping it to yourself is not.",
+       "explanation": "The Province puts family and connections first, then Masonry, and that applies to the Master too. Lodges share ritual routinely, the Wardens and DC are there to help, and a Master who is seen to look after his family and work gives every junior Brother permission to do the same."
+      },
+      {
+       "kind": "single",
+       "prompt": "The Treasurer mentions that a Brother has not paid this year's subscription. What is the best approach?",
+       "options": [
+        "A formal letter setting out the consequences under Rule 148",
+        "A quiet, friendly word from someone who knows him, to see whether anything is wrong",
+        "Wait: nothing happens until he is two full years in arrears"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. A first missed subscription is a reason for a quiet word.",
+       "feedbackIncorrect": "A friendly word first. A formal letter can read like a final demand.",
+       "explanation": "Under Rule 148 a Brother ceases to be a member when his subscription stays unpaid for two full years, but the mentoring point comes much earlier. A missed subscription can be an oversight, or a sign of money worries or of drifting away. A kindly word finds out which. If money is the issue, the Almoner can help privately."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother who resigned from every Lodge some years ago would like to visit your Lodge, possibly with a view to joining. What does Rule 127 allow?",
+       "options": [
+        "Nothing: a Brother who has resigned can never visit",
+        "One visit to any Lodge, and up to two further visits to one Lodge he is thinking of joining, if the Master confirms that purpose to the Secretary in writing and the last visit is within a year of the first",
+        "Unlimited visits, as long as he signs the book as unattached"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. And as Master you are the one who confirms the purpose in writing.",
+       "feedbackIncorrect": "He may visit, within limits, and the Master's written confirmation is part of it.",
+       "explanation": "A Brother who has resigned from every Lodge, but not from the Craft, is still a Freemason. He may visit any Lodge once, and one Lodge up to two further times if he is thinking of joining, provided the Master confirms this in writing to the Secretary. Different rules apply to Brethren excluded for arrears, or who resigned from the Craft or were expelled. A warm welcome on that first visit matters more than any rule."
+      }
+     ]
+    },
+    {
+     "title": "Your Lodge task",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "This is optional, and it happens in your Lodge, not here. Within the next month, sit down with your Lodge Mentor and DC and do two things:\n\n- Look at your office line together for the next three years. Do the named version on paper, between you, and keep it to roles and intended timing. Agree who will have a friendly conversation with any Brother whose plans are unclear, and remember that the answer is his.\n- Pick one moment in your year to plan for your newest Brother: his second meeting, the summer break, his next ceremony or his first Festive Board.\n\nIf you are Master or Master Elect, add a third: talk to your Immediate Past Master (or think about your own year after the Chair) and agree what would be welcome."
+      }
+     ],
+     "prompt": "Write your plan in this form: 'When [the moment], I will [the action], with [which officer], by [date].' Keep it to one or two. Plans written as 'when X happens, I will do Y' make it noticeably more likely that people follow through. Please do not include names or personal details of other Brethren."
+    },
+    {
+     "title": "Thirty days on",
+     "kind": "reflection",
+     "minutes": 2,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Come back to this after you have tried your plan. Thirty days from now the Academy will send you one question: what did you try, and what happened? Your Assistant Provincial Mentor may ask the same over a coffee."
+      }
+     ],
+     "prompt": "What did you try? What happened? What would you do differently next time? Please do not include names or personal details of other Brethren."
+    }
+   ]
+  }
+ ]
+}

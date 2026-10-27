@@ -1,0 +1,736 @@
+{
+ "code": "E7a",
+ "issue": "Issue 3",
+ "issueDate": "November 2026",
+ "fileTitle": "The Mentoring Conversation",
+ "slug": "the-mentoring-conversation",
+ "title": "The Mentoring Conversation",
+ "summary": "A specialist course on the conversations that matter: listening, follow-up questions, helping a Brother make his own decisions, difficult conversations, keeping in touch at a distance, and keeping a minimal, safe record.",
+ "tier": "specialist",
+ "audiences": [
+  "personal_mentor",
+  "lodge_mentor"
+ ],
+ "audienceText": "Personal Mentors, Lodge Mentors, Proposers, Preceptors and anyone who supports another Brother one to one",
+ "stages": [],
+ "topics": [
+  "conversation",
+  "listening",
+  "questioning",
+  "decisions",
+  "difficult conversations",
+  "records"
+ ],
+ "level": "optional",
+ "principle": "support",
+ "minutes": 65,
+ "passMark": 75,
+ "completion": "Complete every required lesson and pass the final assessment at 75%. The warm-up quiz, the self-rating and the Lodge task are optional.",
+ "source": "The Mentoring Conversation Topic Course Draft for Development Issue 1, building on the Personal Mentor Course (E2), the Mentor Meeting Guide (D2), the Personal Mentor's Guide (B2), the Style, Terminology and Data Guide (A3, section 7) and West Lancashire's Mentor's Guide (v7).",
+ "changeSummary": [
+  "Positioned clearly as building on the Personal Mentor Course; open and closed questions are no longer taught from scratch.",
+  "Research on interrupting now uses the verified wording, with the context that the studies were of clinicians, not mentors.",
+  "Questioning lesson extended with questions that don't help and how to handle short answers.",
+  "Helping him decide now covers 'what would you do?', no steering in either direction, and signs of dependency; the scenario no longer favours taking office.",
+  "Difficult conversations now include a Brother thinking of leaving and when a conversation becomes a welfare matter.",
+  "Mentoring at a distance made practical: timing, rhythm, privacy of messages and group chats.",
+  "Record-keeping rewritten to follow A3 section 7 (draft): notes optional, minimal, factual, no opinions or sensitive details.",
+  "Assessment rewritten: twelve judgement questions, several with more than one good answer."
+ ],
+ "modules": [
+  {
+   "title": "About this course",
+   "summary": "What you will be able to do, and a quick check of where you are starting from.",
+   "lessons": [
+    {
+     "title": "What this course covers",
+     "kind": "content",
+     "minutes": 3,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "The Personal Mentor Course introduces open questions, listening and the shape of a one-to-one. This course picks up from there. It is about how to have the conversations that matter: the ones where a Brother tells you what he actually thinks, makes a decision he's comfortable with, or hears something difficult and still feels valued.\n\nNone of this is special to Freemasonry. Good coaches, managers, doctors and volunteers use the same skills, and all of them can be learned.\n\n### By the end of this course you will be able to\n\n1. Describe eight practical mentoring skills and pick the one you most want to improve.\n2. Let a Brother finish, play back what you heard, and follow up with questions that go further.\n3. Help him reach his own decision with a four-question conversation, without deciding for him or steering him.\n4. Prepare for and hold a difficult conversation, including feedback on ritual when he wants it.\n5. Keep in touch well by phone, message and video.\n6. Keep a minimal, safe note of your conversations, or decide you don't need one.\n\n### How it works\n\nA short warm-up, readings, two scenarios and a final assessment of twelve questions (pass mark 75%, and you can try again). The warm-up, the self-rating and the Lodge task are optional and private to you."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "Best taken after the Personal Mentor Course. It suits Personal Mentors, Lodge Mentors, Proposers, Preceptors and anyone who supports another Brother one to one."
+      }
+     ],
+     "devNotes": "Outcomes rewritten as actions. Framed explicitly as building on E2 so it does not re-teach open/closed questions from scratch."
+    },
+    {
+     "title": "Before you start",
+     "kind": "quiz",
+     "minutes": 3,
+     "required": false,
+     "isAssessment": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Five quick questions. They don't count. Answer honestly and notice which ones surprise you."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "true_false",
+       "prompt": "'Ninety-three per cent of communication is non-verbal' is a reliable finding you can use when mentoring.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. It's a popular myth.",
+       "feedbackIncorrect": "It's a myth, though a very common one.",
+       "explanation": "It comes from small 1960s studies by Albert Mehrabian about how people judge feelings from single spoken words, and he has said himself that it doesn't apply to conversation in general. Tone and body language matter, but so do the words. Listen to both."
+      },
+      {
+       "kind": "single",
+       "prompt": "In a conversation, what is a 'probing' question?",
+       "options": [
+        "A question that tests what he knows",
+        "A follow-up that goes further into something he has just said",
+        "A question about his private life"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. 'Tell me more about that' is the simplest probe.",
+       "feedbackIncorrect": "A probe follows up what he has just said: 'What was it about the meeting that felt odd?'",
+       "explanation": "Probes are how a conversation moves from polite to useful. They show you were listening, because they can only come from what he actually said."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "Research suggests that people who ask more follow-up questions in a conversation tend to be liked more by the person they are talking to.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "True.",
+       "feedbackIncorrect": "It's true, and it's useful to know.",
+       "explanation": "Researchers at Harvard (Huang and colleagues, 2017) found that people who asked more questions, especially follow-up questions, were liked more. Curiosity about the other person builds trust faster than advice."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother asks you, 'Should I take office this year?' What usually helps him most?",
+       "options": [
+        "Tell him what you would do",
+        "Help him work out what he wants, give him any facts he needs, and leave the decision with him",
+        "Tell him to ask the DC"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. A decision he reaches himself is one he is more likely to stick to.",
+       "feedbackIncorrect": "Advice has its place, but deciding for him, either way, can make him rely on you and may not fit his life.",
+       "explanation": "Module 4 gives you a simple four-question conversation for exactly this."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother has just done his first piece of ritual, and it didn't go perfectly. What should come first if you're going to talk about it?",
+       "options": [
+        "A list of what went wrong, while it's fresh",
+        "Asking him how he thought it went",
+        "Nothing: leave it to the DC"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. His view first.",
+       "feedbackIncorrect": "Ask him first. Most people already know what went wrong, and saying it themselves is easier than hearing it.",
+       "explanation": "And only if he wants feedback at all. Module 5 covers this."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The skills of a mentor",
+   "summary": "Eight practical skills, and an honest look at your own.",
+   "lessons": [
+    {
+     "title": "Eight skills",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Professional bodies such as the European Mentoring and Coaching Council (EMCC) publish competence frameworks for mentors. The Academy's eight skills draw on frameworks like these, cut down to what matters in a Lodge.\n\n| Skill | What it looks like in practice |\n|---|---|\n| 1. Building trust | You do what you say you'll do. You're discreet, and honest about the limits of confidentiality. You're the same man at the bar as in the Lodge. |\n| 2. Listening | You let him finish, notice tone and hesitation, and play back what you heard. |\n| 3. Questioning | You ask questions you can't predict the answer to, and follow up on what he says. |\n| 4. Noticing | You notice when something has changed for him, and ask, kindly, rather than assume. |\n| 5. Informing honestly | You give accurate information from Solomon and Provincial guidance, and say 'I don't know, but I'll find out' when you don't. |\n| 6. Encouraging independence | You help him decide rather than deciding for him. Over time he needs you less. |\n| 7. Knowing your limits | You recognise when something needs the Almoner, the Lodge Mentor or urgent help, and you don't try to carry it alone. |\n| 8. Following through | You book the next contact before you part, and you keep it. |\n\nNobody is strong at all eight, and you don't need to be. Most good mentors have two or three they do naturally and one or two they have to think about. Knowing which is which is half the battle."
+      }
+     ],
+     "devNotes": "Per facts.md E15: 'draw on frameworks such as the EMCC's'; the eight are the Academy's own. Graphic placeholder removed (not supported by the Hub's block types). Skill 1 now includes honesty about confidentiality; skill 4 reworded so noticing is not monitoring; skill 7 now includes urgent help."
+    },
+    {
+     "title": "Rate yourself",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Nobody sees this but you. The aim is to pick one skill to work on during this course, not to mark yourself.\n\nScore each skill from 1 (rarely) to 5 (almost always). If it helps, here is what a 5 might look like:\n\n- **Listening:** he finishes his thought before you speak, and when you play it back he says, 'Yes, exactly.'\n- **Questioning:** most of what he tells you comes in answer to your second or third question, not your first.\n- **Encouraging independence:** he brings you his thinking, not just his questions.\n- **Following through:** you can't remember the last time you said 'let's catch up soon' and didn't fix a time."
+      }
+     ],
+     "prompt": "Score yourself from 1 to 5 on each of the eight skills. Which is your strongest? Which one, if you improved it, would make the most difference to the Brethren you support? Write one thing you will do differently in your next conversation. This is about your own practice: please do not include names or personal details of other Brethren."
+    }
+   ]
+  },
+  {
+   "title": "Listening and questioning",
+   "summary": "Letting him finish, and the follow-up questions that turn a polite chat into a useful one.",
+   "lessons": [
+    {
+     "title": "Letting him finish",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Two studies from medicine are often quoted on this, so it's worth knowing what they actually found.\n\n- In a US study of 112 recorded consultations (published 2018, in print 2019), clinicians asked for the patient's concerns in only 36% of visits; when they did, two-thirds interrupted, after a median of 11 seconds (Singh Ospina and colleagues, Journal of General Internal Medicine).\n- In a Swiss outpatient clinic, 335 patients allowed to speak without interruption talked for 92 seconds on average, and 78% had finished within two minutes (Langewitz and colleagues, BMJ, 2002).\n\nThese were busy clinicians in short appointments, not mentors over a coffee, and nobody has measured how quickly Personal Mentors interrupt. But the two together make a fair point: even trained listeners cut in early, and people usually finish much sooner than we fear. Letting a man finish costs very little.\n\n### Why we interrupt\n\nWe think faster than people talk. We want to help. We have a story of our own. Each is well meant, and each tells him that what he was going to say matters less than what you were going to say.\n\n### Four habits\n\n1. **Let him finish, then pause.** The Personal Mentor Course suggests counting to three. What he adds after the pause is often the real point.\n2. **Play it back, including the feeling.** 'So the business meeting left you feeling a bit of a spare part?' If you've got it wrong, he'll tell you, which is just as useful.\n3. **Notice what he keeps coming back to,** and what he steers round. You don't have to raise it now. You may want to later.\n4. **Park your story.** If his experience reminds you of yours, save it. If he asks, tell it briefly and hand the conversation back."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "A useful check after any one-to-one: who did most of the talking? If it was him, you're probably doing it right."
+      }
+     ],
+     "devNotes": "Research figures now use facts.md approved wording 14 exactly (E10, E11), with the context that these were clinicians and that no study measured mentors. Removed 'Doctors are trained listeners. Most of us are worse', which overclaimed. The 'who did most of the talking' check is adapted from West Lancashire's Mentor's Guide (v7, s7.3)."
+    },
+    {
+     "title": "Beyond the open question",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "An open question gets the conversation going. What happens next decides whether it goes anywhere. A simple pattern helps: start wide, go deeper, check you've understood, then agree what happens next.\n\n| Type | What it does | Example |\n|---|---|---|\n| Open | Starts wide and lets him choose what matters | 'How have things been since the Installation?' |\n| Probing | Goes further into something he has just said | 'You said it felt a bit cliquey. What happened?' 'Tell me more.' |\n| Reflecting | Checks you've understood the feeling, not just the facts | 'It sounds as if you felt a bit left out.' |\n| Summarising | Pulls it together | 'So the timing is hard with work, and you'd like to know the agenda beforehand. Is that right?' |\n| Closed | Confirms a fact or a plan, usually at the end | 'Shall I ring you on Thursday?' |\n\nPeople who ask more questions, especially follow-up questions, are liked more by the person they are talking to (Huang and colleagues, Harvard, Journal of Personality and Social Psychology, 2017). Follow-ups work because they prove you were listening.\n\n### Questions that don't help\n\n- **Leading questions:** 'You enjoyed that, didn't you?' He'll agree, and you'll learn nothing.\n- **Stacked questions:** 'How was it, did you follow it, and are you coming to the Lodge of Instruction?' He'll answer the easiest one.\n- **'Why' questions about things he hasn't done:** 'Why didn't you come?' sounds like a charge. 'What's been going on?' doesn't.\n- **Questions with your advice inside:** 'Have you thought about just telling the DC?' Sometimes useful, but notice when you're steering.\n\n### When he gives you a short answer\n\n'Fine', 'Not bad', 'Just busy' are often polite holding answers. Pause, then try something easy and specific: 'Busy in a good way, or the other kind?' If he still doesn't want to talk, leave it. You've shown you're interested, and he knows the door is open."
+      }
+     ],
+     "devNotes": "Builds on E2 (open questions, the pause) rather than re-teaching them. Huang 2017 per facts.md E13 and approved wording 14."
+    }
+   ]
+  },
+  {
+   "title": "Helping him decide",
+   "summary": "A four-question conversation that leaves the decision with him.",
+   "lessons": [
+    {
+     "title": "Guide without creating dependency",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Sooner or later a Brother brings you a decision: whether to take office, whether to join the Royal Arch, whether to step back for a while because of work or family. The temptation is to tell him what you would do. The Guide principle asks for something better: accurate information and the confidence to decide for himself, without creating dependency.\n\nA sequence many coaches use, known as GROW and popularised by Sir John Whitmore, turns into four plain questions in a Lodge.\n\n| Step | The question | Lodge example |\n|---|---|---|\n| Goal | What would you like to happen? | 'If the next year went well for you, what would it look like?' |\n| Reality | What's the situation now? | 'How much time do you realistically have, with work and family?' |\n| Options | What could you do? | 'What are all the ways this could work? Yes, yes with help, not yet, something different?' |\n| Way forward | What will you do, and when? | 'Which feels right? What's the first step, and who do you need to talk to?' |\n\nYou won't use all four every time, and you certainly won't announce them. They are a shape to keep in your head.\n\n### Information is part of the role\n\nGive him facts when he needs them: what an office involves, what the Royal Arch is and when he is eligible, what the Lodge of Instruction offers. That is Guide. Then hand the decision back.\n\n### 'What would you do?'\n\nHe may ask you straight out. It's fine to answer, once he has done his own thinking, as long as you make clear it's your view and not the right answer: 'For what it's worth, I'd probably wait a year, but I've got different commitments from you.'\n\n### No steering, in either direction\n\nNever use these questions to lead him to the answer the Lodge needs, or to the path you took. If the Lodge needs a Junior Deacon and he needs a quiet year, his need comes first. Equally, don't talk a keen Brother out of office because you think he's busy. The Chair, office, ritual and the Royal Arch are all open to him, and none of them is expected.\n\n### Signs he is relying on you too much\n\nHe checks every small decision with you, or waits for you to tell him what's happening rather than finding out. That's natural early on. As he settles, hand questions back ('What do you think?'), point him to where he can find out for himself, and introduce him to others. The aim is that he needs you less."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "For conversations about the Royal Arch in particular, the topic course One Journey covers accurate terms and timing."
+      }
+     ],
+     "devNotes": "GROW 'popularised by' per facts.md E14. Added: answering 'what would you do?', no steering in either direction (office, Chair, Royal Arch), and practical signs of dependency. Slogan replaced with the idea (family and work first)."
+    },
+    {
+     "title": "Scenario: the office question",
+     "kind": "scenario",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Work through the conversation. Each choice shows how it is likely to play out."
+      }
+     ],
+     "scenario": {
+      "start": "g1",
+      "nodes": {
+       "g1": {
+        "text": "Over a coffee, a Brother you mentor, a Master Mason of eighteen months, says: 'The DC has asked if I'll be Inner Guard next year. I don't know. What do you think I should do?' What do you say first?",
+        "choices": [
+         {
+          "label": "'Before I say anything, what would you like to happen, if you could choose?'",
+          "next": "g2",
+          "feedback": "Goal first. You haven't refused to help, you've just started with his view rather than yours."
+         },
+         {
+          "label": "'Take it. It's the first step towards the Chair.'",
+          "next": "g1b",
+          "feedback": "That's your goal for him, not necessarily his. Not every Brother wants the Chair, and he hasn't said he does."
+         },
+         {
+          "label": "'I'd turn it down if I were you. You're busy enough.'",
+          "next": "g1b",
+          "feedback": "Kindly meant, but you've decided for him, and you may be wrong about what he wants."
+         }
+        ]
+       },
+       "g1b": {
+        "text": "He nods, but says little more. A few weeks later you hear that he told the DC something quite different from what you suggested, and he seems a bit awkward with you.",
+        "choices": [
+         {
+          "label": "At your next chat, ask him what he would actually like to happen.",
+          "next": "g2",
+          "feedback": "Recovered. Start again from his goal."
+         }
+        ]
+       },
+       "g2": {
+        "text": "He says: 'Part of me would like to do it, but I travel a lot for work at the moment, and I'm worried about learning the words.' What next?",
+        "choices": [
+         {
+          "label": "'Tell me about the travel: how often, and how much notice do you get?' Then: 'And what would help with the learning?'",
+          "next": "g3",
+          "feedback": "Reality: get the facts before looking for answers. Two separate worries, two separate questions."
+         },
+         {
+          "label": "'You'll be fine. Everyone worries about the words.'",
+          "next": "g2b",
+          "feedback": "Reassurance closes the conversation before the real issues are out, and the travel worry hasn't been touched."
+         }
+        ]
+       },
+       "g2b": {
+        "text": "He smiles politely and changes the subject.",
+        "choices": [
+         {
+          "label": "Go back to his worries and ask about each one.",
+          "next": "g3",
+          "feedback": "Good. The reassurance can come later, once you know what he's worried about."
+         }
+        ]
+       },
+       "g3": {
+        "text": "The travel is heavy until the spring, then eases. He thinks he could learn a short piece with help. Together you list the options: accept now and ask the Lodge of Instruction for help; ask the DC whether he could start a year later; ask about an office with less ritual; or say no for now. What do you do?",
+        "choices": [
+         {
+          "label": "'Which of those feels right to you? What would be the first step, and who do you need to talk to?'",
+          "next": "g4",
+          "feedback": "Way forward: his choice, his first step."
+         },
+         {
+          "label": "'Accepting now with help from the Lodge of Instruction sounds best to me.'",
+          "next": "g3b",
+          "feedback": "You may be right, but you've just made the decision you were helping him to make. If he wants your view, he can ask, and you can give it as yours."
+         }
+        ]
+       },
+       "g3b": {
+        "text": "He says, 'Maybe,' but doesn't sound convinced.",
+        "choices": [
+         {
+          "label": "Say, 'That's only my view. Which feels right to you?'",
+          "next": "g4",
+          "feedback": "Good. Handing it back is easy to do, even mid-conversation."
+         }
+        ]
+       },
+       "g4": {
+        "text": "He decides to ask the DC whether he could start the following year, when the travel eases, and to come to the Lodge of Instruction when he can in the meantime. He'll ring the DC on Sunday, and you agree to catch up the week after. Had he decided to accept now, or to say no altogether, that would have been just as good an outcome. The point is that he decided, with the facts he needed, and the DC hears it from him.",
+        "choices": []
+       }
+      }
+     },
+     "devNotes": "Reworked so the ending does not favour accepting office: the Brother chooses to defer, and the ending says accepting or declining would have been equally good. The understudy option was removed (uncommon practice and not verified)."
+    }
+   ]
+  },
+  {
+   "title": "Difficult conversations",
+   "summary": "A simple plan for hard conversations, and feedback that helps.",
+   "lessons": [
+    {
+     "title": "A plan for a hard conversation",
+     "kind": "content",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Most difficult conversations in a Lodge are one of a handful of kinds: ringing a Brother who has drifted away, talking to someone who feels overlooked or let down, feedback after a nervous piece of ritual, and hearing that someone is thinking of leaving. The same five steps work for all of them.\n\n1. **Prepare.** What do you know, and what don't you know? How do you want him to feel at the end? Usually: valued, and listened to.\n2. **Open warmly and plainly.** 'You were missed, and I wanted to see how you are.' Small talk that hides the purpose makes people wary.\n3. **Listen more than you speak.** Expect the first reason to be the polite one. Use your follow-up questions.\n4. **Acknowledge before you explain.** 'That sounds frustrating' comes before any explanation of why it happened.\n5. **Agree one next step, and do it.** Then ring back when you said you would.\n\n### When he feels let down by the Lodge\n\nDon't defend the Lodge, and don't agree that someone behaved badly either. Acknowledge how he feels, ask whether he'd be happy for you to take it to the Lodge Mentor, and come back to him with what will happen. He won't always get the answer he wants. He should always get an answer.\n\n### When he says he's thinking of leaving\n\nListen. Don't argue, and don't try to talk him out of it on the spot. Find out what's behind it, if he wants to tell you. Not every departure can or should be prevented, and some men leave for good reasons. Tell him you'd like to let the Lodge Mentor know, so that if there's something the Lodge could change, it can. The topic course Keeping Good Men covers this conversation in detail.\n\n### When it goes beyond your role\n\nNot every personal matter is a welfare matter: a new baby or a busy spell at work is just life. But if he tells you about something beyond what a friend can sensibly handle, such as money he can't manage, serious illness, caring for someone or a bereavement that is overwhelming him, listen, then ask whether he'd like the Almoner to be in touch. Involve the Almoner with his agreement, and tell the Lodge Mentor only what he needs, often just that support is in hand. Safety is different: if life may be at immediate risk, or you do not feel you can keep him safe, call 999; for an urgent mental health crisis that isn't immediately life-threatening, NHS 111, choosing the mental health option (option 2 in Hertfordshire). The topic course Welfare, Wellbeing and Knowing Your Limits covers this.\n\n### Feedback on ritual\n\nOnly if he wants it. Ask first: 'How did you feel it went?' Most men already know. Then one specific thing that went well and, if he asks, one thing to work on. Never in front of others, rarely on the night, and never a list. The Lodge remembers that he stood up and did it far longer than it remembers a prompt."
+      }
+     ],
+     "devNotes": "Added 'when he says he's thinking of leaving' (pointing to E7e) and 'when it goes beyond your role' (pointing to E7f). Added 'Only if he wants it' to feedback. Removed the line 'take it to the Lodge Mentor' without his agreement. QA (Issue 3): 'When it goes beyond your role' rewritten to match E7f's three kinds of conversation (not every mention of health or family is a welfare referral), E7f's 'support is in hand' line for the Lodge Mentor, and the safety actions in facts.md 15 (999; NHS 111 option 2)."
+    },
+    {
+     "title": "Scenario: after the stumble",
+     "kind": "scenario",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A short scenario about the night something didn't go to plan."
+      }
+     ],
+     "scenario": {
+      "start": "f1",
+      "nodes": {
+       "f1": {
+        "text": "A Brother you mentor delivered his first piece of ritual tonight. He dried twice and needed prompting. At the Festive Board he's unusually quiet. What do you do?",
+        "choices": [
+         {
+          "label": "Sit with him and ask quietly, 'How are you feeling about it?'",
+          "next": "f2",
+          "feedback": "His view first, and in private."
+         },
+         {
+          "label": "Tell him where he went wrong so he can put it right next time.",
+          "next": "f1b",
+          "feedback": "Too soon, and in public. Feedback he didn't ask for, on the night, rarely helps."
+         },
+         {
+          "label": "Say nothing about it; he'll want to forget it.",
+          "next": "f1c",
+          "feedback": "Understandable, but silence can feel like disapproval, especially to someone who is already embarrassed."
+         }
+        ]
+       },
+       "f1b": {
+        "text": "He goes red and says he doesn't think ritual is for him.",
+        "choices": [
+         {
+          "label": "Apologise for the timing, and ask him how he felt it went.",
+          "next": "f2",
+          "feedback": "Recoverable. The apology matters."
+         }
+        ]
+       },
+       "f1c": {
+        "text": "He leaves early. The next day he messages the DC to say he'd rather not do any more ritual.",
+        "choices": [
+         {
+          "label": "Ring him: say it took courage to stand up and do it, and ask how he's feeling.",
+          "next": "f2",
+          "feedback": "Good. A call, not a message, and his feelings before anything else."
+         }
+        ]
+       },
+       "f2": {
+        "text": "He says, 'I was mortified. Everyone must think I'm useless.' What do you say?",
+        "choices": [
+         {
+          "label": "Acknowledge it, then one true and specific positive: 'It's a horrible feeling. You were calm, and the opening was spot on, people noticed.' Then leave it with him.",
+          "next": "f3",
+          "feedback": "Acknowledge first, then something true and specific. Don't offer advice he hasn't asked for."
+         },
+         {
+          "label": "'Don't be daft, it was fine.'",
+          "next": "f2b",
+          "feedback": "Kind, but it dismisses how he feels, and he knows it wasn't quite fine."
+         }
+        ]
+       },
+       "f2b": {
+        "text": "He shrugs and changes the subject.",
+        "choices": [
+         {
+          "label": "Go back: 'Sorry, that was a bit quick of me. It's a rotten feeling, isn't it?'",
+          "next": "f2",
+          "feedback": "Good. Acknowledge the feeling and try again."
+         }
+        ]
+       },
+       "f3": {
+        "text": "He relaxes a little. A few days later he asks whether you'd go through his next piece with him before the Lodge of Instruction, and you agree a date. Feedback he asks for is feedback he'll use. Had he decided he'd rather not do more ritual, that would have been a perfectly good answer too, and your part would have been to make sure he knows his place in the Lodge doesn't depend on it.",
+        "choices": []
+       }
+      }
+     },
+     "devNotes": "Kept from Issue 1; ending now says declining further ritual is equally acceptable."
+    }
+   ]
+  },
+  {
+   "title": "Keeping in touch, and keeping a record",
+   "summary": "Phone, message and video in practice, and what, if anything, to write down.",
+   "lessons": [
+    {
+     "title": "Mentoring at a distance",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Plenty of mentoring happens between meetings, and some of it has to happen at a distance: men who travel, shift workers, Brethren who have moved away or are looking after someone at home.\n\n| Channel | Good for | Watch out for |\n|---|---|---|\n| Face to face | First one-to-ones, anything difficult or emotional | Pick somewhere he can talk freely. Not the bar on a Lodge night. |\n| Phone | Check-ins, the friendly call after he's missed a couple of meetings, quick questions | Ask 'Is now a good time?' first. Listen harder: you can't see his face. |\n| Message (text, WhatsApp) | Light touch: reminders, 'thinking of you', 'good luck tonight' | Tone is easily misread. Never deliver bad news or tackle a worry by message. |\n| Video | Men who travel or live some distance away | Fine for a regular one-to-one; a first meeting is better in person if you can. |\n\n### Practical habits\n\n- **Agree it early.** Ask how he'd like to keep in touch and roughly how often. UGLE's guidance suggests this conversation. Revisit it when his circumstances change.\n- **Let him choose the time.** Shift workers and men abroad can't always talk at seven in the evening.\n- **Short and regular beats long and rare.** A ten-minute call every few weeks keeps more going than an hour twice a year.\n- **Messages are for keeping in touch, not for conversations.** If a message reply suggests something is wrong, ring.\n- **If he goes quiet,** send one friendly message, then try a call. Don't send a stream of messages; that starts to feel like pressure.\n- **Keep it private.** Don't forward his messages or share screenshots, and keep anything personal out of Lodge group chats.\n- **Never discuss ritual signs, tokens or words** in writing, or on a call or video where anyone else might hear.\n- **When he's back,** make a point of seeing him in person, and make sure he isn't left alone at his first meeting back."
+      }
+     ],
+     "devNotes": "Made more practical: choosing the time, short and regular, what to do when he goes quiet, privacy of messages and group chats, the return to the Lodge. Agreeing contact preference is UGLE guidance (facts.md D19)."
+    },
+    {
+     "title": "A minimal, safe record",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "You don't have to keep notes as a Personal Mentor. Many good mentors keep nothing more than a date in their diary. If a note helps you remember what you agreed, keep it short, factual and safe.\n\n### If you keep a note\n\n- **Facts and actions only:** the date, how you were in touch, and anything agreed. 'Coffee 12 March. Talked about office; he'll ring the DC Sunday. Next call w/c 20 March.'\n- **No opinions about him.** Not 'seems unreliable' or 'not really committed'. Opinions are unfair to him and of no use to anyone else.\n- **Nothing about his health, money or family.** If you referred something to the Almoner, the most your note should say is 'referred to Almoner' and the date. Health information is 'special category' data under UK GDPR, with extra legal protection. Keep it out of mentoring records.\n- **Write it as if he'll read it.** He knows a mentoring plan is kept for him and can ask to see it.\n\n### Where it lives\n\nThe Lodge Mentor holds the Brother's Personal Mentoring Plan. Your own working notes should be kept to a minimum, kept securely (a locked phone or a notebook at home, not a shared folder), and not passed round. If you hand over to another Personal Mentor, talk to the Lodge Mentor about what, if anything, needs to pass on. Notes are not kept for ever: the Province's draft guidance is that plans are closed and securely destroyed within a set period after a Brother leaves."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "The Province's rules on mentoring records and personal data are set out in the Style, Terminology and Data Guide (A3), section 7, which is still a draft awaiting the Province's decision. What this lesson says follows that draft. If your Lodge Mentor has been given more specific guidance, follow it."
+      }
+     ],
+     "devNotes": "Rewritten to follow A3 s7 (draft): minimum necessary; Brother knows a plan exists and may see it; Lodge Mentor holds the plan; Personal Mentor's working notes kept to a minimum; not circulated; welfare only 'referred to Almoner'; destroyed after a defined period (recommended 12 months, not stated as a rule while draft). Removed Issue 1's 'shows that mentoring is happening' (record-keeping as proof) and 'share with the Provincial Grand Mentor's office'. Special category wording per facts.md F12."
+    }
+   ]
+  },
+  {
+   "title": "Assessment and your Lodge task",
+   "summary": "Check your understanding, then put one skill to work.",
+   "lessons": [
+    {
+     "title": "Final assessment",
+     "kind": "quiz",
+     "minutes": 10,
+     "required": true,
+     "isAssessment": true,
+     "passMark": 75,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Twelve questions, mostly situations. Where it says 'choose all that apply', pick every reasonable option. You need 75% to pass, and you can try again."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "single",
+       "prompt": "The Brother you mentor starts telling you about a bad evening at the Lodge. You had almost exactly the same experience years ago. What do you do?",
+       "options": [
+        "Tell him your story straight away, so he knows he isn't alone",
+        "Let him finish, play back what you heard, and keep your story unless he asks",
+        "Steer the conversation on to something more cheerful"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Park your story.",
+       "feedbackIncorrect": "Sharing straight away takes the conversation away from him, and changing the subject tells him it isn't welcome.",
+       "explanation": "Your story can be reassuring, but only once he has said what he needs to say. If he asks, tell it briefly and hand the conversation back: 'How does that compare with how you felt?'"
+      },
+      {
+       "kind": "single",
+       "prompt": "He says, 'It's fine, the Lodge is just a bit cliquey, that's all.' Which response is most useful?",
+       "options": [
+        "'Every Lodge has its groups; you'll find yours.'",
+        "'What's happened that's made it feel that way?'",
+        "'I don't think that's fair. Everyone's very friendly.'"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. A probe invites the specifics.",
+       "feedbackIncorrect": "Reassuring him or defending the Lodge closes the door before you know what happened.",
+       "explanation": "'Cliquey' could mean being talked across at dinner, not being introduced, or one particular remark. You can only help once you know which, and he'll only tell you if you ask without judging."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "The research on clinicians interrupting after a median of about eleven seconds shows that most people will talk for many minutes if they are not interrupted.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. The evidence points the other way.",
+       "feedbackIncorrect": "It's false. In a related study, people left uninterrupted mostly finished quite quickly.",
+       "explanation": "In the US study (Singh Ospina and colleagues), clinicians who asked about concerns interrupted after a median of 11 seconds. In a separate Swiss study (Langewitz and colleagues, BMJ 2002), patients allowed to speak without interruption talked for 92 seconds on average, and 78% had finished within two minutes. Both were about clinicians, not mentors, but the lesson carries: letting someone finish costs very little."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "You're coming to the end of a twenty-minute conversation over coffee. Which of these are good ways to close? Choose all that apply.",
+       "options": [
+        "Summarise what you've heard and check you've got it right",
+        "Agree when you'll next be in touch",
+        "Confirm any action with a short closed question, such as 'So you'll ring the DC on Sunday?'",
+        "Tell him your own story about the same thing",
+        "Ask 'Any questions?' and head off"
+       ],
+       "correct": [
+        0,
+        1,
+        2
+       ],
+       "feedbackCorrect": "Right. Summarise, check, and fix the next contact.",
+       "feedbackIncorrect": "Your own story belongs earlier, if at all, and 'Any questions?' usually gets 'no'.",
+       "explanation": "A summary shows you listened and catches misunderstandings. A closed question is exactly the right tool at the end, to confirm a plan. Booking the next contact before you part is what keeps a mentoring relationship going."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "He asks, 'Do you think I should take office next year?' Which of these are reasonable things to do? Choose all that apply.",
+       "options": [
+        "Ask what he'd like to happen before giving any view",
+        "Give him accurate information about what the office involves",
+        "If he still wants your view after thinking it through, give it, making clear it's your view and not the right answer",
+        "Tell him to take it, as it's the first step towards the Chair",
+        "Tell him to ask the DC and leave it at that"
+       ],
+       "correct": [
+        0,
+        1,
+        2
+       ],
+       "feedbackCorrect": "Right. Start with his view, inform, and only then offer yours as yours.",
+       "feedbackIncorrect": "Pushing him towards the Chair assumes what he wants, and sending him straight to the DC leaves him without the help he asked you for.",
+       "explanation": "Not every Brother wants the Chair, and taking office or not is his decision. A decision he reaches himself, with the facts he needs, is one he's more likely to stick to. The DC is the right person to tell once he has decided."
+      },
+      {
+       "kind": "single",
+       "prompt": "A recently Raised Brother asks whether he should join the Royal Arch now. Which response best fits the Guide principle?",
+       "options": [
+        "'Yes, the sooner the better.'",
+        "Give him accurate information, ask what he'd like and when, and leave the decision with him",
+        "'You should wait until you've been through the Chair.'"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Inform, then hand the decision back.",
+       "feedbackIncorrect": "One option pressures him; the other repeats a myth UGLE describes as based on outdated ideas.",
+       "explanation": "He is eligible four weeks after his Raising. UGLE describes the Royal Arch as the completion of the journey begun at Initiation, and when, or whether, he joins is his decision. The Royal Arch Representative can answer detailed questions when he's ready."
+      },
+      {
+       "kind": "single",
+       "prompt": "He tells you he feels he has been overlooked for office. What's your first move?",
+       "options": [
+        "Explain why the Lodge probably made that decision",
+        "Acknowledge how he feels, before anything else",
+        "Tell him to raise it at the next Committee meeting"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Acknowledge before you explain.",
+       "feedbackIncorrect": "Explanations or procedure first can sound as if you're taking the Lodge's side.",
+       "explanation": "Once he feels heard, find out more and ask whether he'd like you to take it to the Lodge Mentor. Then come back to him with an answer, even if it isn't the one he hoped for."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother has just done his first piece of ritual and stumbled. When is the right time to give him detailed feedback?",
+       "options": [
+        "Straight away at the Festive Board, while it's fresh",
+        "Only if he wants it, in private, after asking how he thought it went",
+        "Never: that's for the DC"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Invited, private, and his view first.",
+       "feedbackIncorrect": "Feedback on the night, in public, rarely helps, and saying nothing at all can feel like disapproval.",
+       "explanation": "Ask how he felt it went, offer one true and specific positive, and give one point to work on only if he asks. If he decides he'd rather not do more ritual, that's a legitimate choice."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "The Brother you mentor will be working abroad for several months. Which of these are sensible ways to keep in touch? Choose all that apply.",
+       "options": [
+        "Agree with him how and how often he'd like to keep in touch",
+        "Short, regular calls or video at a time that suits him",
+        "A message before each meeting so he knows he's thought of",
+        "Post his personal news in the Lodge WhatsApp group so everyone knows how he is",
+        "Send him a long email after every meeting and ask him to reply"
+       ],
+       "correct": [
+        0,
+        1,
+        2
+       ],
+       "feedbackCorrect": "Right. Agreed, regular, light and on his terms.",
+       "feedbackIncorrect": "His personal news is his to share, and long emails expecting a reply can start to feel like an obligation.",
+       "explanation": "Short and regular beats long and rare. Keep anything personal out of group chats, and never discuss ritual signs, tokens or words in writing or where others can hear. Make a point of seeing him in person when he's back."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "Which of these belong in a Personal Mentor's note of a conversation? Choose all that apply.",
+       "options": [
+        "The date and how you were in touch",
+        "'Talked about office; he'll ring the DC Sunday'",
+        "'Referred to Almoner', with the date",
+        "'Seems unreliable; wife not keen on Lodge'",
+        "A summary of the health worry he told you about"
+       ],
+       "correct": [
+        0,
+        1,
+        2
+       ],
+       "feedbackCorrect": "Right. Facts and actions, and no more than 'referred to Almoner' on welfare.",
+       "feedbackIncorrect": "Opinions about him, and details of his family or health, don't belong in a mentoring note.",
+       "explanation": "Health information is special category data with extra legal protection, and welfare details are the Almoner's to hold. Write every note as if he will read it: he knows a plan is kept and can ask to see it. You don't have to keep notes at all if a diary entry is enough."
+      },
+      {
+       "kind": "single",
+       "prompt": "A year after his Raising, the Brother you mentor still checks almost every small decision with you before he acts. What's the most helpful approach?",
+       "options": [
+        "Keep answering everything; it's what you're there for",
+        "Gently hand questions back ('What do you think?'), point him to where he can find out, and introduce him to others",
+        "Stop returning his calls so he learns to manage alone"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Encourage independence without withdrawing.",
+       "feedbackIncorrect": "Answering everything keeps him reliant on you, and going quiet on him would feel like being dropped.",
+       "explanation": "Relying on you is natural early on. As he settles, the aim is that he needs you less. Handing questions back, and widening his circle in the Lodge, builds his confidence while you stay the friend he can ring."
+      },
+      {
+       "kind": "single",
+       "prompt": "During a call he says, 'I'm thinking of packing it in.' What do you do?",
+       "options": [
+        "Tell him he'd be making a mistake, and remind him how much he'd miss it",
+        "Listen, find out what's behind it if he wants to tell you, and say you'd like to let the Lodge Mentor know",
+        "Tell him it's his decision and end the call"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Listen first, and involve the Lodge Mentor openly.",
+       "feedbackIncorrect": "Arguing can push him further away, and ending the call misses the chance to understand.",
+       "explanation": "Not every departure can or should be prevented, and some men leave for good reasons. But if something in the Lodge is the problem, the Lodge can sometimes change it. If he does resign, in Hertfordshire he has sixty days to withdraw it, and those sixty days are the time for a conversation. The topic course Keeping Good Men covers this in detail."
+      }
+     ]
+    },
+    {
+     "title": "Your Lodge task",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "This is where the course becomes a habit. In the next thirty days, choose one conversation with a Brother you mentor or support, and practise the skill you picked in the self-rating.\n\nBefore it, decide how you'd like him to feel at the end. During it, let him finish, use at least two follow-up questions, and keep your own story back unless he asks. Afterwards, come back and write it up.\n\nPlans written as 'when X happens, I will do Y' make it noticeably more likely that people follow through: a review of 94 studies found a medium-to-large effect (Gollwitzer and Sheeran, 2006). Your notes are private to you."
+      }
+     ],
+     "prompt": "Write your plan as 'When [the moment], I will [what you'll do].' Afterwards: what did you hear after a pause or a follow-up question that you might otherwise have missed? Which skill did you use best, and which least? This is about your own practice: please do not include names or personal details of other Brethren.",
+     "devNotes": "Implementation intentions wording per facts.md approved wording 14."
+    },
+    {
+     "title": "Thirty days on",
+     "kind": "reflection",
+     "minutes": 2,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Come back to this after your Lodge task. Thirty days from now the Academy will send you one question: what did you try, and what happened? Your Assistant Provincial Mentor may ask the same over a coffee."
+      }
+     ],
+     "prompt": "What did you try? What happened? What will you do differently next time? Please do not include names or personal details of other Brethren."
+    }
+   ]
+  }
+ ]
+}

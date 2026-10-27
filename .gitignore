@@ -1,0 +1,12 @@
+# macOS and editor clutter
+.DS_Store
+~$*
+.~lock*
+__pycache__/
+node_modules/
+
+# Local Claude settings
+.claude/settings.local.json
+
+# Personal data: keep out of Git (names, nominations, health details)
+F Culture and Communications/F4 Events and Awards/Mentor Awards 2026/Awards Nominations.xlsx

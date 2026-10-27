@@ -1,0 +1,628 @@
+{
+ "code": "E7c",
+ "issue": "Issue 3",
+ "issueDate": "November 2026",
+ "fileTitle": "Succession Planning",
+ "slug": "succession-planning",
+ "title": "Succession Planning",
+ "summary": "Planning the Lodge's offices kindly and flexibly: an office plan that records only roles and timing, readiness conversations that leave the decision with the Brother, and handing on the Lodge Mentor's role.",
+ "tier": "specialist",
+ "audiences": [
+  "lodge_mentor",
+  "all"
+ ],
+ "audienceText": "Lodge Mentors, Directors of Ceremonies, Worshipful Masters, Wardens and Lodge Committees",
+ "stages": [
+  "established"
+ ],
+ "topics": [
+  "succession",
+  "office",
+  "readiness",
+  "handover"
+ ],
+ "level": "optional",
+ "principle": "prepare",
+ "minutes": 65,
+ "passMark": 75,
+ "completion": "Complete the required lessons and the scenario, and pass the final assessment at 75%. The Before you start quiz, the reflection, the Lodge task and Thirty days on are optional.",
+ "source": "E7c Succession Planning, Topic Course Draft for Development Issue 1 (October 2026), which built on the Lodge Mentor's Guide, E6a The Chair and Beyond, the officer guides and the PGLH Secretaries' Handbook. Checked against the verified facts register (26 October 2026), the Book of Constitutions (2026), the Lodge Director of Ceremonies Guide (October 2025) and UGLE Members' Pathway paper Stewardship (August 2021, now part of Building Together).",
+ "changeSummary": [
+  "Shortened from about 75 to about 65 minutes including the optional activities; the facts lesson now covers only what a planner needs and points to The Chair and Beyond for the rest.",
+  "States plainly that an office plan must never become a mechanism for pressuring members, and that office is discussed, never assumed.",
+  "The plan now records only roles and intended timing, agreed with each Brother; private circumstances are never written down or shared at Committee.",
+  "The readiness conversation now includes a realistic picture of time, cost and commitment, and options including 'nothing for now'.",
+  "The scenario's facts corrected (Rules 105(a), 109, 115); it now also tests asking privately and keeping a Brother's reasons out of the Committee.",
+  "The Board of General Purposes tenure recommendation is attributed to Metropolitan Grand Lodge's report of it; the factual quiz question on it is replaced by a judgement question.",
+  "The After the Chair lesson is cut to a short note on Past Masters in the plan, pointing to The Chair and Beyond.",
+  "Reflections and the Lodge task no longer ask for names: the named plan is done on paper with the DC and Master."
+ ],
+ "modules": [
+  {
+   "title": "About this course",
+   "summary": "What the course covers, and a quick check of where you are starting from.",
+   "lessons": [
+    {
+     "title": "What this course covers",
+     "kind": "content",
+     "minutes": 3,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Every Lodge has a succession plan of some sort. In some it is talked about openly. In many it lives in the DC's head and comes to light at the Committee when someone drops out. This course is about making it visible, flexible and fair, so that nobody is hurried into office and nobody who would like to do more is forgotten. It also covers the role Lodge Mentors tend not to plan for: their own.\n\nIt is for Lodge Mentors, Directors of Ceremonies, Masters, Wardens and Lodge Committees: anyone who has a hand in who does what in a Lodge. It builds on the foundation course The Chair and Beyond, which holds the constitutional facts about the Chair and covers the year after it. This course uses those facts only where they affect a plan.\n\n### By the end of this course you will be able to\n\n1. Explain why the office line is a mentoring matter as much as an administrative one.\n2. Build a simple, flexible Lodge office plan with the DC and the Master, recording only roles and intended timing.\n3. Have a readiness conversation with a Brother that gives him a realistic picture and leaves the decision with him.\n4. Allow for the rules that affect planning: Wardens' service, dispensations and a Master's second year.\n5. Hand on the Lodge Mentor's role well, and help a successor learn it.\n\n### How the course works\n\n| Part | What it is |\n|---|---|\n| Before you start | Four quick questions. They do not count. |\n| The lessons | Short readings, an optional private reflection and one branching scenario. |\n| Final assessment | Ten questions, most of them situations. Pass mark 75%. You can try again. |\n| Your Lodge task and thirty days on | Optional. Something to do in your Lodge, and a short look back a month later. |\n\nYour progress is saved, so you can stop and come back."
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "An office plan is a tool for looking after Brethren, not for managing them. It must never become a way of pressuring anyone into office, into more ritual, or into a timetable that does not suit him. If a plan starts to feel like pressure to the Brethren in it, the plan is wrong, not the Brethren."
+      }
+     ]
+    },
+    {
+     "title": "Before you start",
+     "kind": "quiz",
+     "minutes": 2,
+     "required": false,
+     "isAssessment": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Four questions to see where you are starting from. They do not count towards completion."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "true_false",
+       "prompt": "A Warden invested one meeting after the Installation can be elected Master the following year without any special permission.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. He needs a dispensation, which is not automatic.",
+       "feedbackIncorrect": "He has not served a full year, so he needs a dispensation.",
+       "explanation": "Rules 105(a) and 109 require a full year's service, Installation meeting to Installation meeting. A Warden invested late needs a dispensation from the Provincial Grand Master, granted on petition and not automatic. The Chair and Beyond has the full wording."
+      },
+      {
+       "kind": "single",
+       "prompt": "What does 'pressure at both ends' of the office line mean?",
+       "options": [
+        "The Master and the DC pulling in different directions",
+        "Hurrying a Brother before he is ready, or leaving a Brother who would like to do more without anyone asking",
+        "Having too many candidates one year and too few the next"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Both can lose a Lodge good men.",
+       "feedbackIncorrect": "It means hurrying a Brother, or forgetting one who would like to do more.",
+       "explanation": "Some Brethren are given responsibilities before they are ready; others would happily do more but are never asked. The answer to both is the same: know the individual and talk to him."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "A Lodge office plan should note the reason a Brother is stepping back, so that the Committee understands.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. The plan records roles and intended timing only.",
+       "feedbackIncorrect": "It should not. His reasons are his own.",
+       "explanation": "A Brother's health, family, money or work circumstances are never written into an office plan or shared at Committee. The plan shows what he has agreed: the role, if any, and the intended timing."
+      },
+      {
+       "kind": "single",
+       "prompt": "When should a Lodge Mentor start thinking about his successor?",
+       "options": [
+        "In his last year",
+        "From his first year or so",
+        "When the Province asks"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Early, and without fuss.",
+       "feedbackIncorrect": "From early on. A successor takes time to find and to learn the role.",
+       "explanation": "The Province recommends three to five years in the role. That is not long, and the best successors are usually spotted by watching who does the work well. Module 5 covers this."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Why succession is a mentoring matter",
+   "summary": "Pressure at both ends of the line, and what other volunteer organisations do.",
+   "lessons": [
+    {
+     "title": "Both ends of the line",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Most Lodges think of succession as filling chairs. Mentors see a bit more than that: how office is offered, and to whom, has a lot to do with whether Brethren enjoy their Freemasonry.\n\nThings can go wrong in either direction. A Brother pressed into office before he has found his feet may quietly decide that Freemasonry is not for him. A Brother who waits years without anyone asking what he would like to do can reach the same conclusion by a different road. Neither does the Brother or the Lodge any good.\n\n| Hurried | Never asked |\n|---|---|\n| Offered office before he has settled in | Several years a Master Mason and nobody has asked what he would like to do |\n| Ritual beyond his confidence, with no help offered | A Past Master with nothing to do, who would welcome something |\n| Moved up quickly because the Lodge is short | A joining member whose experience nobody uses |\n| Feels he cannot say no | Feels nobody would notice if he stopped coming |\n\nTwo cautions. First, this table describes situations, not people: a Brother who has never held office may be perfectly content, and a Brother who rose quickly may have loved every minute. Second, the only way to know which is which is to ask him.\n\n### The individual comes first\n\nSome Brethren want ritual, office and the Chair. Others prefer the meetings, the friendships, the charity work or the social side. Some want more involvement, some want less, and the same Brother may want different things at different times of his life. All of that is legitimate. A good plan works around the Brethren, not the other way round.\n\nThe Province puts family and connections first, then Masonry. That is the test for any office plan: does it fit the lives of the Brethren in it?\n\n### When the Lodge is short of men\n\nLodges that are short of men are tempted to hurry the few they have. If your Lodge genuinely cannot fill its offices, talk early to your Assistant Provincial Mentor and your Assistant Provincial Grand Master. There are options, including Past Masters serving again and help from other Lodges, and none of them involves pushing a Brother who is not ready."
+      }
+     ],
+     "devNotes": "QA (Issue 3): opening paragraph reworded; it reproduced the brief's example sentence, which three other courses also echo."
+    },
+    {
+     "title": "What other volunteer organisations do",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Sports clubs, charities and community groups have the same problem as Lodges: a few people hold the key roles for years, and when they stop, the knowledge goes with them. The well-run ones share some habits.\n\n- **A longer view.** Swim Ireland's guidance to its clubs, for example, asks them to plan key roles five to ten years ahead.\n- **Honest role descriptions,** so that people can choose with their eyes open.\n- **A picture of strengths,** so that the right person is asked, not just the next person.\n- **Shadowing before handover,** so that the successor sees the work done before he does it.\n- **Written notes that a newcomer could pick up.**\n- **Sensible limits on tenure.** The Charity Governance Code recommends that trustees do not serve more than nine years without good reason.\n\nThere is a Masonic parallel on tenure. Metropolitan Grand Lodge's Mentor's Handbook (2025) records a Board of General Purposes recommendation that nobody should hold an office for more than five years, seven at the outside. We have not been able to see the original recommendation, so treat it as guidance reported by London rather than a rule. Either way, the sensible point stands: a long-held office can block those who would like a turn, and the holder may also be glad of help or a successor.\n\nA Lodge already has most of these. The officer guides describe the roles, the Lodge of Instruction is shadowing, and the progressive offices are a built-in apprenticeship. The Lodge Director of Ceremonies Guide even suggests a path for the DC himself: two years as Assistant DC, three to five as DC, then a year supporting his successor. What a Lodge often lacks is a simple written plan and the conversations behind it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The office plan",
+   "summary": "A simple, flexible plan that records only roles and intended timing.",
+   "lessons": [
+    {
+     "title": "Building a Lodge office plan",
+     "kind": "content",
+     "minutes": 7,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A Lodge office plan is a simple picture of who is likely to hold which office over the next few years, agreed with the Brethren concerned. It helps the Lodge see gaps early, and helps each Brother know where he stands. Here is one way to build it.\n\n1. **Start with conversations, not a list.** Before anything is written, the people who know each Brother best (often his Personal Mentor or the Lodge Mentor) find out in ordinary conversation how he feels about office. Some will want the line, some a role outside it, some nothing in particular for now.\n2. **Map the offices.** With the DC and the Master, set out the offices from Steward to Master, and the other roles that matter (Almoner, Charity Steward, Secretary, Treasurer, DC, Lodge Mentor, Royal Arch Representative), for this year and the next few.\n3. **Look for gaps and timing.** Where does the line thin out, and when? Has any office been held by the same Brother for a long time, and would he welcome help or a successor? Is anyone who has said he would like to do more still waiting?\n4. **Talk to each Brother before his name goes anywhere.** Not \"You're Junior Deacon next year\", but \"How would you feel about office, and what would help?\" (Module 4.)\n5. **Write down only what has been agreed.** Roles and intended timing, agreed with each Brother. Share it with those who hold it, look at it again every year after the Installation, and change it whenever a Brother's wishes or circumstances change.\n\n### What the plan records, and what it does not\n\nThe plan records roles and intended timing, and nothing else. Private circumstances (health, family, money, work troubles) are never written into an office plan and never discussed at the Committee. If a Brother has asked to wait a year, the plan says he is not taking office this year and when you will talk again. It does not say why.\n\nWho holds it: the DC, the Master and the Lodge Mentor, together. The Committee can see the outline of offices and timing, which is what it needs to plan. Each Brother should know what the plan says about him, and nothing in it should surprise him.\n\n### Keep it flexible\n\nPlans change, and that is fine. Brethren move house, change jobs, have children, care for parents, fall ill and recover. A plan that is rewritten every year is working properly. A Brother is never held to a line on a page."
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "An office plan must never become a mechanism for pressuring members. Nobody should be told that he is 'down for' an office he has not agreed to, that he will 'lose his place' if he steps back, or that the Lodge 'needs him' when he has said no. Being in a plan is not a commitment; it is a conversation that has been written down."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "A simple grid works well: offices down the side, the next few years across the top, and in each cell the role and intended timing as agreed. Mark cells 'agreed', 'to talk about' or 'open'. Keep it on paper or in the Lodge's own records, not in the Academy."
+      }
+     ]
+    },
+    {
+     "title": "Reflection: the shape of your Lodge's line",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "This reflection is about the shape of your Lodge's office line, not about individuals. Do the named version on paper with your DC and Master, or at the Committee, not here."
+      }
+     ],
+     "prompt": "Over the next five years, roughly how many progressive offices does your Lodge need to fill each year, and how many Brethren have said they would like to progress? Where are the gaps, and in which year does the line look most likely to break? Are there any offices that have been held for a long time and might need a successor in view? What is the first conversation that needs to happen, and who is best placed to have it? Please do not include names or personal details of other Brethren."
+    }
+   ]
+  },
+  {
+   "title": "Readiness conversations",
+   "summary": "Asking, not assuming, and giving an honest picture.",
+   "lessons": [
+    {
+     "title": "The readiness conversation",
+     "kind": "content",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Before any Brother is offered office, someone who knows him well, usually his Personal Mentor or the Lodge Mentor, should have a quiet conversation with him. Not an announcement: a conversation. UGLE's guidance puts it simply: talk to him about Lodge offices and the best time for him to accept one, and make sure his progress suits his circumstances and needs, not just the Lodge's.\n\n### Questions that work\n\n- \"How are you finding the Lodge at the moment?\"\n- \"Have you thought about office? What appeals, and what worries you?\"\n- \"How does the next year or two look for you?\"\n- \"If you did take an office, what would help: a ritual partner, the Lodge of Instruction, a gentler start?\"\n- \"Is there a role you might enjoy more than the progressive line?\"\n\nNotice that none of these asks him to explain his private life. If he chooses to tell you about family, work or health, listen; you do not need to ask.\n\n### Tell him the truth about what is involved\n\n- **Time:** meetings, rehearsals, the Lodge of Instruction, and the learning itself. Ask the DC what the line usually takes in your Lodge.\n- **Cost:** dining, regalia, visiting, and in due course the Installation and the charity side. The Treasurer can give your Lodge's own figures.\n- **Commitment:** the progressive line is several years, and the Chair itself is a busy year. Say so plainly.\n\nA Brother who says yes with his eyes open is much more likely to enjoy it. A Brother who says no with his eyes open has made a good decision too.\n\n### Options between yes and no\n\n- Accept, with help: a ritual partner, time at the Lodge of Instruction, or a longer piece shared with a Past Master.\n- Wait a year, with a date to talk again.\n- A role outside the progressive line that uses his talents.\n- Step out of the line for a season, with the door clearly left open.\n- Nothing at all for now. That is allowed.\n\n### What happens to what he tells you\n\nWhat a Brother says in a readiness conversation is said in confidence. Agree with him what can be passed on, which is usually just his answer: \"He'd like to wait a year and talk again in the spring.\" If he tells you something that suggests he may need help, the Almoner can talk to him privately, normally with his agreement. The topic course Welfare, Wellbeing and Knowing Your Limits covers that."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "Family and connections first, then Masonry. A Brother who steps back for his family this year may give the Lodge many good years later. Tell him so, and mean it."
+      }
+     ],
+     "devNotes": "QA (Issue 3): 'understudy' replaced with ritual help that Lodges commonly use, to match The Mentoring Conversation (which dropped the understudy as uncommon and unverified)."
+    },
+    {
+     "title": "Scenario: the line breaks",
+     "kind": "scenario",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Work through what you would do. There is no score: each choice shows how it is likely to play out. The Installation in this Lodge is in November."
+      }
+     ],
+     "scenario": {
+      "start": "l1",
+      "nodes": {
+       "l1": {
+        "text": "In March, the Senior Warden tells the Master he is moving abroad for work in the summer. The Junior Warden was invested at the December meeting, a month after the Installation. At the Committee someone says, 'Easy: just move everyone up.' You are the Lodge Mentor. What do you suggest first?",
+        "choices": [
+         {
+          "label": "Check the rules with the Secretary before anyone is promised anything: a Warden needs a full year's service to be elected Master unless a dispensation is granted.",
+          "next": "l2",
+          "feedback": "Facts first. Under Rules 105(a) and 109 the Junior Warden will not have served a full year by November, and a dispensation is not automatic. Checking now saves a public U-turn later."
+         },
+         {
+          "label": "Agree to move everyone up and sort out the paperwork afterwards.",
+          "next": "l1b",
+          "feedback": "It sounds efficient, but promises made before the rules are checked often have to be broken, in front of everyone."
+         },
+         {
+          "label": "Ask the Junior Warden, there at the Committee, whether he is happy to step up.",
+          "next": "l1c",
+          "feedback": "Asking him is right; asking him in front of the Committee is not. It is very hard to say no in a room full of senior Brethren."
+         }
+        ]
+       },
+       "l1b": {
+        "text": "Two Brethren are told they are moving up. The Secretary then points out that the Junior Warden will not have served a full year by November and that a dispensation is not guaranteed. Both men are embarrassed.",
+        "choices": [
+         {
+          "label": "Apologise to both, and go back to the facts and the options before anything else is said.",
+          "next": "l2",
+          "feedback": "Recoverable, at some cost. Be open that the Lodge got ahead of itself."
+         }
+        ]
+       },
+       "l1c": {
+        "text": "He says yes in front of everyone. A week later he tells his Personal Mentor that he felt cornered and is not sure he is ready.",
+        "choices": [
+         {
+          "label": "Arrange a private conversation with him, and make clear that 'not this year' is a perfectly good answer.",
+          "next": "l3",
+          "feedback": "Good. A yes given under pressure is not really a yes. Give him the chance to answer properly."
+         }
+        ]
+       },
+       "l2": {
+        "text": "The options, once checked, are: petition for a dispensation for the Junior Warden; ask a Past Master to serve as Master again for a year; or ask the current Master whether he would serve a second year, if elected. What next?",
+        "choices": [
+         {
+          "label": "Talk privately to each Brother affected, starting with the Junior Warden: what would he like, and does he feel ready for November?",
+          "next": "l3",
+          "feedback": "Right. The Brother's readiness and wishes, not the Lodge timetable, should decide."
+         },
+         {
+          "label": "Choose the option that is simplest for the Lodge and announce it at the next meeting.",
+          "next": "l2b",
+          "feedback": "Simplest for the Lodge may be hardest for the Brother. Nobody has been asked yet."
+         }
+        ]
+       },
+       "l2b": {
+        "text": "The Junior Warden is told he will be Master in November, subject to a dispensation. He tells his Personal Mentor privately that he is anxious about it and is wondering whether to leave the line altogether.",
+        "choices": [
+         {
+          "label": "Go back and have the readiness conversation that was skipped.",
+          "next": "l3",
+          "feedback": "Recoverable. Being hurried is one of the commonest reasons a Brother loses heart. Reopen the decision properly."
+         }
+        ]
+       },
+       "l3": {
+        "text": "The Junior Warden says he would very much like to be Master, but not this November: there is a lot going on at home and he would rather not go into it. A respected Past Master offers to take the Chair for a year, so that the Junior Warden can follow in the normal way. What do you do?",
+        "choices": [
+         {
+          "label": "Thank the Past Master, agree the outline with the Master and DC, update the plan to show roles and timing only, and tell each Brother in the line personally before the Committee.",
+          "next": "l4",
+          "feedback": "Right. Everyone affected hears it from a person, not a minute, and the Junior Warden's reasons stay with him."
+         },
+         {
+          "label": "Explain the Junior Warden's home situation at the Committee, so that nobody thinks he is letting the Lodge down.",
+          "next": "l3b",
+          "feedback": "Kindly meant, but he told you he would rather not go into it. The Committee needs to know the arrangement, not his reasons."
+         }
+        ]
+       },
+       "l3b": {
+        "text": "Word gets back to the Junior Warden that his home life was discussed at the Committee. He is upset and says he feels exposed.",
+        "choices": [
+         {
+          "label": "Apologise to him in person, and agree exactly what will be said about him from now on.",
+          "next": "l4",
+          "feedback": "An honest apology helps. The lesson: private circumstances are never shared at the Committee, however good the intention."
+         }
+        ]
+       },
+       "l4": {
+        "text": "The plan is settled. One loose end remains: the Senior Warden who is moving abroad.",
+        "choices": [
+         {
+          "label": "Make sure he is properly thanked, and help him find a Lodge where he is going, with the Secretary and the Provincial Office.",
+          "next": "end_good",
+          "feedback": "Good. A Brother who moves away is not a loss to Freemasonry if he is helped to find a new Lodge. Keeping Good Men covers moving Brethren to new Lodges."
+         },
+         {
+          "label": "Leave it to him: he will sort himself out when he gets there.",
+          "next": "end_ok",
+          "feedback": "He may, but many Brethren who move never quite get round to it. A little help now makes a big difference."
+         }
+        ]
+       },
+       "end_good": {
+        "text": "The line holds without anyone being hurried. The Past Master enjoys his extra year, the Junior Warden follows when he is ready, his reasons stay his own, and the departing Senior Warden leaves with the Lodge's thanks and an introduction to a Lodge abroad. The plan is updated, and everyone in it has heard about it from a person.",
+        "choices": []
+       },
+       "end_ok": {
+        "text": "The line holds and nobody has been hurried, which is the main thing. What was missed: the departing Senior Warden was left to find a new Lodge on his own. An introduction through the Secretary and the Provincial Office would have made it far more likely that he carries on in Freemasonry abroad.",
+        "choices": []
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "title": "Rules that affect a plan",
+   "summary": "What a planner needs from the Book of Constitutions, with The Chair and Beyond holding the rest.",
+   "lessons": [
+    {
+     "title": "Rules that affect a plan",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A few rules decide what a plan can and cannot do. The foundation course The Chair and Beyond sets out the constitutional facts about the Chair in full; here is what a planner needs.\n\n| The rule | What it means for your plan |\n|---|---|\n| A Warden must have served a full year, from one regular Installation meeting to the next, to be elected Master (Rules 105(a) and 109) | A Warden invested late cannot simply move up. A dispensation from the Provincial Grand Master may be possible on petition, but it is not automatic. Promise nothing until it is granted. |\n| Dispensations go through Hermes to the Provincial Grand Secretary, three weeks to three months ahead, before the summons is printed (Secretaries' Handbook) | If the plan depends on one, spot it early. A fee applies. |\n| A Master may serve two years in succession if he is elected again; a third consecutive year needs a dispensation given only in cases of necessity (Rule 115) | A second year can bridge a gap, but it is a big ask of the Master and his family. Ask him privately first. |\n| The Immediate Past Master is not an officer of the Lodge (Rule 104(f)) | Give Past Masters a column in the plan, if they want one. The Chair and Beyond covers the year after the Chair. |\n| At least four weeks between a Brother's degrees, with no dispensation to shorten it in advance (Rule 172) | It affects when newer Brethren could start in office. Four weeks is a minimum, not a target: readiness decides. |\n\nA Past Master of the Lodge is eligible to be elected Master again, which is often the kindest way to bridge a gap without hurrying anyone."
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "Rules, fees and procedures change. Check the current Book of Constitutions and Secretaries' Handbook, and ask your Secretary, before the plan relies on any of them."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Handing on roles",
+   "summary": "Your own succession as Lodge Mentor, and Past Masters in the plan.",
+   "lessons": [
+    {
+     "title": "Handing on the Lodge Mentor's role",
+     "kind": "content",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "The Province recommends that a Lodge Mentor serves three to five years. That is a recommendation, not a rule, and it means your successor should be found, and learning, well before you step down. The measure of your work is what mentoring looks like in your Lodge after you.\n\nThe foundation course Lodge Mentor Essentials introduces this. Here is how it might go in practice. Treat the timing as a guide, not a timetable.\n\n| When | What to do |\n|---|---|\n| Early on | Notice which Personal Mentors do the role well and enjoy it: the one who keeps in touch without being reminded is often your best candidate. |\n| Midway | Offer him a piece of the work if he would like it: arranging summer contact, or helping brief a new Personal Mentor. Bring him to the monthly mentoring call. |\n| When you are both ready | Ask him, privately, with an honest picture of the time involved. If he agrees, tell the Master and your Assistant Provincial Mentor. Let him work alongside you for a while. |\n| Before you hand over | Make sure he has done, or booked, the Lodge Mentor Essentials course. |\n| Handover | Pass on the Personal Mentoring Plans, the list of who is mentoring whom, a short note of who does what, and any open matters. Introduce him to the Almoner, the Secretary and your Assistant Provincial Mentor. Keep no copies. |\n\nIf he says no, that is fine. Thank him and keep looking. A reluctant Lodge Mentor helps nobody.\n\n### Handing over records properly\n\nPersonal Mentoring Plans pass to the incoming Lodge Mentor when the office changes. Welfare matters are the Almoner's records, not the mentoring plan's, which may note \"referred to Almoner\" and no more, so there is nothing of that kind for you to pass on. Review the records before you hand them over, and securely destroy anything no longer needed under the Province's guidance. Do not keep your own copies \"just in case\".\n\n### Do the same for others\n\nWhat works for the Lodge Mentor works for the DC, the Secretary, the Almoner and the Treasurer. Each of those roles is easier to hand on if someone has been helping alongside for a while."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "Write a one-page handover note now, even if you are years from stepping down. If you were unwell tomorrow, could someone pick up your Lodge's mentoring? If not, that is the first thing to do."
+      }
+     ]
+    },
+    {
+     "title": "Past Masters in the plan",
+     "kind": "content",
+     "minutes": 2,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A good office plan has room for Past Masters, not just for the progressive line. Some Past Masters want a quieter time after the Chair; others would welcome a role as Personal Mentor, Preceptor, Almoner, Charity Steward, Lodge Mentor or on a project. Ask, then show what has been agreed in the plan like any other role.\n\nPast Masters also matter when the line breaks: one who is willing to serve as Master again can bridge a gap without hurrying anyone.\n\nThe foundation course The Chair and Beyond covers the year after the Chair, and the Immediate Past Master's position, in full."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Assessment and your Lodge task",
+   "summary": "Show what you know, then put it to work.",
+   "lessons": [
+    {
+     "title": "Final assessment",
+     "kind": "quiz",
+     "minutes": 10,
+     "required": true,
+     "isAssessment": true,
+     "passMark": 75,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Ten questions, most of them situations. You need 75% to pass, and you can try again. Where more than one answer is reasonable, you will be asked to choose all that apply."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "single",
+       "prompt": "Why is the Lodge office line a mentoring matter, and not only an administrative one?",
+       "options": [
+        "Because the Lodge Mentor decides who holds each office",
+        "Because how office is offered, and to whom, has a lot to do with whether Brethren enjoy their Freemasonry and stay involved",
+        "Because every Brother should be helped to reach the Chair"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Hurried or forgotten Brethren can both lose heart.",
+       "feedbackIncorrect": "The office line affects whether Brethren enjoy the Lodge. The Lodge Mentor does not decide office, and not every Brother wants the Chair.",
+       "explanation": "The Lodge Mentor contributes to the plan with the DC and the Master; he does not decide it. And the aim is not to get everyone to the Chair, but to make sure each Brother's involvement suits him. Ask, do not assume."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother has been a Steward for four years. Two years ago he told the DC he would like to progress, and nothing has happened since. Lately he jokes about being 'the permanent Steward'. What is the best first step?",
+       "options": [
+        "Tell him kindly that the line is full and he will need to wait his turn",
+        "Talk to him privately about what he would like now, then look at the office plan with the DC and the Master, and come back to him with an honest answer",
+        "Move him into the line at the next Installation, ahead of the Brother already due to go up",
+        "Leave it: if it really mattered to him he would raise it at the Committee"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Ask him first, then plan, then give him a straight answer.",
+       "feedbackIncorrect": "He has already asked once. The kind thing now is a private conversation and an honest answer.",
+       "explanation": "This is the 'never asked' end of the line: a Brother who said he would like to do more and has heard nothing. A joke like that often hides real disappointment. Find out what he wants now (his wishes may have changed), look at the plan with the DC and the Master, and tell him honestly what is possible and when, including roles outside the line. Telling him to wait his turn closes the conversation; jumping him ahead of another Brother creates a new grievance; waiting for him to raise it formally asks him to make a fuss he is clearly reluctant to make."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "Which of these belong in a Lodge office plan? Choose all that apply.",
+       "options": [
+        "The roles each Brother has agreed to, and the intended timing",
+        "A note that a Brother is not taking office this year, and when you will talk again",
+        "A note of the health or family reasons a Brother has given for stepping back",
+        "Your private view of which Brethren are not up to office"
+       ],
+       "correct": [
+        0,
+        1
+       ],
+       "feedbackCorrect": "Right. Roles and intended timing, agreed with each Brother.",
+       "feedbackIncorrect": "Only the roles and timing agreed with each Brother belong in the plan.",
+       "explanation": "Private circumstances are never written into an office plan or shared at Committee, and the plan is not a place for opinions about people. Each Brother should be able to see what it says about him without any surprise. Anything personal stays with him, and with the Almoner if he wants help."
+      },
+      {
+       "kind": "single",
+       "prompt": "At the Committee, a senior Past Master says of a young Master Mason, 'Put him down for Steward. He won't say no.' What is the best response?",
+       "options": [
+        "Agree: he probably will enjoy it once he starts",
+        "Say that someone who knows him will ask him first, and that 'no' or 'not yet' will be respected",
+        "Put him down provisionally and tell him later"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Office is discussed with a Brother, never assumed.",
+       "feedbackIncorrect": "Being unlikely to say no is exactly why he must be asked properly first.",
+       "explanation": "'He won't say no' is a warning sign, not a reason. A Brother who feels he cannot refuse is under pressure, and an office plan must never become a mechanism for that. Ask him privately, give him a realistic picture of the time and commitment, and accept his answer."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "A dispensation allowing a Warden who has not served a full year to be elected Master is granted automatically if the Lodge applies in good time.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. It is not automatic.",
+       "feedbackIncorrect": "It is false. A dispensation is granted on petition and is not automatic.",
+       "explanation": "Under Rules 105(a) and 109, a Warden invested after the Installation meeting can only be elected Master with a dispensation from the Provincial Grand Master, granted on petition. Apply through Hermes in good time, and promise nothing to anyone until it is granted."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "A Master may serve a second year in succession if he is elected again, but a third consecutive year needs a dispensation given only in cases of necessity.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. That is Rule 115.",
+       "feedbackIncorrect": "It is true. That is what Rule 115 says.",
+       "explanation": "A second year can bridge a broken line, but it is a big ask of the Master and his family. Talk to him privately first, and see whether a Past Master serving again would suit everyone better. The Chair and Beyond covers how a second year works in Hertfordshire."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "A good Brother in the line says he wants to step out for a year because his father is seriously ill. What should you do? Choose all that apply.",
+       "options": [
+        "Tell him family comes first, that the door stays open, and agree when you might talk again",
+        "Record in the plan only that he is not taking office this year",
+        "Explain his father's illness at the Committee so that people understand",
+        "Warn him gently that his place in the line may not be there when he comes back"
+       ],
+       "correct": [
+        0,
+        1
+       ],
+       "feedbackCorrect": "Right. Family first, door open, and his reasons stay with him.",
+       "feedbackIncorrect": "Support him, keep his reasons private, and keep the door genuinely open.",
+       "explanation": "Family and connections first, then Masonry. The plan records only that he is not taking office this year; his father's illness is his own business and is not shared at Committee. Warning him about his place is pressure, however gently put. If he would like support, the Almoner can help, with his agreement."
+      },
+      {
+       "kind": "single",
+       "prompt": "When should a Lodge Mentor start thinking about who might follow him?",
+       "options": [
+        "From early in his time in the role, by noticing who does the work well",
+        "In his final year",
+        "After he has stepped down, when the Master appoints someone"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. Start early, without fuss.",
+       "feedbackIncorrect": "Early. Finding a successor and letting him learn the role takes time.",
+       "explanation": "The Province recommends three to five years in the role. Notice who does the work well, offer a piece of it if he would like it, ask him privately when you are both ready, and let him work alongside you before he takes over."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "Which belong in a Lodge Mentor's handover? Choose all that apply.",
+       "options": [
+        "The Personal Mentoring Plans",
+        "The list of who is mentoring whom, and any open matters",
+        "Introductions to the Almoner, the Secretary and the Assistant Provincial Mentor",
+        "The Almoner's notes on Brethren's welfare",
+        "A set of copies kept by you, just in case"
+       ],
+       "correct": [
+        0,
+        1,
+        2
+       ],
+       "feedbackCorrect": "Right. A clean handover, and no copies kept.",
+       "feedbackIncorrect": "Hand over the plans, the list and the introductions. Welfare notes are the Almoner's, and you keep no copies.",
+       "explanation": "Personal Mentoring Plans pass to the incoming Lodge Mentor when the office changes. Welfare matters belong to the Almoner's records, not the mentoring records. Keeping your own copies creates records nobody is looking after."
+      },
+      {
+       "kind": "single",
+       "prompt": "Your Lodge's Almoner has held the office for twelve years and does it very well. Someone at the Committee says he should 'make way'. What is the most sensible approach?",
+       "options": [
+        "Replace him at the next Installation, since long tenure blocks others",
+        "Leave it entirely alone: if it works, do not touch it",
+        "Talk to him privately about how he feels about the role, whether he would welcome someone learning alongside him, and what he would like next"
+       ],
+       "correct": [
+        2
+       ],
+       "feedbackCorrect": "Right. A conversation, not a decision made about him.",
+       "feedbackIncorrect": "Neither replacing him nor ignoring the question is the answer. Talk to him.",
+       "explanation": "Long-held offices can block others and leave a Lodge stuck when the holder stops. Metropolitan Grand Lodge reports a Board of General Purposes recommendation of five years, seven at the outside, but it is guidance, not a rule. A good Almoner may be glad of an assistant learning alongside him, or may be ready for a change. Ask him, and plan from his answer."
+      }
+     ],
+     "devNotes": "QA (Issue 3): Q2 rewritten (the Steward who asked to progress and heard nothing). The previous Q2 (six-year Master Mason, never held office, missing meetings) duplicated Lodge Mentor Essentials Q9 almost exactly."
+    },
+    {
+     "title": "Your Lodge task",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "This is optional, and it happens in your Lodge, not here. Within the next month:\n\n1. With the DC and the Master, sketch a simple office plan for the next five years on paper, including roles outside the progressive line. Record only roles and intended timing, and only what has been agreed.\n2. Agree who will have a friendly readiness conversation with any Brother whose wishes are not yet known. The answer is his.\n3. Write a one-page handover note for your own role.\n\nThe plan stays with those who hold it. Nothing about individual Brethren comes into the Academy."
+      }
+     ],
+     "prompt": "Write your plan in this form: 'When [the moment], I will [the action], with [which officer], by [date].' What do you expect to be the hardest part, and how will you handle it? Plans written as 'when X happens, I will do Y' make it noticeably more likely that people follow through. Please do not include names or personal details of other Brethren."
+    },
+    {
+     "title": "Thirty days on",
+     "kind": "reflection",
+     "minutes": 2,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Come back to this after you have done your Lodge task. Thirty days from now the Academy will send you one question: what did you try, and what happened? Your Assistant Provincial Mentor may ask the same over a coffee."
+      }
+     ],
+     "prompt": "What did you try? What happened? What will you do differently next time, and which officers in your Lodge should hear about it? Please do not include names or personal details of other Brethren."
+    }
+   ]
+  }
+ ]
+}

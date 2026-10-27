@@ -1,0 +1,69 @@
+HERTFORDSHIRE MENTORING - DOCUMENT LIBRARY
+Folder system, set up 9 October 2026
+
+HOW THE FOLDERS WORK
+The folders mirror the six-tier library in the Master Framework and Library
+Architecture. Every document has a home decided by its tier reference
+(A1, B2, D3 and so on). If a document has no reference yet, it lives in
+Working Drafts until one is agreed.
+
+00 Governance
+   Decisions Log, Corrections Register, Master Framework, Knowledge Base
+   Analysis, open items. The control documents for the whole library.
+
+01 Templates and Style
+   Hertfordshire Mentoring Document.dotx is THE template (settled 10 Oct
+   2026): white first-page header, shield top right, principle strip,
+   slim blue band on following pages. Start every new document from it.
+   The .docx twin is for building documents in code (see Build tools).
+   Artwork holds the shield and logo at full resolution.
+   The PowerPoint flowchart template is still on the old design (order,
+   strapline, [Shield] placeholders) - fix before use.
+
+A Canon
+   A1 Principles (one page), A2 Provincial Mentoring Framework,
+   A3 Style, Terminology and Data Guide, A3a Visual Identity.
+   Small, stable, quoted by everything. Changes are made here first.
+
+B Practitioner Handbooks      Mentor-facing guides (Lodge Mentor's Guide,
+                              Personal Mentor's Guide, Officer, Royal Arch,
+                              Retention and Migration).
+C Member Guides               Candidate, New Brother, degree companions.
+D Tools and Checklists        Stage checklists, meeting guide, warning
+                              signs card, journals, worksheets, Jewel
+                              presentation.
+E Training and Development    Induction course, workshops, competency
+                              framework, case studies, slide decks.
+F Culture and Communications  F1 the book, F2 articles and newsletters,
+                              F3 Lodge presentations.
+
+Source Material
+   Reference documents only, never edited: UGLE guidance, Hertfordshire
+   Provincial Office officer guides, other Provinces' material.
+
+Working Drafts
+   Anything in progress that has not reached Issue 1, or scratch work.
+   Clear it out when the document moves to its tier folder.
+
+Archive
+   Superseded Issues: the previous issue of any document, moved here when
+   the new issue is released. Keep one copy of every issue ever published.
+   Reports: annual Mentors' Reports and other dated outputs.
+
+FILE NAMING
+   <Ref> <Title> Issue <n>.docx           published issue
+   <Ref> <Title> Issue <n> Draft.docx     draft for review
+   Examples:
+   B1 Lodge Mentors Guide Issue 2 Draft.docx
+   D4 Warning Signs Card Issue 1.docx
+   Spaces between words. No hyphens in file names. No version letters
+   (v2.2a style) and no apostrophes.
+   Issue control: "Issue n, Month Year" inside the document, with a
+   revision-history table, as set out in A3.
+
+RULES
+   - One owner per topic. Cross-refer, never duplicate.
+   - Quote the principles verbatim from A1. Never restate them.
+   - Nothing leaves Working Drafts without a tier reference and an issue
+     number.
+   - Superseded issues are archived, never deleted.

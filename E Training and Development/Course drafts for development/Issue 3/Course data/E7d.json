@@ -1,0 +1,731 @@
+{
+ "code": "E7d",
+ "issue": "Issue 3",
+ "issueDate": "November 2026",
+ "fileTitle": "The First Two Years",
+ "slug": "the-first-two-years",
+ "title": "The First Two Years",
+ "summary": "The early Masonic experience, stage by stage: before Initiation, the night itself, the second meeting, pacing the Degrees and the months after Raising, with an honest look at what the evidence on early leaving does and does not tell us.",
+ "tier": "specialist",
+ "audiences": [
+  "personal_mentor",
+  "lodge_mentor"
+ ],
+ "audienceText": "Personal Mentors, Proposers and Seconders, Lodge Mentors, Directors of Ceremonies and Worshipful Masters: anyone close to a candidate or a new Brother in his first two years",
+ "stages": [],
+ "topics": [
+  "new members",
+  "initiation",
+  "degrees",
+  "early years",
+  "preparation"
+ ],
+ "level": "optional",
+ "principle": "prepare",
+ "minutes": 65,
+ "passMark": 75,
+ "completion": "Complete the required reading and scenario lessons and pass the final assessment at 75% or more. The Lodge task, the thirty-day follow-up and the warm-up quiz are optional.",
+ "source": "E7d The First Two Years, Topic Course Draft for Development Issue 1 (October 2026). Draws on D3 Stage Checklists, C1 Considering Freemasonry, C2 The New Brother's Guide, the Lodge Mentor's Guide, and the UGLE Members' Pathway papers Understanding, Participation and Stewardship (August 2021, now part of Building Together).",
+ "changeSummary": [
+  "Evidence lesson rewritten using the verified wordings, with a column showing what each finding does not tell us; unverified Hertfordshire Initiate figures removed.",
+  "The course no longer treats every new Brother as likely to leave: early departures are put in proportion, and parting well is recognised as a fair outcome.",
+  "New guidance on preparing a candidate without spoiling the ceremony, including what you can and cannot say.",
+  "Degree pacing reframed around readiness in both directions, with a new scenario on a Passing date offered by the DC.",
+  "Second meeting scenario rebuilt so every choice is plausible, including the tempting idea of hurrying the next Degree.",
+  "Overlap with the Personal Mentor Course removed: first contacts and the shape of a one-to-one are pointed to, not repeated. Royal Arch reduced to one line pointing to One Journey.",
+  "Final assessment rewritten: eleven judgement-based questions with full explanations; multiple-answer questions where more than one response is reasonable.",
+  "Lodge task and thirty-day reflection made optional and rewritten so no names or personal details of other Brethren are recorded."
+ ],
+ "modules": [
+  {
+   "title": "About this course",
+   "summary": "What the course covers, what you will be able to do, and a quick warm-up.",
+   "lessons": [
+    {
+     "title": "What this course covers",
+     "kind": "content",
+     "minutes": 3,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A Brother's first two years set the tone for much of what follows. In that time he works out whether Freemasonry is what he hoped, whether he belongs in his Lodge, and how much of his life he wants it to take. Plenty of new Brethren settle in without any trouble. Some don't, and UGLE's own guidance says a significant proportion of new members leave within two years of Initiation, often before they become Master Masons.\n\nThis course follows those two years in order: before Initiation, the night itself, the second meeting, pacing the Degrees, and the months after Raising. It assumes you have done the Personal Mentor Course, which covers the first contacts, the shape of a one-to-one and the basics of listening, so we won't repeat those here.\n\nA word on tone before we start. None of this is about treating a new Brother as someone who is about to leave. He is a man who has chosen to join something unfamiliar. Our part is to help it make sense, at his pace, and to make sure he enjoys it. If he does, most of the rest tends to look after itself.\n\n### By the end of this course you will be able to\n\n- Say accurately what the evidence shows about early leaving, and what it does not\n- Prepare a candidate honestly for Initiation without spoiling anything\n- Help your Lodge make Initiation night, and especially the second meeting, work for him\n- Pace the Degrees by his readiness rather than the Lodge calendar\n- Keep a new Master Mason interested once the ceremonies stop, without pushing him\n\n### How this course works\n\n| Part | What it is |\n|---|---|\n| Before you start | Four quick questions. Optional, and they do not count. |\n| The lessons | Short readings and two branching scenarios. These are required. |\n| Final assessment | Eleven questions, most of them situations. Pass mark 75%. You can try again. |\n| Your Lodge task | An optional practical task in your own Lodge within thirty days. |\n| Thirty days on | An optional private reflection: what did you try, and what happened? |"
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "Never reveal ritual. Everything in this course is about preparation, not spoilers: timing, format, practicalities and reassurance. Let the ceremony do its own work."
+      }
+     ]
+    },
+    {
+     "title": "Before you start",
+     "kind": "quiz",
+     "minutes": 3,
+     "required": false,
+     "isAssessment": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Four questions to show where you are starting from. They do not count towards completion."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "true_false",
+       "prompt": "UGLE has published a national figure for the percentage of new members who leave within two years of Initiation.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. There is no published national percentage.",
+       "feedbackIncorrect": "There is no published national percentage. UGLE says 'a significant proportion'.",
+       "explanation": "UGLE's guidance says a significant proportion of new members leave within two years of Initiation, often before they become Master Masons. It gives no figure, so neither should we. If you hear a percentage quoted, ask where it came from."
+      },
+      {
+       "kind": "single",
+       "prompt": "What is the minimum interval between a Brother's Degrees?",
+       "options": [
+        "Four weeks",
+        "Three months",
+        "There is no minimum: the Lodge decides"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right: four weeks, and it is a minimum, not a target.",
+       "feedbackIncorrect": "It is four weeks (Rule 172), and that is a minimum, not a target.",
+       "explanation": "Rule 172 requires at least four weeks between Degrees. A ceremony held sooner is void unless the Grand Master validates it afterwards, and there is no dispensation to shorten the interval in advance. Readiness, not the calendar, decides when he goes forward."
+      },
+      {
+       "kind": "single",
+       "prompt": "What do new Brethren most often find at their second meeting?",
+       "options": [
+        "Mostly Lodge business, with no ceremony for him",
+        "A test of what he learned at his Initiation",
+        "A social evening with no formal meeting"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. Unprepared, it can feel like an anticlimax.",
+       "feedbackIncorrect": "The second meeting is often mostly business. If nobody has told him, it can feel like an anticlimax.",
+       "explanation": "After the drama of his Initiation, the next meeting may be routine business, a ceremony for someone else, or a Degree he has to leave the room for. None of that is a problem if he knows it is coming. Module 3 looks at how to prepare him."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "UGLE's Membership Focus Group found that new members who visit other Lodges from an early stage are more likely to build their commitment and stay.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. Visiting early is one of the most useful things a mentor can offer.",
+       "feedbackIncorrect": "It is true, as reported in UGLE's Participation paper (2021).",
+       "explanation": "The finding is real, though it shows an association rather than proof: keen men may visit more because they are already keen. Either way, offering to take him visiting, and going with him the first time, costs little and helps."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "What we know, and what we don't",
+   "summary": "The evidence on early leaving, its limits, and the ordinary reasons men drift.",
+   "lessons": [
+    {
+     "title": "The evidence and its limits",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "There isn't much published evidence about why new Freemasons stay or go, and most of what there is comes from UGLE's Members' Pathway papers (August 2021, now part of Building Together). It is useful, but it is worth being clear about what it does and does not say.\n\n| Finding | Source | What it does not tell us |\n|---|---|---|\n| A significant proportion of new members leave within two years of Initiation, often before they become Master Masons. | UGLE, Stewardship paper (2021) | How many. There is no published national percentage. |\n| A new Freemason is at his most vulnerable in the days, weeks and months after Initiation, as he decides whether his expectations have been met. | UGLE, Stewardship paper (2021) | That he is likely to leave. It says when support matters most. |\n| Research in one Province found that men Initiated between January and June were less likely to remain than those Initiated between September and December, largely because of reduced participation. UGLE links this to the long summer break. | UGLE, Participation paper (2021) | Which Province, how large the difference was, or whether it applies to your Lodge. No figures are published. |\n| New members who visit other Lodges from an early stage are more likely to build their commitment and remain in membership. | UGLE Membership Focus Group, reported in the Participation paper (2021) | That visiting causes men to stay. Keen men may simply visit more. |\n| Some new members report getting 'too much at once' on the night of their Initiation. | UGLE, Understanding paper (2021) | Anything about numbers. It is reported experience. |\n\n### Using the evidence well\n\nThe honest summary is this. The early years matter, they are where a mentor can make the most difference, and the specific findings point to sensible habits: keep in touch over long breaks, take him visiting, and don't bury him in paper. The evidence does not tell us how many of your Lodge's new Brethren will leave, or which ones. Findings from a single Province are worth acting on as good practice; they are not a national rule.\n\nSo please don't quote percentages you can't source, and don't say 'most losses fall within two years'. UGLE doesn't say that.\n\n### Not every departure is a failure\n\nSome men find, honestly, that Freemasonry isn't for them. Others have a change in work, family or health that makes it the wrong time. If that happens after a fair start, the right outcome is to part well and leave the door open. The topic course Keeping Good Men covers how."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "If someone asks how many new members leave, the accurate answer is: 'UGLE says a significant proportion leave within two years, often before they are Raised. There's no published national figure.'"
+      }
+     ],
+     "devNotes": "Removed from the Issue 1 draft: 'Hertfordshire Initiates around 150 to 190 men a year; 148 were Initiated in 2024' and the 'one in ten' illustration built on it. The 148 figure is not in any supplied document and the 150-190 range conflicts with other Framework figures (facts.md D12, PMF-3). Reinstate only if the Provincial Office confirms. Wordings follow facts.md approved wordings 9 and 11 and register D05 to D07, D09."
+    },
+    {
+     "title": "Why some men drift early",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Think back to your own first two years for a moment. What helped? Was there anything that nearly put you off? Most of us remember a Brother who made a point of talking to us, and most of us remember an evening when we didn't have a clue what was going on.\n\nWhen new Brethren drift away, UGLE's guidance and the experience of mentors point to a familiar handful of reasons. The reason he gives is often not the whole story: 'time' or 'money' can be true, and can also be the polite version of something else.\n\n- **It wasn't what he expected.** Nobody was honest with him about the time, the cost or how much of Lodge life is business.\n- **He didn't feel he belonged.** He sat at the end of the table, the jokes were about people he didn't know, and nobody rang between meetings.\n- **He didn't understand it.** The ceremonies were never talked through afterwards, so they stayed a puzzle rather than becoming his.\n- **Too much, too soon.** He was pressed to learn ritual, take office, join everything and come to everything.\n- **Too little.** Nothing to do and nobody to talk to between meetings, especially over a long summer break.\n- **Life changed.** A new job, a new baby, a move, an illness. The question is whether the Lodge made him feel guilty or made him feel welcome.\n\nAlmost all of these come down to expectation and company, which is good news, because those are things a Personal Mentor and a friendly Lodge can do something about. Not everything is, though. Some men's lives change in ways no Lodge could, or should, try to override. Family and work come first, and Freemasonry should fit around them.\n\nGetting the pace right cuts both ways. A new Brother can be overwhelmed by a Lodge that wants too much of him too quickly, or quietly bored by one that never asks him anything. The answer is to know him as an individual and ask him what he wants."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Before Initiation and on the night",
+   "summary": "Honest expectations, preparation without spoilers, and a night he remembers for the right reasons.",
+   "lessons": [
+    {
+     "title": "Before Initiation",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Mentoring starts at the point of interest, not at the ceremony. The Proposer is usually a man's first mentor, and in Hertfordshire the aim is for the candidate to know who his Personal Mentor will be before his Initiation, ideally as soon as the ballot has been taken. The principle is simple: there should never be any surprises.\n\n### Be honest about the commitment\n\n- **Time.** Roughly how many evenings a year, including the Lodge of Instruction and social events, and that more is available if he wants it and less is fine when life demands.\n- **Money.** The Initiation fee, the annual subscription, dining, regalia in due course, and charitable giving at a level he chooses. Give him the real figures for your Lodge. A surprise later feels like a broken promise.\n- **Learning.** Some learning by heart, at his own pace and with help. Some men grow to love it; others keep it to a minimum. Both are fine.\n- **Family.** Encourage him to talk to his partner and family before he applies, and offer to answer their questions too. A supportive home matters.\n\n### The interview\n\nTell him what it is for: a relaxed conversation, not an examination. The Lodge wants to understand why he is interested, whether he understands the commitment and whether now is the right time. Encourage him to ask questions back. A good Lodge asks 'Is our Lodge right for this man?' as well as the other way round, and if the fit isn't right it helps him find one that is.\n\n### Practical details for the night\n\nDress, timing, venue and parking, who will meet him, reading glasses if he needs them, cash for the alms collection and raffle, and a short draft response to his toast at the Festive Board that he can make his own. Any adjustments (mobility, kneeling, faith requirements) are arranged quietly through the DC and the Secretary, well before the night.\n\n### Prepare without spoiling\n\n| You can tell him | Leave to the ceremony |\n|---|---|\n| Roughly when it starts and how long the evening lasts | What happens in the ceremony |\n| That he will be guided at every step and needs to learn nothing beforehand | Any words, actions or details he will meet |\n| That the ceremony is symbolic, safe and dignified, and that every man in the room has been through it | What he will see, or in what order |\n| What to wear, where to be and who will meet him | Anything 'helpful' found online |\n| What happens at the Festive Board, and that you'll help him with his response | |\n\nIf he asks what actually happens, it's fine to say so: 'I could tell you, but it would take something away from it. What I can promise is that you'll be looked after the whole time, and we'll talk it through properly afterwards.'"
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "A message the day before or on the morning goes a long way: 'Thinking of you. Arrive in good time. You'll be looked after at every step.'"
+      }
+     ],
+     "devNotes": "Naming the Personal Mentor once the ballot is taken is Hertfordshire practice, not sourced externally (facts.md B19): confirm in the Lodge Mentor's Guide. The Issue 1 draft cited a Provincial guide 'For Partners and Families'; no such document was found in the library, so the reference has been generalised. Reinstate the title if it exists."
+    },
+    {
+     "title": "Initiation night",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "The ceremony is in the hands of the Master and the Director of Ceremonies. Everything around it is in the hands of the rest of us, and that is where a new Brother's impression of his Lodge is formed. Stage Checklist 1 has the detail; these are the essentials.\n\n1. **Meet him at the door.** He should never stand alone in the anteroom wondering where to go.\n2. **Introduce him** to the Tyler and to the Brother who will look after him during the evening.\n3. **Brief him on the Festive Board before he sits down:** the order of toasts, the fire, and his response. Never let him struggle in front of the room.\n4. **Sit him with company.** Not at the end of a table among strangers, and not surrounded by men talking about people he has never met.\n5. **Five to ten minutes alone with him after the ceremony,** as UGLE suggests: how is he feeling, has he any questions, and a reassurance that it takes a long time to make sense of it.\n6. **Don't bury him in paper.** Some new members report getting 'too much at once'. One guide, handed over personally, is better than a pile of booklets presented at the end of the ceremony.\n7. **Book the next contact before you say goodnight.** UGLE suggests an informal meeting within a week or so. Hertfordshire's current guidance is that it happens before the next Lodge meeting at the latest.\n\nThe Personal Mentor Course covers the first contacts after the night in more detail."
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "Wiltshire's guidance warns against treating a new Brother as a hero on his big night and then neglecting him. The night is the easy part. The weeks after are where it counts."
+      }
+     ],
+     "devNotes": "Contact timing: UGLE says an informal meeting 'within a week or so'; Hertfordshire documents use 'before the next Lodge meeting' pending LMG-8 / PLAN-6 (facts.md D08, Part 3 item 15). Update when the standard is settled. Wiltshire point paraphrased per facts.md D17."
+    }
+   ]
+  },
+  {
+   "title": "The second meeting and the first months",
+   "summary": "The meeting nobody plans for, and keeping in touch through the gaps.",
+   "lessons": [
+    {
+     "title": "The second meeting",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "The second meeting is where some new Brethren first wonder whether they have made a mistake. There is no ceremony for him, a fair amount of business he doesn't understand, and dinner with men who already know each other. Some new Brothers feel overwhelmed by their Initiation; just as many feel a bit flat afterwards, and nobody warns them. Both are normal. Stage Checklist 2 has the detail.\n\n- **Before:** contact him in the days beforehand. Go through the summons together, how to reply and what to wear. Tell him plainly that it will probably be mostly business, and why that is normal.\n- **On the night:** meet him on arrival again. Sit with him, or make sure a Brother who has been briefed does, and explain the business as it happens: the Risings, ballots, apologies.\n- **If the Lodge works a Degree he hasn't taken:** an experienced Brother retires with him and uses the time well. It's sequence, not exclusion, and it's a good time for his questions.\n- **At dinner:** seat him with people who will draw him in, and introduce him to two or three Brethren by name and by something they have in common.\n- **Afterwards:** walk out with him, and fix the next contact.\n\n### The first months\n\nKeep in touch between meetings, especially when the gap is long. If he was Initiated in the spring, the summer break may mean four months with no Lodge at all. A coffee, a Lodge social, a visit together to a Lodge that meets in the summer, or simply a phone call every few weeks keeps the thread unbroken.\n\nHis first Lodge of Instruction is worth a little preparation too. Tell him honestly what it will be like (relaxed, informal, mistakes and laughter included), go with him, and make sure nobody greets an absence with a pointed remark."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "Ask the Master to welcome him by name at the second meeting. It takes ten seconds and he will remember it."
+      }
+     ]
+    },
+    {
+     "title": "Scenario: the April Initiate",
+     "kind": "scenario",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Work through what you would do. There is no score: each choice shows how it is likely to play out."
+      }
+     ],
+     "scenario": {
+      "start": "e1",
+      "nodes": {
+       "e1": {
+        "text": "You are Personal Mentor to a Brother Initiated in April. He came to the May meeting, sat quietly, and left straight after dinner. The Lodge, and its Lodge of Instruction, don't meet again until September. What do you do?",
+        "choices": [
+         {
+          "label": "Ring him this week and ask what he made of the May meeting, then plan two or three contacts over the summer.",
+          "next": "e2",
+          "feedback": "A good instinct. A new Brother facing a long break after a quiet second meeting is exactly the man to keep in touch with. Research in one Province found spring Initiates less likely to stay, largely because of reduced participation over the summer. Asking an open question gives him room to tell you how it really went."
+         },
+         {
+          "label": "Send him a friendly message wishing him a good summer, and look out for him in September.",
+          "next": "e1b",
+          "feedback": "Kind, and better than nothing, but four months is a long gap for a man who already seemed on the edge of things. A message is easy to read and leave unanswered. It doesn't give him a chance to tell you how he is finding it."
+         },
+         {
+          "label": "Ask the Lodge Mentor whether his Passing could be brought forward to June, so he doesn't lose momentum.",
+          "next": "e1c",
+          "feedback": "It's understandable to want to give him something to look forward to, but a ceremony is not the answer to a man who felt like an outsider at dinner. He would go into his Passing quieter and less prepared than he should be. What he seems to need is company, not speed."
+         }
+        ]
+       },
+       "e1b": {
+        "text": "In September he sends his apologies. In October he doesn't reply to the summons. What now?",
+        "choices": [
+         {
+          "label": "Ring him now. Say he was missed, and ask how he is getting on.",
+          "next": "e2",
+          "feedback": "Recoverable. The tone matters: 'you were missed' and 'how are you?', never 'why weren't you there?'. You have lost a few months, but a genuine call usually gets an honest answer."
+         },
+         {
+          "label": "Ask the Secretary to send a reminder about replying to summonses.",
+          "next": "e1d",
+          "feedback": "Replying to the summons matters, but a reminder from the Secretary is an administrative answer to what may be a personal question. It is likely to read as a telling-off."
+         }
+        ]
+       },
+       "e1d": {
+        "text": "He replies to the Secretary: 'Sorry, very busy at the moment. Will try to make the next one.' It's polite, and it tells you nothing.",
+        "choices": [
+         {
+          "label": "Ring him yourself, say he was missed, and ask how he's finding it all.",
+          "next": "e2",
+          "feedback": "Right. The polite reply may be the whole story, or it may not. Only a conversation will tell you, and it is your relationship, not the Secretary's letter, that makes that possible."
+         }
+        ]
+       },
+       "e1c": {
+        "text": "The Lodge Mentor points out, kindly, that he hasn't yet been to a Lodge of Instruction, hasn't started on his questions, and that the DC's June diary is full anyway. Looking back at May, you realise the problem was company, not ceremonies.",
+        "choices": [
+         {
+          "label": "Go back to the start and plan to stay in touch over the summer instead.",
+          "next": "e2",
+          "feedback": "Good. Readiness decides the pace of the Degrees, not the wish to keep him busy. Keeping in touch over the summer does far more for him than an early ceremony."
+         }
+        ]
+       },
+       "e2": {
+        "text": "On the phone he says, 'I'll be honest, I felt a bit of a spare part at dinner. Everyone was catching up with old friends, and now there's nothing until September. I've been wondering whether it's really for me.' What do you say?",
+        "choices": [
+         {
+          "label": "Thank him for being honest, tell him the second meeting is often like that, and ask what he'd hoped to find when he joined.",
+          "next": "e3",
+          "feedback": "This acknowledges what he felt, puts it in proportion, and opens the real conversation. Asking what he hoped for tells you what to offer, rather than guessing."
+         },
+         {
+          "label": "Reassure him that it gets much better once he has been Passed.",
+          "next": "e2b",
+          "feedback": "It may well be true, but it leaves him on his own until then, and it doesn't address what he actually told you: that he didn't know anyone."
+         },
+         {
+          "label": "Remind him that he has made a commitment, and that he owes it to his Proposer to give it a fair go.",
+          "next": "e2c",
+          "feedback": "Well meant, but it adds guilt to doubt. A man who feels pressured tends to dig in or quietly disappear. Our aim is for him to make an informed decision, not to be talked into staying."
+         }
+        ]
+       },
+       "e2b": {
+        "text": "He says 'fair enough' and the conversation runs out of steam.",
+        "choices": [
+         {
+          "label": "Go back: tell him his reaction is normal, and ask what he'd hoped to find when he joined.",
+          "next": "e3",
+          "feedback": "Better. Reassurance about the future is fine, but it works best after you've understood the present."
+         }
+        ]
+       },
+       "e2c": {
+        "text": "There's a pause. He says he'll think about it, and sounds keen to get off the phone.",
+        "choices": [
+         {
+          "label": "Apologise for pressing him, say his reaction is perfectly normal, and ask what he'd hoped to find when he joined.",
+          "next": "e3",
+          "feedback": "Good recovery. Owning a clumsy moment builds trust rather than losing it."
+         }
+        ]
+       },
+       "e3": {
+        "text": "He says he joined partly because his father was a Mason, and partly because he hoped to make some friends locally. What do you suggest for the summer?",
+        "choices": [
+         {
+          "label": "A coffee in July, the Lodge's summer social, and a visit together to a nearby Lodge that meets in the summer.",
+          "next": "end",
+          "feedback": "This gives him people, not just information, and it uses the summer rather than losing it. Visiting early is linked with stronger commitment, and going with him the first time makes it easy."
+         },
+         {
+          "label": "Send him the link to Solomon and the material for Entered Apprentices to read over the summer.",
+          "next": "e3b",
+          "feedback": "Solomon is excellent, but he told you he wanted friends, not reading. Information without company rarely helps at this stage."
+         }
+        ]
+       },
+       "e3b": {
+        "text": "He thanks you. You suspect the link will sit unopened in his inbox.",
+        "choices": [
+         {
+          "label": "Add a coffee in July and an invitation to the summer social, and offer to look at Solomon together.",
+          "next": "end",
+          "feedback": "Better. Learning sticks far better when it is shared, and the social side is what he asked for."
+         }
+        ]
+       },
+       "end": {
+        "text": "He comes to the summer social, meets two Brethren of his own age, and asks whether he can visit another Lodge with you in the autumn. In September he arrives early.\n\nHe may still decide, in a year or two, that Freemasonry isn't for him. If so, it will be an informed decision rather than a quiet drift, and that matters too. What made the difference here was simple: a phone call, an honest question, and some company over a long break.",
+        "choices": []
+       }
+      }
+     },
+     "devNotes": "QA (Issue 3): his reply at step e2 changed from 'didn't follow the business' to feeling a spare part at dinner with a long gap ahead, so the scenario does not repeat the Personal Mentor Course's Scenario A (whose resolution is that his questions were about the business and who everyone is). Final Q6 reworded for the same reason."
+    }
+   ]
+  },
+  {
+   "title": "Pacing the Degrees",
+   "summary": "Readiness, not speed, in both directions.",
+   "lessons": [
+    {
+     "title": "Readiness, not speed",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "The rule is short. There must be at least four weeks between a Brother's Degrees (Rule 172). A ceremony held sooner is void unless the Grand Master validates it afterwards, and there is no dispensation to shorten the interval in advance. Four weeks is a minimum, not a target: readiness decides.\n\n### Why Lodges rush, and why it matters\n\nLodges hurry Brethren for understandable reasons: a free slot in the calendar, a keen candidate, officers who need the practice, a wish to 'keep the momentum going'. The cost falls on him. A man who goes forward before he is ready tends to remember the anxiety rather than the ceremony, and a Degree that was never talked through stays a blur.\n\n### What readiness looks like\n\n- He is reasonably comfortable with his questions, having learned them at his own pace\n- He has had a proper chance to talk about the Degree he has already taken\n- He wants to go forward, and isn't just going along with the Lodge's plans\n- His work and family life allow it at the moment\n\nReadiness works in both directions. A Brother who is ready and keen shouldn't be held back for no reason either. The point is that he and his readiness set the pace, not the diary, and not the mentor's own preferences.\n\n### Before and after each Degree\n\n| | Before | After |\n|---|---|---|\n| Passing | Questions learned at his pace and rehearsed together. Timing, format and general structure explained, never ritual detail. Reassurance about answering in open Lodge: everyone finds it daunting. | Meet within days and let him talk first: 'What did you make of it?' The Fellow Craft's Guide, the themes of the Degree at his pace, and perhaps watching a Passing at another Lodge with you. |\n| Raising | Questions comfortable. Rested and fed. Honestly prepared for a ceremony that is powerful and unlike what came before, and entirely symbolic, safe and dignified. | The reflective conversation matters most here. The Master Mason's Guide, how to visit, and how the wider Craft is organised. |\n\nStage Checklists 3 and 4 have the detail. The topic course Helping Brethren Learn goes further on reflection after a ceremony and on learning ritual."
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "If he is not ready, the right response is to wait and fill the time well: the Lodge of Instruction, a visit, a coffee. Talk to him first, then to the DC. It's his decision to make, with good information."
+      }
+     ]
+    },
+    {
+     "title": "Scenario: a slot in the diary",
+     "kind": "scenario",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Work through what you would do. There is no score: each choice shows how it is likely to play out."
+      }
+     ],
+     "scenario": {
+      "start": "p1",
+      "nodes": {
+       "p1": {
+        "text": "The DC rings you. A slot has come up for a Passing exactly four weeks after the next meeting, and he would like to give it to the Entered Apprentice you mentor. Otherwise the next opportunity is in five months. Your Brother has been to two meetings and one Lodge of Instruction, has started his questions but isn't confident yet, and works shifts. What do you do?",
+        "choices": [
+         {
+          "label": "Tell the DC you'll talk to your Brother first and come back to him by the weekend.",
+          "next": "p2",
+          "feedback": "Right. It is his Degree and his decision. You also need to know how he feels before you can give the DC a useful answer."
+         },
+         {
+          "label": "Accept the slot. Four weeks is plenty if he puts the work in.",
+          "next": "p1b",
+          "feedback": "Four weeks is the legal minimum, not a measure of what he needs. You have decided for him, and committed him to a timetable that may not suit his shifts or his confidence."
+         },
+         {
+          "label": "Decline straight away. He clearly isn't ready.",
+          "next": "p1c",
+          "feedback": "You may well be right, but you have still decided for him. Some men find a date focuses the mind; others are relieved to wait. Only he can tell you which he is."
+         }
+        ]
+       },
+       "p1b": {
+        "text": "You tell him the date. He goes quiet and says he'll try. Two weeks later he admits he's sleeping badly and has barely had a chance to practise around his shifts.",
+        "choices": [
+         {
+          "label": "Talk to him honestly about the options, including moving the date, and tell the DC where things stand.",
+          "next": "p2",
+          "feedback": "Good recovery. It is never too late to slow down, and the DC would much rather know now than on the night."
+         }
+        ]
+       },
+       "p1c": {
+        "text": "A few weeks later he hears from another Brother that a slot was offered and turned down on his behalf. He's a little put out: 'I'd have liked to be asked.'",
+        "choices": [
+         {
+          "label": "Apologise, and have the conversation you should have had at the start.",
+          "next": "p2",
+          "feedback": "Right. Owning it builds trust. Protecting him from pressure doesn't mean making his decisions for him."
+         }
+        ]
+       },
+       "p2": {
+        "text": "You meet for a coffee. He says he would like to go forward, but his rota makes the Lodge of Instruction hard, his questions are only half learned, and he's nervous about standing up in open Lodge. What do you suggest?",
+        "choices": [
+         {
+          "label": "Set out both dates honestly, offer to rehearse with him at times that fit his shifts, and let him choose. Then tell the DC.",
+          "next": "p3",
+          "feedback": "This gives him what he needs to make an informed decision, and practical help whichever date he picks. The DC gets a clear answer."
+         },
+         {
+          "label": "Tell him a five-month wait would lose momentum, so he'd be better taking the earlier date.",
+          "next": "p2b",
+          "feedback": "This is pressure, however kindly meant. 'Momentum' is the Lodge's concern more than his. If he goes forward anxious, it's the anxiety he'll remember."
+         }
+        ]
+       },
+       "p2b": {
+        "text": "He agrees, but reluctantly, and you can tell he's doing it to please you.",
+        "choices": [
+         {
+          "label": "Go back, and make it clear the choice is genuinely his.",
+          "next": "p2",
+          "feedback": "Good. A decision he makes for himself is worth far more than one he makes to keep his mentor happy."
+         }
+        ]
+       },
+       "p3": {
+        "text": "He chooses the later date. You agree a short practice by phone every fortnight, and in the meantime you take him to watch a Passing at another Lodge. When his own Passing comes, he answers his questions steadily and talks about the evening for weeks.\n\nHad he been confident and keen, the earlier slot would have been fine. The point is not that slower is always better. It is that he, and his readiness, decided.",
+        "choices": []
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "title": "After Raising",
+   "summary": "When the ceremonies stop: showing the road ahead without pushing him down it.",
+   "lessons": [
+    {
+     "title": "The months after Raising",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "After Raising the ceremonies stop, and some men feel there is nothing left to do. There are no more questions to learn and no next Degree to prepare for. Keep in touch.\n\nThe most useful thing you can do now is ask him what he wants from Freemasonry. Some Brethren want ritual, office and, in time, the Chair. Others are happiest with the meetings, the friendships, charity or the social side. Both are entirely legitimate. Never assume every Brother wants to progress, and never make a Brother who doesn't feel he is a lesser Mason.\n\n### The road ahead, at his pace\n\n- **Visiting.** Other Lodges, with you the first time. Show him how to book, sign in and respond to the visitors' toast.\n- **The Lodge of Instruction.** As a place to belong, not only to rehearse.\n- **A small role, if he wants one.** Steward, helping the DC set up, the Lodge website, a social event, the charity collection. Talk to the DC and the Lodge Mentor so what he is asked to do suits him.\n- **Provincial life.** Provincial events, DAWG (the Daily Advancement WhatsApp Group), and the Fleet House Light Blues Club if he is one of the younger or newer Brethren.\n- **Learning.** Led by his curiosity: Solomon, a talk at the Lodge, a book you've enjoyed. The topic course Helping Brethren Learn covers this.\n- **The Royal Arch.** In due course he will hear about it. Information at the right time, never pressure; the topic course One Journey covers how.\n\n### The relationship changes, it doesn't stop\n\nBy the end of his first two years most Brethren need less from their Personal Mentor, and the relationship usually becomes a friendship with occasional help. That is a good outcome. Agree with him what kind of contact he would like from now on, and keep his Personal Mentoring Plan up to date with his knowledge. If his involvement changes later, the topic course Keeping Good Men covers how to notice and respond."
+      },
+      {
+       "type": "resource",
+       "title": "Solomon",
+       "url": "https://solomon.ugle.org.uk/",
+       "description": "UGLE's learning platform: accurate, approved material for every stage, including material for mentors. Encourage him to leave material about Degrees he hasn't yet taken until afterwards."
+      }
+     ],
+     "devNotes": "The Issue 1 draft said 'Many losses occur after the Third Degree'. No source was found (facts.md D04); replaced with the approved line. Royal Arch reduced to one pointer to E7h One Journey, as directed."
+    }
+   ]
+  },
+  {
+   "title": "Assessment and your Lodge task",
+   "summary": "Show what you know, then put it to work.",
+   "lessons": [
+    {
+     "title": "Final assessment",
+     "kind": "quiz",
+     "minutes": 10,
+     "required": true,
+     "isAssessment": true,
+     "passMark": 75,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Eleven questions, most of them situations. Where more than one answer is reasonable, the question says 'Choose all that apply'. You need 75% to pass, and you can try again."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "single",
+       "prompt": "A friend at work has asked you about Freemasonry and you think he would make a good candidate. When does mentoring begin?",
+       "options": [
+        "At the point of interest: now, with honest answers about what's involved",
+        "Once the ballot has been taken",
+        "On the night of his Initiation"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. Mentoring begins at the point of interest.",
+       "feedbackIncorrect": "Mentoring begins at the point of interest, before the interview.",
+       "explanation": "There should never be any surprises. The honest conversation about time, cost, learning and family happens now, and the Proposer is usually a man's first mentor. Leaving it until the ballot or the ceremony means he joins on assumptions that may not survive his first few months. A reasonable next step is to walk him through C1 Considering Freemasonry and give him the real figures for your Lodge."
+      },
+      {
+       "kind": "single",
+       "prompt": "Your candidate is nervous about his Initiation and asks you what will actually happen. What is the best response?",
+       "options": [
+        "Explain the practical arrangements and reassure him, without describing the ceremony",
+        "Give him a broad outline of the ceremony so he isn't anxious",
+        "Say as little as possible about the evening so nothing is spoiled"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right: prepare without spoiling.",
+       "feedbackIncorrect": "Prepare the practicalities and reassure him, but never describe the ceremony.",
+       "explanation": "Hertfordshire never reveals ritual, even in outline. But saying nothing at all leaves him anxious and uninformed about things he is entitled to know: timing, dress, who will meet him, the Festive Board, and that the ceremony is symbolic, safe and dignified and that he'll be guided throughout. Try: 'I could tell you, but it would take something away from it. I can promise you'll be looked after the whole time, and we'll talk it through afterwards.'"
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother at the Lodge Committee says, 'Most new members leave in the first two years, so we should expect to lose a few.' What is the accurate position?",
+       "options": [
+        "UGLE says a significant proportion leave within two years, often before they are Raised; there is no published figure",
+        "It is right: most losses fall within the first two years",
+        "Around one in three new members leave within two years"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. Accurate, and still a good reason to take the early years seriously.",
+       "feedbackIncorrect": "UGLE says 'a significant proportion'. It doesn't say 'most', and there is no published national figure.",
+       "explanation": "Overstating the evidence does two kinds of harm: it can't be defended if challenged, and it encourages a Lodge to treat losses as inevitable. The accurate line is still a strong reason to look after new Brethren well. A useful response at the Committee is to agree, gently correct the wording, and steer the conversation to what the Lodge does in a new Brother's first year."
+      },
+      {
+       "kind": "single",
+       "prompt": "Which statement about Brethren Initiated in the spring is accurate?",
+       "options": [
+        "Research in one Province, reported by UGLE in 2021, found they were less likely to remain, largely because of reduced participation over the summer",
+        "National research shows spring Initiates are twice as likely to leave",
+        "Because of the risk, Lodges should avoid Initiating in the spring"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right, and note the limits: one Province, not named, no figures published.",
+       "feedbackIncorrect": "The finding comes from research in one Province, reported by UGLE. It is not national, and no figures are published.",
+       "explanation": "The finding is worth acting on as good practice: plan contact over the summer break for anyone Initiated in the spring. It is not a reason to change when your Lodge Initiates, and it should never be quoted as national research or with numbers attached. The practical response is a coffee, a social or a visit over the summer."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "The Brother you mentor was Initiated in March. Your Lodge doesn't meet from June to September. What would be sensible to plan? Choose all that apply.",
+       "options": [
+        "A phone call or coffee every few weeks over the summer",
+        "An invitation to the Lodge's summer social, or a visit together to a Lodge that meets in the summer",
+        "Ask the DC to Pass him in May so he has something to look forward to",
+        "Leave him in peace until September: everyone needs a break"
+       ],
+       "correct": [
+        0,
+        1
+       ],
+       "feedbackCorrect": "Right. Contact and company over the break, not an early ceremony.",
+       "feedbackIncorrect": "Keep in touch and offer company over the summer. An early Passing and a four-month silence are both less helpful.",
+       "explanation": "The concern with spring Initiates is reduced participation over the long break, so the answer is participation of a light, friendly kind. Bringing his Passing forward puts the calendar before his readiness. Leaving him alone for four months is the very gap the research points to. The next step is to agree with him what kind of contact he would like."
+      },
+      {
+       "kind": "single",
+       "prompt": "After his second meeting a new Entered Apprentice tells you, 'Nobody explained what was going on in the business, and I ended up at the end of the table with people I didn't know.' What is the best response?",
+       "options": [
+        "Thank him for being honest, explain that second meetings are often like that, and ask what he'd hoped to find",
+        "Reassure him that it all gets much better once he has been Passed",
+        "Suggest he reads up on Lodge procedure on Solomon before the next meeting"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right: acknowledge, explain, then listen.",
+       "feedbackIncorrect": "Acknowledge what he felt, put it in proportion, and find out what he was hoping for.",
+       "explanation": "His comment is about understanding and company, and the best answer addresses both. Reassurance about the future leaves him on his own until then, and reading is information without company. Once you know what he hoped for, offer it: a briefed Brother next to him, introductions at dinner, a visit, a Lodge of Instruction together."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "Four weeks between Degrees is the minimum, so a Lodge that has the slot available should normally use it.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Four weeks is a minimum, not a target.",
+       "feedbackIncorrect": "False. Rule 172 sets four weeks as the minimum; readiness decides.",
+       "explanation": "There must be at least four weeks between Degrees (Rule 172), and a ceremony held sooner is void unless the Grand Master validates it afterwards. But a free slot is not a reason to go forward. The question is whether he is ready and wants to. Talk to him first, then to the DC."
+      },
+      {
+       "kind": "single",
+       "prompt": "His Passing is in two weeks. He isn't confident with his questions and admits he's dreading answering them in open Lodge. What is best?",
+       "options": [
+        "Talk with him about how he feels and whether he'd like more time, then speak to the DC",
+        "Reassure him he'll be fine on the night: nerves are normal",
+        "Arrange for a Brother to prompt him quietly all the way through"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right: readiness, and his decision.",
+       "feedbackIncorrect": "Talk to him first. If he isn't ready, moving the date is better than getting through it.",
+       "explanation": "Nerves are normal and some men do want to press on, so the first step is to ask him. If he would rather wait, the DC will much rather know now. Getting him through with prompting may save the evening, but he'll remember the anxiety, not the Degree. If he does go ahead, extra rehearsal at times that suit him is the practical help."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "Which of these are appropriate ways to prepare a Brother for his Raising? Choose all that apply.",
+       "options": [
+        "Advise him to arrive rested and having eaten",
+        "Tell him honestly that it is a powerful ceremony, unlike what came before, and entirely symbolic, safe and dignified",
+        "Explain the timing and general shape of the evening",
+        "Talk him through the main events so he knows what to expect"
+       ],
+       "correct": [
+        0,
+        1,
+        2
+       ],
+       "feedbackCorrect": "Right. Practical and honest preparation, with no ritual detail.",
+       "feedbackIncorrect": "The first three are good preparation. Talking him through the events of the ceremony is never appropriate.",
+       "explanation": "Prepare without spoiling: timing, format, practical arrangements and honest reassurance about the ceremony's weight are all helpful. Describing what happens takes away what the ceremony is designed to do, and Hertfordshire never reveals ritual. The reflective conversation afterwards is where you talk about what it meant to him."
+      },
+      {
+       "kind": "single",
+       "prompt": "A few months after his Raising, the Brother you mentor says, 'I don't think I want to go for office. I just enjoy the evenings and the company.' What do you do?",
+       "options": [
+        "Respect that, ask what he does enjoy, and keep the door open if he changes his mind",
+        "Encourage him to put his name forward now, before he loses momentum",
+        "Point out that the Lodge depends on its younger members taking office"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. The individual comes first.",
+       "feedbackIncorrect": "Respect his choice. Not every Brother wants office, and that is entirely legitimate.",
+       "explanation": "Some Brethren want ritual, office and the Chair; others prefer the meetings, friendship, charity or the social side. Pressing him risks turning something he enjoys into an obligation. Find out what he enjoys and help him do more of it, let the Lodge Mentor know (with his agreement) so nobody assumes otherwise, and mention that he is always welcome to change his mind."
+      },
+      {
+       "kind": "single",
+       "prompt": "On Initiation night the Lodge plans to present the new Brother with the by-laws, the Lodge history, the Initiate's Guide, a Provincial booklet and several leaflets at the end of the ceremony. What would you suggest?",
+       "options": [
+        "Give him one guide personally, and the rest later, a little at a time",
+        "Present everything: he can read it at his leisure",
+        "Give him nothing on the night, so the ceremony isn't overshadowed"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right: less, given personally.",
+       "feedbackIncorrect": "One guide, given personally, works better than a pile. The rest can follow.",
+       "explanation": "Some new members report getting 'too much at once' on the night. UGLE suggests the Personal Mentor has time with him straight after the ceremony and that materials are given at the Festive Board or privately afterwards. Giving nothing at all is not the problem to solve: one well-chosen guide, with a word about what's in it, is a good start, and the rest can follow over the next few one-to-ones."
+      }
+     ]
+    },
+    {
+     "title": "Your Lodge task",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "An optional task to try in your own Lodge within the next thirty days.\n\nTake one new Brother in his first two years: the Brother you mentor, or one your Lodge Mentor suggests. Using the Stage Checklist for the stage he has reached, find one thing that hasn't happened yet (a conversation after a ceremony, a contact over a break, a first visit, an introduction at dinner, a first Lodge of Instruction) and, with his agreement, make it happen.\n\nKeep any notes about him on paper or with your Lodge Mentor, not here. The Academy only asks about what you did and what you learned."
+      }
+     ],
+     "prompt": "What did you notice was missing, what did you do, and how did it go? What would you do differently next time? Please do not include names or personal details of other Brethren."
+    },
+    {
+     "title": "Thirty days on",
+     "kind": "reflection",
+     "minutes": 2,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Come back to this lesson once you have tried your Lodge task. Your Assistant Provincial Mentor may ask you the same question over a coffee."
+      }
+     ],
+     "prompt": "What did you try, and what happened? What will you do differently with the next new Brother, and who else in your Lodge should hear about it? Please do not include names or personal details of other Brethren."
+    }
+   ]
+  }
+ ]
+}

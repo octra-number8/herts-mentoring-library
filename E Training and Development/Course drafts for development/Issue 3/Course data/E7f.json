@@ -1,0 +1,839 @@
+{
+ "code": "E7f",
+ "issue": "Issue 3",
+ "issueDate": "November 2026",
+ "fileTitle": "Welfare Wellbeing and Knowing Your Limits",
+ "slug": "welfare-wellbeing-and-knowing-your-limits",
+ "title": "Welfare, Wellbeing and Knowing Your Limits",
+ "summary": "What a mentor does when a Brother's troubles come up: noticing, listening, being honest about confidentiality, involving the Almoner with his agreement, recognising when urgent help is needed, and looking after yourself. Every mentor should take it.",
+ "tier": "specialist",
+ "audiences": [
+  "personal_mentor",
+  "lodge_mentor"
+ ],
+ "audienceText": "Every Personal Mentor and Lodge Mentor. Almoners and Worshipful Masters will find the mentor's side of welfare useful.",
+ "stages": [],
+ "topics": [
+  "welfare",
+  "wellbeing",
+  "confidentiality",
+  "almoner",
+  "safeguarding",
+  "mentor wellbeing"
+ ],
+ "level": "recommended",
+ "principle": "support",
+ "minutes": 70,
+ "passMark": 80,
+ "completion": "Complete the required readings and both scenarios, then pass the final assessment at 80% (you can try again). The warm-up quiz, reflections, Lodge task and thirty-days-on lesson are optional.",
+ "source": "E7f Welfare, Wellbeing and Knowing Your Limits, Topic Course Draft for Development Issue 1 (October 2026). Draws on the UGLE/MCF Almoner's Guide, the Lodge Mentor's Guide (B1, section 8.3), the Personal Mentor's Guide (B2), the Style, Terminology and Data Guide (A3, section 7, draft), nhs.uk guidance on helping someone with suicidal thoughts, Samaritans guidance and ICO guidance on special category data.",
+ "changeSummary": [
+  "States plainly at the start what a mentor is and is not in welfare matters: not a counsellor, doctor, therapist or welfare specialist.",
+  "Replaces 'the Almoner leads on health, money, family or safety' with three kinds of conversation: ordinary life, support needs, and risk of harm.",
+  "Referrals no longer go automatically to the Lodge Mentor: the Almoner is involved with the Brother's agreement, and the Lodge Mentor is told only what he needs, if anything.",
+  "New honest confidentiality wording, and a clear line between necessary safety actions and the Brother's ordinary preferences, including what to do if he declines the Almoner.",
+  "Safeguarding concerns about a child or adult at risk now have their own guidance (no investigating; Almoner and Provincial safeguarding contact, which the Province is to confirm).",
+  "Emergency contacts updated to the approved wording: 999, NHS 111 option 2 in Hertfordshire, Samaritans, Shout 85258, and the MCF operating as the Freemasons' Charity. Unconfirmed email removed.",
+  "Redundancy scenario strengthened (permission, declining, what to tell whom, what to record) and a second short scenario added where safety comes before his wishes.",
+  "Reflections and the Lodge task no longer ask for names, numbers or anyone's circumstances; lone visiting now says carry a charged phone. Pass mark 80%."
+ ],
+ "modules": [
+  {
+   "title": "About this course",
+   "summary": "What a mentor's part in welfare is, what it is not, and a quick check of where you are starting from.",
+   "lessons": [
+    {
+     "title": "What this course covers",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Mentors hear things. A Personal Mentor is a friend, and friends get told things. Sooner or later a Brother will mention the redundancy, the diagnosis, the marriage under strain or the money that won't stretch, and quite possibly he will tell you before he tells anyone else at the Lodge. That trust is worth a great deal. It also means you need to know what to do with it.\n\nSo let's be clear from the start. **Mentors are not counsellors, doctors, therapists or welfare specialists**, and nobody expects you to be one. Your part is a smaller one, and it matters:\n\n- **notice** when something seems to have changed\n- **listen** properly, without rushing to fix it\n- **respond** sensibly in the moment, and honestly\n- **explain** what help exists\n- **involve** the Almoner, or another appropriate person, normally with his agreement\n- **recognise** when urgent help is needed, and get it\n\nMost of what follows is common sense. A few parts, about safety, are not optional, and the course says so plainly when it gets there. That is also why the pass mark is 80% rather than the usual 75%.\n\n### By the end of this course you will be able to\n\n1. Tell the difference between an ordinary conversation between friends, a need for practical or welfare support, and a risk of harm.\n2. Open a conversation gently when you notice something, and listen well.\n3. Explain confidentiality honestly, without promising what you cannot keep.\n4. Involve the Almoner with the Brother's agreement, tell others only what they need to know, and record no more than you should.\n5. Act without delay if someone may be at risk, and know who to call.\n6. Look after your own wellbeing and safety while you support someone else.\n\n### How this course works\n\n| Part | What it is |\n|---|---|\n| Before you start | Four quick questions. Optional, and they do not count. |\n| The modules | Short readings and two branching scenarios. These are required. |\n| Final assessment | Twelve questions. Pass mark 80%. You can try again. |\n| Your Lodge task | Optional: a few practical steps so that you know who to call before you need to. |\n| Thirty days on | Optional: one question about what you tried. |\n\nThe required parts take about an hour, and the optional ones about ten minutes more. Your progress is saved, so you can stop and come back."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "The scenarios in this course are made up. None describes a real Brother. In the reflections, please do not write about real people either: this course never needs names or anyone's circumstances."
+      }
+     ]
+    },
+    {
+     "title": "Before you start",
+     "kind": "quiz",
+     "minutes": 3,
+     "required": false,
+     "isAssessment": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Four questions to see where you are starting from. They do not count. Answer honestly, then notice which ones surprised you."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "true_false",
+       "prompt": "A good mentor should be able to handle most welfare matters himself without troubling the Almoner.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Listening is yours; support needs belong with the Almoner, normally with the Brother's agreement.",
+       "feedbackIncorrect": "Not quite. A mentor listens and stays a friend, but money, health, care and family support needs are the Almoner's field.",
+       "explanation": "Involving the Almoner early is a skill, not a failure. He knows what help exists, including the Masonic Charitable Foundation, and he has the training for it. A mentor who tries to carry a welfare problem alone usually ends up with two people struggling instead of one."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "Help from the Masonic Charitable Foundation is only for Freemasons themselves, not their families.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. The MCF supports Freemasons and their families.",
+       "feedbackIncorrect": "It is wider than that. The MCF supports Freemasons and their families.",
+       "explanation": "The MCF, now operating as the Freemasons' Charity, supports Freemasons and their families in England and Wales. Its Advice and Support Team is free, independent and confidential. Worth knowing, because a Brother may be worried about a partner or child rather than himself."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "If a Brother tells you something personal and you involve the Almoner, the Lodge Mentor should always be told the details too.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. The Lodge Mentor is told only what he needs, if anything.",
+       "feedbackIncorrect": "No. Personal disclosures are not passed up the line as a matter of course.",
+       "explanation": "The Lodge Mentor coordinates mentoring. He may need to know that support is in hand, for example if a Brother will be missing meetings, but rarely more. The details stay with the Brother and the Almoner, unless safety requires otherwise."
+      },
+      {
+       "kind": "single",
+       "prompt": "Late one evening a Brother you mentor tells you he has been thinking about ending his life, and asks you to promise to tell no one. What do you do?",
+       "options": [
+        "Promise, so that he keeps talking to you",
+        "Take it seriously, stay with him, and get help now: 999 if life is at immediate risk, otherwise NHS 111 and the mental health option",
+        "Suggest he books an appointment with his GP next week, and ring him afterwards"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Take it seriously and get help now. This is not a promise you can make.",
+       "feedbackIncorrect": "This is a moment for help now, not later and not in secret.",
+       "explanation": "Where life may be at risk, getting help is necessary, not a matter of preference. Tell him honestly that you cannot keep this to yourself because you are worried about him. Module 5 covers what to say and who to call."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Where the mentor's role ends",
+   "summary": "Three kinds of conversation, and confidentiality told honestly.",
+   "lessons": [
+    {
+     "title": "Three kinds of conversation",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Not everything a Brother tells you about his life is a welfare matter. If he mentions a new baby, a busy few months at work or a sick dog, that is simply life, and you respond as a friend would. Sending the Almoner round because someone's wife has had a baby would be odd, and he would rightly wonder why you told anyone.\n\nIt helps to think of three kinds of conversation.\n\n| What he tells you | Examples | What you do |\n|---|---|---|\n| **Ordinary life** | A new baby, a house move, a demanding job, exams, a holiday, a parent getting older | Be a friend. Listen, show an interest, and adjust mentoring to fit (fewer calls, a quieter few months). No referral needed. |\n| **Practical or welfare support needs**, or anything beyond what a friend can sensibly handle | Money he cannot manage, redundancy, serious illness in the family, caring for someone, bereavement that is overwhelming him, loneliness that worries you | Listen, then explain what help exists and ask whether he would like the Almoner to be in touch. With his agreement, involve the Almoner. |\n| **Risk of harm** to him or to someone else | He talks about ending his life; someone is seriously hurt or in danger; a child or adult may be being harmed | Get help now. This is covered in Module 5. |\n\nThe lines are not always neat. A bereavement can be ordinary grief that a friend supports well, or it can tip into something heavier. Use your judgement, and if you are unsure, it is perfectly fine to ask the Almoner's advice in general terms without naming anyone.\n\n### The mentor and the Almoner\n\n| The mentor | The Almoner |\n|---|---|\n| Listens, and stays a friend | Takes the lead on welfare support |\n| Notices, and explains what help exists | Visits, listens to the detail and arranges support |\n| Involves the Almoner with the Brother's agreement | Works with the Provincial Grand Almoner and the Masonic Charitable Foundation |\n| Keeps the Lodge connection warm | Holds welfare details confidentially, in his own records |\n\nThe Almoner's Guide describes his role as 'providing emotional and practical support to brethren and their immediate family'. That is a role with training and resources behind it. Handing over to him is not passing the buck: it gets the Brother better help, and it protects you."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "A useful test: would a sensible friend be out of his depth here? If yes, the Almoner (or a doctor, or an emergency service) is the right person, and your part is to help the Brother get there."
+      }
+     ]
+    },
+    {
+     "title": "Confidentiality, honestly",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Sometimes a Brother will say 'Can I tell you something, but you must promise not to tell anyone?' The kind reply is 'Of course.' It is also the wrong one, because there are a few things you could not keep to yourself, and you do not know yet what he is about to say.\n\nSay something like this instead:\n\n> \"I'll keep this between us unless I'm worried about your safety or someone else's, and if that happens I'll talk to you first if I possibly can.\"\n\nPut it in your own words, but keep the substance. It is honest, it rarely stops anyone talking, and it means you never have to break a promise.\n\n### What stays private\n\nMost things a Brother tells you stay with you. Not every personal matter is passed to the Lodge Mentor, the Master or the Province. In ordinary circumstances:\n\n- **The Almoner** is involved with the Brother's agreement, and told what he needs to help.\n- **The Lodge Mentor** is told only what he needs to coordinate mentoring, and only where that is useful. Often that is just 'support is in hand', or 'he may be missing a few meetings, nothing to chase'. Sometimes it is nothing at all.\n- **The Master, the Committee and the Province** do not need personal details. If the Master needs to know something (say, that a Brother needs to step back from office this year), agree with the Brother what will be said, or let him say it himself.\n- **Asking for advice** is fine. You can talk a situation over with the Almoner, your Lodge Mentor or the Provincial Mentoring Team without naming the Brother.\n\n### Necessary actions and ordinary preferences\n\nThis is the distinction that matters most in this course.\n\n| Necessary, whatever he would prefer | His choice, and you respect it |\n|---|---|\n| Life is at immediate risk, or you do not feel you can keep him safe: call **999**, and stay with him if it is safe to do so | Whether the Almoner is involved, when there is no risk to anyone |\n| An urgent mental health crisis: get him to **NHS 111** (mental health option) now, or an emergency GP appointment, and help him make the call | Who else at the Lodge knows, and what they are told |\n| A child or adult may be at risk of harm: report the concern (Module 5) | Whether he wants help at all, and what kind |\n| | How much he tells you, and when |\n\nWhen you take a necessary action, tell him what you are doing and why, if you possibly can. When it is his choice, respect it, even if you would have chosen differently."
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "Never promise absolute secrecy. Never pass on personal matters just because someone might be interested. Those two rules together cover most situations."
+      },
+      {
+       "type": "text",
+       "markdown": "### Records\n\nKeep records to the minimum. The Lodge Mentor's Guide is clear that welfare matters belong in the Almoner's records, and the Personal Mentoring Plan notes at most 'referred to Almoner' and the date. Health information is 'special category' data under UK GDPR, with extra legal protection, so keep it out of mentoring records altogether. And never put a Brother's circumstances into the Academy, an email to the Lodge, or a WhatsApp group."
+      }
+     ],
+     "devNotes": "Confidentiality wording follows the lead editor's instruction and brief section 4. B2 (Personal Mentor's Guide, welfare box) still says 'speak to the Lodge Almoner and Lodge Mentor as soon as possible' and B1 table says 'Refer anything touching welfare'; both should be aligned with this course at their next issue. A3 section 7 is still a draft pending the Province's data decision."
+    }
+   ]
+  },
+  {
+   "title": "Noticing and opening the conversation",
+   "summary": "The signs that a Brother or his family may need help, and how to start talking about it.",
+   "lessons": [
+    {
+     "title": "What to look out for",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "The Almoner's Guide, produced by UGLE with the Masonic Charitable Foundation, lists signs that someone may need support. A Personal Mentor, who sees a Brother more often and more informally than most, may notice some of them first.\n\n| Possible sign of | What you might notice |\n|---|---|\n| Money worries | Repeated talk about cost; dropping the Festive Board; the car off the road; a house that is cold or in poor repair; unopened post |\n| Ill health, including anxiety or depression | Weight loss or gain; low energy; tearfulness or sudden mood changes; confusion or difficulty finding words; forgetting things that matter to him |\n| Loneliness and isolation | A big change in routine; a neglected appearance; feelings of worthlessness; the loss of a partner or close friend; little contact with anyone |\n| A hard life event | Redundancy, bereavement, relationship breakdown, caring for a relative, serious illness in the family |\n\nNone of these proves anything. The Almoner's Guide gives the example of a cold house: it could mean someone cannot afford the heating, or that he simply likes it that way. Do not make assumptions. Let what you notice prompt a gentle conversation, not a conclusion.\n\nThe same goes for Lodge life. If a Brother who never missed a meeting has missed a few, a friendly call is a sensible habit. It is not evidence of a problem, and it is not a reason to start keeping notes on him. He may simply be busy, or enjoying a quieter season, which is entirely his business.\n\n### Loneliness is often hidden\n\nIn the government's Community Life Survey for 2024/25, 7% of adults in England said they felt lonely often or always. Plenty of them would not look lonely to you. For some men the Lodge, and a mentor who rings between meetings, is one of the few places they have regular, friendly contact. That is worth remembering when you are deciding whether a call is worth making. It usually is."
+      }
+     ],
+     "devNotes": "Community Life Survey 2024/25 figure (6.6%, rounded to 7%) is facts.md E20, verified; check for a 2025/26 release at the next issue."
+    },
+    {
+     "title": "Opening the conversation",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "If something seems different, the answer is usually a simple, friendly question, at a sensible time and place. A worry rarely comes out at the bar on a Lodge night. A coffee, a walk, or a phone call when he has time to talk works better.\n\nThe Almoner's Guide suggests openers such as:\n\n- \"How have you been recently?\"\n- \"How's the family?\"\n- \"Has anything been troubling you recently? Is there anything you'd like to change?\"\n- \"Do you have anyone helping you, or someone you can talk to?\"\n\nThen listen. Do not rush to fix things, and do not fill every pause. If he tells you something difficult, a few habits help:\n\n- **Thank him for telling you.** It took trust.\n- **Take it seriously**, whatever it is. It matters to him.\n- **Ask what would help.** The Province's Support principle puts it in four words: 'How can we help?'\n- **Be specific if you offer something.** The Almoner's Guide makes the point that 'Is there anything I can do?' is easy to say and hard to answer. 'I'm passing the shops later, what can I pick up?' is easier to accept.\n- **Do not promise what others decide.** You cannot promise a grant, a visit on a particular day, or a particular outcome.\n- **Do not pry.** If he does not want to say more, let it be, and make sure he knows the door is open.\n\nAnd if the answer to 'How have you been?' is 'Fine, thanks, busy', that is often exactly what it means. You do not need to dig."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "The topic course The Mentoring Conversation goes further into listening, questions and difficult conversations."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Involving the Almoner",
+   "summary": "Permission, what to pass on, what to record, and what to do if he says no.",
+   "lessons": [
+    {
+     "title": "The hand-off",
+     "kind": "content",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "When a Brother tells you about a support need, the usual route looks like this.\n\n1. **Listen first**, and thank him for telling you.\n2. **Explain what help exists.** The Almoner is there for exactly this, and is discreet. The Masonic Charitable Foundation offers free, independent and confidential advice and support to Freemasons and their families.\n3. **Ask his agreement.** \"Would it be all right if I asked the Almoner to give you a ring? He can help with things I can't.\" If he would rather contact the Almoner himself, that is fine too.\n4. **Tell the Almoner what he needs**, and no more: the gist, that the Brother would welcome a call, and how best to reach him. Let the Brother tell his own story.\n5. **Tell the Lodge Mentor only if it is useful**, and then only what he needs to coordinate mentoring: usually just that support is in hand.\n6. **Record the minimum.** At most 'Referred to Almoner' and the date in the Personal Mentoring Plan. Nothing in the Academy.\n7. **Stay his friend.** Keep in touch as before. Do not drop him because someone else is helping.\n8. **Close the loop.** A few weeks later, ask him (not the Almoner) whether the help reached him and whether it is making a difference.\n\n### If he says no\n\nIf he does not want the Almoner involved, and there is no risk to his safety or anyone else's, respect it. It is his life. Then:\n\n- stay his friend, and do not let the subject hang over every conversation\n- make sure he knows how to get help himself if he changes his mind: the MCF freephone number, and his GP for anything health-related\n- offer again later, lightly. People often say yes the second time, once the idea has settled\n\nIf you are worried but there is no safety risk, you can still ask the Almoner's advice in general terms without naming him. If there is a risk to his safety or someone else's, it is no longer a matter of preference: Module 5 covers that.\n\n### Who can help\n\n- **The Lodge Almoner**: the first point of contact for welfare in the Lodge.\n- **The Provincial Grand Almoner**: support and advice for Lodge Almoners, and the Province's link with the MCF. Contact through the Provincial website or the Provincial Office.\n- **The Masonic Charitable Foundation**, now operating as the Freemasons' Charity: its Advice and Support Team gives free, independent and confidential advice across England and Wales on money, health, care and family matters, and helps with applications. Freephone **0800 035 60 90**. A Brother can ring them direct.\n- **His GP**, for anything to do with his physical or mental health. The Almoner's Guide describes gently encouraging someone to speak to their GP as part of the welfare role."
+      },
+      {
+       "type": "resource",
+       "title": "The Freemasons' Charity (Masonic Charitable Foundation)",
+       "url": "https://www.freemasonscharity.org.uk/",
+       "description": "Support for Freemasons and their families: financial, health, care and family help, and the Advice and Support Team. Freephone 0800 035 60 90."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "Phone numbers and organisation names can change. They are checked at every issue of this course; if one does not work, the Lodge Almoner or the Provincial Office will have the current details."
+      }
+     ],
+     "devNotes": "MCF name and freephone from facts.md approved wording 15 / F01 (checked 26 Oct 2026). The MCF email address printed in the Almoner's Guide is deliberately omitted (F02, unconfirmed; Provincial Grand Almoner to confirm). Check at every issue."
+    },
+    {
+     "title": "Scenario: the redundancy",
+     "kind": "scenario",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A made-up situation. Choose what you would do at each step. Weaker choices can usually be recovered, as in real life."
+      }
+     ],
+     "scenario": {
+      "start": "h1",
+      "nodes": {
+       "h1": {
+        "text": "The Brother you mentor, a Fellow Craft, rings to say he won't be at the next meeting. When you ask how he is, he goes quiet. Then he says he was made redundant three weeks ago and hasn't told his wife yet. What do you do first?",
+        "choices": [
+         {
+          "label": "Thank him for telling you, ask how he is coping, and listen.",
+          "next": "h2",
+          "feedback": "Good. He has just told you something he hasn't told his wife. Listening first, and letting him say it in his own way, is exactly right. Advice and next steps can wait a few minutes."
+         },
+         {
+          "label": "Reassure him straight away that he needn't worry about his subscription.",
+          "next": "h1b",
+          "feedback": "Kindly meant, but it jumps to the Lodge's concern before his. He has not mentioned money yet, and the subscription is probably the last thing on his mind."
+         },
+         {
+          "label": "Start talking him through job-hunting websites and what benefits he might claim.",
+          "next": "h1c",
+          "feedback": "Well meant, but he did not ask, and you are not the right source for benefits advice. Practical help may come later, through the Almoner and the MCF."
+         }
+        ]
+       },
+       "h1b": {
+        "text": "He says, \"It's not really about the sub.\" The conversation stalls.",
+        "choices": [
+         {
+          "label": "Go back a step: ask how he is really doing, and listen.",
+          "next": "h2",
+          "feedback": "Good recovery. People rarely mind a clumsy start if you then give them room to talk."
+         }
+        ]
+       },
+       "h1c": {
+        "text": "He thanks you politely, but sounds more overwhelmed than before.",
+        "choices": [
+         {
+          "label": "Stop, apologise for rushing, and ask how he is coping.",
+          "next": "h2",
+          "feedback": "Good recovery. Slowing down shows him you are interested in him, not just the problem."
+         }
+        ]
+       },
+       "h2": {
+        "text": "He says he isn't sleeping, he's worried about the mortgage, and he feels he's let everyone down. Then: \"Please don't say anything to anyone at the Lodge. I couldn't stand people knowing.\" What do you say?",
+        "choices": [
+         {
+          "label": "\"I'll keep this between us unless I'm ever worried about your safety or anyone else's. But can I tell you about the Almoner? He's there for exactly this, he's discreet, and the Masonic Charitable Foundation gives free, confidential advice to Freemasons and their families. Would you be happy for him to give you a ring?\"",
+          "next": "h3",
+          "feedback": "Good. Honest about confidentiality, clear about what help exists, and his decision. Nothing he has said suggests a risk to anyone's safety, so this is his choice to make."
+         },
+         {
+          "label": "\"Of course. I won't say a word to anyone, I promise.\"",
+          "next": "h2b",
+          "feedback": "Kind, but it closes the door on the help he may need, and it is a promise you might not be able to keep if things got worse."
+         },
+         {
+          "label": "\"I understand, but this is really one for the Almoner. I'll give him a ring tonight so he can get things moving.\"",
+          "next": "h2c",
+          "feedback": "Your instinct is right that the Almoner could help, but there is no safety risk here. Going ahead after he has asked you not to tell anyone overrides his wishes and risks his trust."
+         }
+        ]
+       },
+       "h2b": {
+        "text": "A fortnight later he has stopped answering your calls. You are worried, and you feel stuck because of what you promised.",
+        "choices": [
+         {
+          "label": "Ring again and leave a friendly message. When you speak, tell him you've been thinking about him, explain what the Almoner and the MCF can do, and ask whether he'd like the Almoner to call.",
+          "next": "h3",
+          "feedback": "Good. You have not broken your promise: you have gone back to him and offered help, which is what you should have done first time. It is never too late for that."
+         }
+        ]
+       },
+       "h2c": {
+        "text": "He goes quiet, then says, \"I asked you not to.\" He sounds hurt.",
+        "choices": [
+         {
+          "label": "Apologise, reassure him you haven't spoken to anyone, and explain what the Almoner could do. Ask whether he'd be willing, and say it's entirely his decision.",
+          "next": "h3",
+          "feedback": "Good recovery. Owning the mistake straight away usually rebuilds trust. The choice is now back with him, where it belongs."
+         }
+        ]
+       },
+       "h3": {
+        "text": "He says he'll think about it, but not yet. He doesn't want the Almoner involved for now.",
+        "choices": [
+         {
+          "label": "Respect it. Stay in touch as normal, give him the MCF freephone number so he can ring them himself, suggest he mentions the sleeplessness to his GP, and say you'll ask again in a week or two.",
+          "next": "h4",
+          "feedback": "Good. With no safety risk, this is his decision. You have made sure he knows how to get help without you, you have stayed his friend, and you have left the offer open."
+         },
+         {
+          "label": "Press him: tell him he really must let the Almoner help, for his family's sake.",
+          "next": "h3b",
+          "feedback": "Pressure, even kindly meant, tends to make people withdraw. He is an adult facing a hard time, and he needs to feel in control of something."
+         }
+        ]
+       },
+       "h3b": {
+        "text": "He goes defensive and wraps up the call quickly.",
+        "choices": [
+         {
+          "label": "Ring back the next day, apologise for pushing, say the offer stands whenever he wants it, and talk about something else.",
+          "next": "h4",
+          "feedback": "Good recovery. Keeping the friendship going matters more than winning the argument."
+         }
+        ]
+       },
+       "h4": {
+        "text": "Ten days later, over a coffee, he says he's told his wife, and yes, he'd like the Almoner to call. You ring the Almoner that evening. What do you tell him?",
+        "choices": [
+         {
+          "label": "That he has been made redundant, is worried about money, would welcome a call, and the best number and time to reach him.",
+          "next": "h5",
+          "feedback": "Good. Enough for the Almoner to make a sensible first call, and the rest is the Brother's to tell in his own words."
+         },
+         {
+          "label": "Everything you know, including the sleepless nights, the fortnight he didn't tell his wife and how low he has been, so the Almoner has the full picture.",
+          "next": "h4b",
+          "feedback": "Well meant, but he agreed to a call, not to his whole story being passed on. Let him tell the Almoner what he wants to. If you were worried about his safety, that would be different."
+         }
+        ]
+       },
+       "h4b": {
+        "text": "The Almoner, who is tactful, thanks you and says he'll let the Brother tell him things in his own time.",
+        "choices": [
+         {
+          "label": "Note the point for next time, and leave the detail to the two of them.",
+          "next": "h5",
+          "feedback": "Good. A small lesson, and no harm done this time."
+         }
+        ]
+       },
+       "h5": {
+        "text": "At the next meeting the Lodge Mentor asks why your Brother hasn't been coming. Later that week you also update his Personal Mentoring Plan. What do you do?",
+        "choices": [
+         {
+          "label": "Tell the Lodge Mentor he has a lot on at the moment and support is in hand, so there's no need to chase him. In the plan, write only \"Referred to Almoner\" and the date.",
+          "next": "end_good",
+          "feedback": "Exactly right. The Lodge Mentor knows enough to coordinate mentoring, the plan says the minimum, and the Brother's private life stays private."
+         },
+         {
+          "label": "Explain the whole situation to the Lodge Mentor so he understands, and note \"made redundant, mortgage worries\" in the plan so your successor would know.",
+          "next": "end_partial",
+          "feedback": "Understandable, but neither is needed. The Lodge Mentor only needs to know that support is in hand, and details about his money and health do not belong in a mentoring record."
+         }
+        ]
+       },
+       "end_good": {
+        "text": "**Ending.** The Almoner calls him, and with his agreement puts him in touch with the MCF's Advice and Support Team. You keep ringing as before, mostly about nothing in particular. A few weeks later you ask, casually, whether the help has been useful, and he says it has. He's back at Lodge in the spring.\n\nWhat went well: you listened first; you were honest about confidentiality; you respected his decision when there was no risk, and made sure he could get help himself; you passed on only what was needed; your record says 'Referred to Almoner' and a date, and nothing was written in the Academy. And you stayed his friend throughout, which is the part only you could do.",
+        "choices": []
+       },
+       "end_partial": {
+        "text": "**Ending.** The Brother gets the help he needed, and you stayed his friend, which matters most. But his redundancy and money worries are now known to someone who did not need to know, and written in a plan that could be read by others or handed on. If he finds out, he may wonder what else you have shared.\n\nWhat to take away: the Lodge Mentor needs to know, at most, that support is in hand. The Personal Mentoring Plan notes at most 'Referred to Almoner' and the date. If you have already written more, delete it. Nothing about a Brother's circumstances goes into the Academy.",
+        "choices": []
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "title": "If someone may be at risk",
+   "summary": "When getting help is necessary rather than optional, and what to do.",
+   "lessons": [
+    {
+     "title": "Acting without delay",
+     "kind": "content",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Very occasionally a mentor hears something that suggests a Brother, or someone else, may be at risk of serious harm. You do not need to be an expert, and you are not expected to assess the risk yourself. You need to take it seriously and get help. In these situations, the action is **necessary**: it does not depend on whether he would prefer it.\n\n### Who to call\n\n| If | Who to contact |\n|---|---|\n| Life is at immediate risk (he has seriously harmed himself or may be about to), or you do not feel you can keep him or someone else safe | **999**, or go straight to A&E |\n| An urgent mental health crisis that is not immediately life-threatening | **NHS 111**, choosing the mental health option (option 2 in Hertfordshire, which connects to the Hertfordshire Partnership University NHS Foundation Trust's 24-hour team). HPFT also gives freephone **0800 6444 101** |\n| He wants someone to talk to, at any time | **Samaritans**, free on **116 123**, day or night |\n| He would rather text than talk | Text **SHOUT** to **85258** |\n| Practical, financial, health or family support for Freemasons and their families in England and Wales | The Lodge Almoner, the Provincial Grand Almoner, or the **Masonic Charitable Foundation** (now operating as the Freemasons' Charity), freephone **0800 035 60 90** |\n\nYou can also ring NHS 111 or Samaritans yourself for advice if you are worried about someone else.\n\n### If he talks about ending his life\n\n- **Stay calm and take it seriously.** Do not brush it aside or change the subject.\n- **Ask directly.** \"Are you thinking about suicide?\" Samaritans advise that asking someone directly whether they are thinking about suicide does not put the idea in their head, and can help them talk.\n- **Listen.** You do not need answers. Listening helps more than trying to fix things.\n- **Do not promise secrecy.** Tell him you are worried about his safety and want to get help with him.\n- **Get help now.** If life is at immediate risk, he has harmed himself, or you do not feel you can keep him safe, call 999 and stay with him if it is safe to do so. Otherwise help him call NHS 111 and choose the mental health option (or ask his GP for an emergency appointment), and offer to stay while he does.\n- **Afterwards**, keep in touch, ask (with his agreement) whether the Almoner can help, and talk to someone yourself.\n\n### If a child or adult may be at risk of harm\n\nSometimes what you hear is a worry about someone else: a child, or an adult who may be being hurt, neglected or exploited. The Almoner's Guide is clear that we all have a responsibility to raise such concerns.\n\n- **If anyone is in immediate danger, call 999.**\n- Otherwise, **report the concern promptly** to the Lodge Almoner and the Provincial safeguarding contact. If you cannot reach either quickly, the Almoner's Guide says a concern can go to the local social services team or the police.\n- **Do not investigate**, and do not ask leading or probing questions. That is for people trained to do it.\n- **Listen calmly**, take it seriously, and do not promise confidentiality.\n- **Write down** what was said, factually, with the date and time, and give it to whoever you report to. Do not keep it in the mentoring plan, and never in the Academy.\n- **Do not discuss it** with anyone who does not need to know."
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "In a safety situation you do not need anyone's permission to call 999 or NHS 111, including his. If you are unsure how serious it is, ring NHS 111 and choose the mental health option: they are trained to judge that, and you are not expected to. If you think life may be at risk, do not wait to be sure: call 999."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "This lesson is not training in mental health first aid. If you would like that, recognised courses (such as those from MHFA England) are widely available. Ask your Assistant Provincial Mentor whether the Province can help."
+      }
+     ],
+     "devNotes": "Contacts are facts.md approved wording 15 (F04 to F07); check at every issue. Samaritans line is F08 approved wording. 'You can ring 111 or Samaritans for advice about someone else' is from nhs.uk 'Help for suicidal thoughts' (reviewed 26 Apr 2024). SAFEGUARDING: no Provincial safeguarding policy or named contact was in the supplied documents (facts.md Part 3 item 13). The Province must confirm the named Provincial safeguarding contact and policy before publication, and this lesson should then name the role and how to reach it. The 'social services or police' fallback and the 'do not investigate / write down what was said' points are from the UGLE/MCF Almoner's Guide, section 5. MHFA funding is a Provincial decision (F13). QA (Issue 3): 999 criteria now include 'you do not feel you can keep him or someone else safe', and GP wording changed to 'emergency appointment', both from nhs.uk (Where to get urgent help for mental health; Help for suicidal thoughts, reviewed 26 Apr 2024), checked 26 Oct 2026. The urgent-help page shows 'next review due 26 April 2026', so recheck it before publication. The 'make the call anyway' callout now says ring NHS 111 if unsure and 999 if life may be at risk."
+    },
+    {
+     "title": "Scenario: when safety comes first",
+     "kind": "scenario",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A made-up situation, deliberately short. It shows the one kind of moment where getting help is necessary, whatever the Brother would prefer, and how to handle it calmly."
+      }
+     ],
+     "scenario": {
+      "start": "s1",
+      "nodes": {
+       "s1": {
+        "text": "After a Lodge meeting you give the Brother you mentor a lift home. He has been quiet all evening. Parked outside his house, he says: \"Honestly, everyone would be better off without me. I've been thinking about how I'd end it.\" Then, quickly: \"Forget I said that. Don't tell anyone.\" What do you do?",
+        "choices": [
+         {
+          "label": "Stay calm, turn the engine off, and ask him directly: \"Are you thinking about suicide?\"",
+          "next": "s2",
+          "feedback": "Right. Samaritans advise that asking directly does not put the idea in someone's head, and can help them talk. Staying calm tells him he can be honest with you."
+         },
+         {
+          "label": "\"Don't talk like that. You've got a lovely family and so much to live for.\"",
+          "next": "s1b",
+          "feedback": "Meant kindly, but it tells him this subject is not welcome, and he may stop talking. Listening and taking him seriously helps more than reassurance."
+         },
+         {
+          "label": "\"All right, I won't tell anyone. But talk to me.\"",
+          "next": "s1c",
+          "feedback": "You want to keep him talking, which is right, but this is a promise you cannot keep. His safety comes first."
+         }
+        ]
+       },
+       "s1b": {
+        "text": "He gives a short laugh, says \"Yeah, I know,\" and reaches for the door handle.",
+        "choices": [
+         {
+          "label": "Ask him to stay a minute: \"I'm sorry, I didn't mean to brush that off. Are you thinking about suicide?\"",
+          "next": "s2",
+          "feedback": "Good recovery. It is never too late to go back and ask properly."
+         }
+        ]
+       },
+       "s1c": {
+        "text": "He talks a little more, and what he says worries you. You realise you have promised something you cannot keep.",
+        "choices": [
+         {
+          "label": "Tell him honestly: \"I shouldn't have promised that. I'm worried about your safety, so I can't keep this to myself, but I'll do this with you, not behind your back.\"",
+          "next": "s2",
+          "feedback": "Good. Correcting it straight away, and honestly, is far better than breaking the promise later without telling him."
+         }
+        ]
+       },
+       "s2": {
+        "text": "He says yes, he has thought about it, though he says he wouldn't do anything tonight. He looks exhausted. He wants to go in and asks you to leave it.",
+        "choices": [
+         {
+          "label": "Tell him you are worried and can't just leave it. Suggest you call NHS 111 together now and choose the mental health option, and say you'll stay while he talks to them.",
+          "next": "s3",
+          "feedback": "Right. This is a necessary action, not a preference. An urgent mental health crisis that is not immediately life-threatening is what NHS 111's mental health option is for (option 2 in Hertfordshire). Staying with him makes it far easier for him to make the call."
+         },
+         {
+          "label": "Respect his wish: he's an adult and says he's safe tonight. Agree to ring him tomorrow.",
+          "next": "s2b",
+          "feedback": "Respecting his wishes is usually right, but not here. When someone has been thinking about how to end his life, getting help is necessary, whatever he would prefer."
+         },
+         {
+          "label": "Call 999 straight away.",
+          "next": "s2c",
+          "feedback": "If you believe he may act now, he has harmed himself, or you do not feel you can keep him safe, 999 is right and nobody will criticise you for it. Here he is talking with you and says not tonight, so NHS 111's mental health option is the more likely route, but you were right to act."
+         }
+        ]
+       },
+       "s2b": {
+        "text": "You drive home, and can't stop thinking about it.",
+        "choices": [
+         {
+          "label": "Ring him straight back. Tell him you're worried, and that you'd like to call NHS 111 with him now, or come back and sit with him while he does. If you can't reach him and you fear for his safety, call 999.",
+          "next": "s3",
+          "feedback": "Right. It was the necessary step all along, and doing it now, rather than in the morning, is what matters. If he doesn't answer and you fear for his safety, 999 is the call to make."
+         }
+        ]
+       },
+       "s2c": {
+        "text": "The call handler asks you both some questions and arranges help.",
+        "choices": [
+         {
+          "label": "Stay with him, and follow what the call handler tells you.",
+          "next": "s3",
+          "feedback": "Good. Whether you start with 999 or 111, the important thing is that he is now in the hands of people trained to help, and you are beside him."
+         }
+        ]
+       },
+       "s3": {
+        "text": "He has now spoken to people trained to help, and they have agreed a plan with him for the next day. He is calmer. Before you go, he asks you not to tell anyone at the Lodge. What do you do?",
+        "choices": [
+         {
+          "label": "Agree that the Lodge doesn't need to know. Ask whether he'd like the Almoner to be in touch. Make sure he has the Samaritans and Shout numbers, say you'll ring in the morning, and later talk it through yourself with someone you trust.",
+          "next": "end_good",
+          "feedback": "Right. The necessary action is done: he has professional help. What the Lodge knows is now his choice again, and you have kept your promise to stay alongside him."
+         },
+         {
+          "label": "Message the Lodge Mentor and the Master tonight with what happened, so the Lodge can rally round him.",
+          "next": "end_weak",
+          "feedback": "Well meant, but the safety action was getting him professional help, and that is done. Telling the Lodge is not necessary for his safety, and it was against his clear wish."
+         }
+        ]
+       },
+       "end_good": {
+        "text": "**Ending.** You ring in the morning, as you said you would. He has an appointment with his GP. Over the following weeks he accepts the Almoner's offer of a call. Nobody else at the Lodge knows, and nobody needs to.\n\nYou also look after yourself. You talk it through with the Almoner, without going into his story, and ring Samaritans one evening when it is still on your mind. Your Personal Mentoring Plan records nothing beyond, at most, 'Referred to Almoner' and a date once that happens, and nothing goes into the Academy.\n\nWhat made the difference: you asked directly, you did not promise secrecy, you treated getting help as necessary rather than optional, and you stayed with him while he got it. If at any point he had told you he was about to act, or had harmed himself, 999 would have been the call.",
+        "choices": []
+       },
+       "end_weak": {
+        "text": "**Ending.** He got the help he needed that night, which was the most important thing, and you did that well. But the next morning the Master rings him, meaning well, and he is mortified that the Lodge knows. He stops replying to messages for a while.\n\nWhat to take away: safety overrides preference only as far as safety requires. Once he was talking to the mental health team, the necessary action was done. After that, who knows what was his decision again. If you are worried and want support for yourself, talk to the Almoner, the Provincial Mentoring Team or Samaritans without sharing more than you need to.",
+        "choices": []
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "title": "Looking after yourself",
+   "summary": "Your wellbeing and safety matter too.",
+   "lessons": [
+    {
+     "title": "You matter too",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Supporting someone through a hard time can stay with you. That is normal, and it is not a sign you are doing it wrong. A few habits help.\n\n### Talk to someone yourself\n\nHearing someone's troubles can be heavy. You can talk it over with the Almoner, your Lodge Mentor, your Assistant Provincial Mentor or the Provincial Mentoring Team (mentor@hertfordshirefreemasons.org.uk), in confidence and without naming the Brother if you would rather not. Samaritans (116 123) are there for you too, not only for the person you are worried about.\n\n### Keep your own boundaries\n\n- **Do not lend money.** However kindly meant, it changes the friendship and rarely solves the problem. Money worries go to the Almoner and the MCF.\n- **Do not be on call at all hours.** It is fine to say \"I'm around in the evenings, and if it's ever an emergency, ring 999 or 111.\"\n- **Do not become his only support.** What you can do is help him reach the right people, not to replace them.\n- **Remember your own family and commitments.** The Province's view is family and connections first, then Masonry. That applies to mentors too.\n\n### Visiting a Brother at home\n\nMost mentoring happens at the Lodge, over a coffee or on the phone. If you do visit a Brother at home, especially someone you do not know well, the lone visiting principles in the Almoner's Guide apply to you as well:\n\n- tell someone where you are going, when you expect to be back, and what to do if you do not check in\n- always carry a charged mobile phone, so you can call for help (silence it while you talk, by all means)\n- consider taking someone with you, letting the Brother know beforehand, or meeting somewhere neutral such as a cafe\n- trust your instincts: if you feel uneasy, leave. Have an excuse ready, such as something left in the car\n\nThe Almoner's Guide sums it up: if in doubt, don't do it."
+      }
+     ]
+    },
+    {
+     "title": "Your own support",
+     "kind": "reflection",
+     "minutes": 2,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A short, practical reflection. Please do not type names or phone numbers here: save them in your phone instead."
+      }
+     ],
+     "prompt": "If something you heard as a mentor weighed on you, who would you talk to, and how would you reach them? Save the contacts in your phone (your Lodge Almoner, your Lodge Mentor, your Assistant Provincial Mentor or the Provincial Mentoring Team), then note here only that you have done it and how you would get in touch (for example, 'Almoner by phone'). Please do not include names or personal details of other Brethren."
+    }
+   ]
+  },
+  {
+   "title": "Assessment and your Lodge task",
+   "summary": "Check your understanding, then make sure you know who to call before you need to.",
+   "lessons": [
+    {
+     "title": "Final assessment",
+     "kind": "quiz",
+     "minutes": 10,
+     "required": true,
+     "isAssessment": true,
+     "passMark": 80,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Twelve questions, most of them situations rather than definitions. Because this course covers safety, you need 80% to pass. You can try again. Where more than one answer is reasonable, the question says 'choose all that apply'."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "multiple",
+       "prompt": "Which of these would you normally handle simply as a friend, without suggesting the Almoner? Choose all that apply.",
+       "options": [
+        "He says the new baby is keeping them up and he may miss the next couple of meetings",
+        "He says work is frantic this quarter and he'll be quieter for a while",
+        "He mentions he can't see how he'll pay the gas bill this winter",
+        "He tells you his wife has a serious diagnosis and he is struggling to cope"
+       ],
+       "correct": [
+        0,
+        1
+       ],
+       "feedbackCorrect": "Right. A new baby and a busy job are ordinary life. Be a friend and adjust mentoring to fit.",
+       "feedbackIncorrect": "The first two are ordinary life, which a friend handles. The last two are support needs where the Almoner can help, with his agreement.",
+       "explanation": "Not every personal conversation is a welfare matter. A new baby or a busy spell at work needs friendship and a bit of flexibility, not a referral. Money he cannot manage, or a serious illness he is struggling with, is beyond what a friend can sensibly handle: listen, explain what help exists, and ask whether he would like the Almoner to be in touch."
+      },
+      {
+       "kind": "single",
+       "prompt": "Before telling you something, a Brother asks you to promise you won't tell anyone. What is the best reply?",
+       "options": [
+        "\"Of course, I promise.\"",
+        "\"I'll keep this between us unless I'm worried about your safety or someone else's, and if that happens I'll talk to you first if I possibly can.\"",
+        "\"I'll keep it between us, though I'll have to let the Lodge Mentor know.\"",
+        "\"Perhaps you'd be better telling the Almoner instead.\""
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Honest, and it rarely stops anyone talking.",
+       "feedbackIncorrect": "The honest answer is the one that explains the only limit: safety.",
+       "explanation": "A flat promise may be one you cannot keep. Saying the Lodge Mentor will be told is wrong too: personal matters are not passed up the line as a matter of course. Sending him straight to the Almoner before you know what it is may feel like a brush-off. The honest wording keeps the door open and means you never have to break a promise."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother tells you he is in debt and struggling, but he does not want the Almoner involved. Nothing he says suggests any risk to his safety or anyone else's. What do you do?",
+       "options": [
+        "Tell the Almoner quietly anyway, because it's for his own good",
+        "Respect his decision, stay his friend, make sure he has the MCF freephone number and knows he can ring them himself, and offer again later",
+        "Mention it to the Lodge Mentor so he can decide what to do",
+        "Drop the subject and never raise it again, so as not to embarrass him"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. With no safety risk, it is his choice, and you make sure he can get help himself.",
+       "feedbackIncorrect": "Where there is no risk to anyone's safety, whether the Almoner is involved is his decision.",
+       "explanation": "Overriding his wishes, or passing it to the Lodge Mentor, risks his trust and is not justified when no one's safety is at risk. Dropping it completely leaves him without a way in. The better approach respects his decision, keeps the friendship going, gives him the means to get help directly (the MCF, his GP), and leaves the offer open. You can also ask the Almoner's advice in general terms without naming him."
+      },
+      {
+       "kind": "single",
+       "prompt": "With his agreement, you have involved the Almoner to help a Brother through a difficult time. What should the Lodge Mentor be told?",
+       "options": [
+        "Only what he needs to coordinate mentoring, if anything: often just that support is in hand",
+        "The full details, so he has the whole picture",
+        "That a welfare referral has been made, always, the same day"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. Need to know, and only where it is useful.",
+       "feedbackIncorrect": "The Lodge Mentor is not told personal matters as a matter of course.",
+       "explanation": "The Lodge Mentor coordinates mentoring; he does not need the Brother's private circumstances. If the Brother is going to miss meetings or step back from something, 'support is in hand, no need to chase him' is usually enough. Sometimes nothing needs to be said at all. The details stay with the Brother and the Almoner."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "Which of these would be acceptable records after you have involved the Almoner? Choose all that apply.",
+       "options": [
+        "'Referred to Almoner' and the date, in the Personal Mentoring Plan",
+        "A short note of what happened in your Academy reflection, so you remember",
+        "'Redundant, mortgage arrears, wife not told' in the Personal Mentoring Plan",
+        "Nothing written in the mentoring record at all"
+       ],
+       "correct": [
+        0,
+        3
+       ],
+       "feedbackCorrect": "Right. At most 'Referred to Almoner' and a date, or nothing at all.",
+       "feedbackIncorrect": "Records should be the minimum: at most 'Referred to Almoner' and the date, and never anything in the Academy.",
+       "explanation": "The Personal Mentoring Plan notes at most 'Referred to Almoner' and the date; writing nothing is also fine. Welfare details are the Almoner's records, not the mentor's. Health information is special category data under UK GDPR. The Academy stores reflections against your account, so nothing about another Brother's circumstances belongs there."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother tells you he has been thinking about ending his life. What is right?",
+       "options": [
+        "Reassure him he has a lot to live for, and move the conversation on to something more cheerful",
+        "Take it seriously, ask him directly about it, stay with him and get help now: 999 if life is at immediate risk, otherwise NHS 111 and the mental health option",
+        "Promise to keep it to yourself, so that he keeps trusting you",
+        "Suggest he makes a GP appointment next week, and ring him afterwards to see how it went"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Take it seriously and get help now. This is necessary, not optional.",
+       "feedbackIncorrect": "This needs action now. Reassurance, secrecy or waiting a week all leave him without help.",
+       "explanation": "When someone talks about ending his life, getting help is necessary whatever he would prefer. Changing the subject can close the conversation; a promise of secrecy cannot be kept; a GP appointment next week may be too late. Ask directly, listen, tell him you are worried, and get help now. If life is at immediate risk or he has harmed himself, call 999 and stay with him if it is safe."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "Asking someone directly whether they are thinking about suicide can put the idea in their head.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Asking directly does not plant the idea.",
+       "feedbackIncorrect": "This is a common worry, but it is a myth.",
+       "explanation": "Samaritans advise that asking someone directly whether they are thinking about suicide does not put the idea in their head, and can help them talk. Asking calmly shows you are taking him seriously and gives him permission to be honest."
+      },
+      {
+       "kind": "single",
+       "prompt": "In Hertfordshire, who do you call for an urgent mental health crisis that is not immediately life-threatening?",
+       "options": [
+        "999",
+        "NHS 111, choosing the mental health option (option 2 in Hertfordshire)",
+        "101, the police non-emergency number",
+        "The Lodge Almoner"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. NHS 111, mental health option. 999 if life is at immediate risk.",
+       "feedbackIncorrect": "For an urgent crisis that is not immediately life-threatening, call NHS 111 and choose the mental health option.",
+       "explanation": "NHS 111's mental health option (option 2 in Hertfordshire) connects to the Hertfordshire Partnership University NHS Foundation Trust's 24-hour team. 999 is for when life is at immediate risk, and nobody will criticise you for using it if you believe that. The Almoner is the right person for support afterwards, not for a crisis. Samaritans (116 123) and Shout (text SHOUT to 85258) are there for anyone who needs to talk."
+      },
+      {
+       "kind": "single",
+       "prompt": "Something a Brother says makes you worry that a child in his household may be being harmed. There is no sign of immediate danger. What do you do?",
+       "options": [
+        "Ask him a few careful questions first, to find out whether there is really anything in it",
+        "Report the concern promptly to the Almoner and the Provincial safeguarding contact, with a factual note of what was said and when, and do not investigate",
+        "Keep it to yourself, because he told you in confidence",
+        "Mention it to the Master after the next meeting"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Report it promptly, factually, and leave any investigation to those trained for it.",
+       "feedbackIncorrect": "A concern that a child may be at risk must be reported promptly, and not investigated by you.",
+       "explanation": "Concerns about a child or adult at risk of harm are never a matter of confidence or preference. Asking probing questions can do harm and is not your role. Waiting until the next meeting delays things, and the Master is not the right route. Report promptly to the Almoner and the Provincial safeguarding contact; if you cannot reach them, the Almoner's Guide says social services or the police. If anyone is in immediate danger, call 999."
+      },
+      {
+       "kind": "single",
+       "prompt": "After involving the Almoner, what should the Personal Mentor do?",
+       "options": [
+        "Step back: the Almoner has it in hand now",
+        "Stay his friend, keep in touch as before, and later ask him whether the help reached him",
+        "Ask the Almoner for regular updates on the details",
+        "Raise it at the Lodge Committee so everyone can be supportive"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Stay close, and close the loop with him.",
+       "feedbackIncorrect": "The mentor stays his friend and checks, with him, that help arrived.",
+       "explanation": "Stepping back can feel like being dropped just when he needs friends. The Almoner's details are confidential, so asking him for updates puts him in an awkward spot; ask the Brother instead. The Committee does not need to know. Keeping in touch as before is the part only you can do."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "You are visiting a Brother at home on your own. Which of these are sensible? Choose all that apply.",
+       "options": [
+        "Tell someone where you are going and when you expect to be back",
+        "Carry a charged phone, though you can silence it while you talk",
+        "Leave if you feel uneasy, with an excuse ready if you need one",
+        "Lend him a little money if he is short, to tide him over"
+       ],
+       "correct": [
+        0,
+        1,
+        2
+       ],
+       "feedbackCorrect": "Right. Tell someone, carry a charged phone, and trust your instincts.",
+       "feedbackIncorrect": "The first three are the Almoner's Guide lone visiting principles. Lending money is not the mentor's role.",
+       "explanation": "The Almoner's Guide asks anyone visiting alone to tell someone where they are going and when they will return, always carry a charged mobile phone, and leave if uneasy: 'if in doubt, don't do it'. Lending money, however kindly meant, changes the friendship and rarely solves the problem. Money worries go to the Almoner and the MCF, with his agreement."
+      },
+      {
+       "kind": "single",
+       "prompt": "Weeks after supporting a Brother through a crisis, you are still thinking about it a lot. What is the best thing to do?",
+       "options": [
+        "Keep it to yourself: it was told in confidence",
+        "Talk it over with someone you trust, such as the Almoner, the Provincial Mentoring Team or Samaritans, sharing no more about him than you need to",
+        "Make sure you are available to him at any hour, so you don't worry",
+        "Step down as a Personal Mentor"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Talking to someone yourself is part of doing this well.",
+       "feedbackIncorrect": "You do not have to carry it alone, and confidentiality does not stop you getting support.",
+       "explanation": "Confidentiality does not mean bearing it on your own: you can talk about how you feel without going into his story or naming him. Being on call at all hours wears you out and does not help him. Stepping down is not needed. The Almoner, your Assistant Provincial Mentor, the Provincial Mentoring Team and Samaritans (116 123) are all there for mentors too."
+      }
+     ]
+    },
+    {
+     "title": "Your Lodge task",
+     "kind": "reflection",
+     "minutes": 4,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "This task makes sure that when the moment comes, you already know who to call. It is done in your phone and in your Lodge, not in the Academy.\n\nWithin the next thirty days:\n\n1. **Save the numbers** in your phone: your Lodge Almoner, how to reach the Provincial Grand Almoner, the MCF (0800 035 60 90), Samaritans (116 123), Shout (text SHOUT to 85258), and a note that NHS 111 option 2 is the mental health option in Hertfordshire.\n2. **Have a ten-minute chat with your Almoner** about how the two of you will work together if a Brother you mentor needs support. Keep it general: this is about how you work, not about anyone in particular.\n3. **Agree with your Lodge Mentor** what Personal Mentoring Plans in your Lodge will and will not say about welfare."
+      }
+     ],
+     "prompt": "What did you set up, and what did you agree about how you and the Almoner will work together? Please do not include names, phone numbers or personal details of other Brethren."
+    },
+    {
+     "title": "Thirty days on",
+     "kind": "reflection",
+     "minutes": 2,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Come back to this after your Lodge task. Thirty days from now the Academy will remind you. Your Assistant Provincial Mentor may ask the same over a coffee."
+      }
+     ],
+     "prompt": "What did you try? What happened? What would you do differently next time? Please write about your own practice only, and do not include names or personal details of other Brethren or anything about their circumstances."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,704 @@
+{
+ "code": "E7g",
+ "issue": "Issue 3",
+ "issueDate": "November 2026",
+ "fileTitle": "Helping Brethren Learn",
+ "slug": "helping-brethren-learn",
+ "title": "Helping Brethren Learn",
+ "summary": "How adults learn, and how to use it: the conversation after a ceremony, sharing meaning with humility, helping a Brother learn ritual if and as much as he wants, and pointing his curiosity to sources worth trusting.",
+ "tier": "specialist",
+ "audiences": [
+  "personal_mentor",
+  "lodge_mentor",
+  "all"
+ ],
+ "audienceText": "Personal Mentors, Lodge Mentors, Preceptors, Directors of Ceremonies and anyone who helps another Brother learn, formally or informally",
+ "stages": [],
+ "topics": [
+  "learning",
+  "ritual",
+  "reflection",
+  "Solomon",
+  "personal learning"
+ ],
+ "level": "optional",
+ "principle": "enlighten",
+ "minutes": 65,
+ "passMark": 75,
+ "completion": "Complete every required lesson and pass the final assessment at 75% or more. The warm-up quiz, the Lodge task and the thirty-day reflection are optional.",
+ "source": "E7g Helping Brethren Learn, Topic Course Draft for Development Issue 1 (October 2026); Lodge Mentor's Guide section 5; Provincial Mentoring Framework section 9; Style, Terminology and Data Guide (A3) section 5; UGLE Members' Pathway papers Understanding, Guided Learning, Learning Ritual and Personal Learning (August 2021, now part of Building Together).",
+ "changeSummary": [
+  "Learning ritual is presented throughout as the Brother's choice: as much as he wants, when he wants. A new opening lesson on that choice comes before any method.",
+  "Research figures restated exactly (Roediger and Karpicke, Experiment 2, including the five-minute result; Ebbinghaus qualified as self-experiment).",
+  "UGLE's ritual-learning steps now listed accurately as UGLE gives them, with the research link stated fairly.",
+  "New branching scenario on a Brother who finds a dramatic 'explanation' online, built around interpretation with humility.",
+  "Three-weeks-to-go scenario strengthened: a choice to hand the piece back, a non-Mason helper, and an ending that respects his decision.",
+  "Help from family at home tightened to the ritual standard; the preferred helper is another Brother.",
+  "Final assessment rewritten as eleven judgement questions with full feedback; reflection prompts ask for no names or personal details.",
+  "Resources lesson merged with guided and personal learning; Provincial events for new Brethren added from the Framework."
+ ],
+ "modules": [
+  {
+   "title": "About this course",
+   "summary": "What the course covers, who it is for, and a quick warm-up.",
+   "lessons": [
+    {
+     "title": "What this course covers",
+     "kind": "content",
+     "minutes": 3,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Most of us were never taught how adults learn. We picked up Freemasonry by watching, asking, getting things wrong at the Lodge of Instruction and being put right over a drink afterwards. That still works, but it works better when the people helping a newer Brother know a few things about how learning sticks.\n\nThis course gives you those few things and shows how to use them in a Lodge: after a ceremony, when a Brother asks what something means, when he decides to learn a piece of ritual, and when his own curiosity takes him off in a direction of his choosing.\n\nThe Enlighten principle sets the aim. In the words of the Hertfordshire Mentoring Principles:\n\n> Deepening understanding, curiosity, and enjoyment of Freemasonry. Mentoring does not end with the Third Degree; it is a lifelong opportunity to help Brethren appreciate Freemasonry - its purpose, traditions and meaning - rather than simply learn information.\n\n### By the end of this course you will be able to\n\n1. Lead a good conversation after a ceremony, letting him talk first and explaining at his pace.\n2. Share what a symbol means to you while leaving room for him, and for other Brethren, to see it differently.\n3. Help a Brother learn ritual, if he wants to, using spacing and self-testing rather than endless re-reading.\n4. Respect a Brother who chooses to learn little or no ritual, and help him find other ways to contribute.\n5. Tell guided learning from personal learning, and support both.\n6. Point him to sources worth trusting, Solomon first.\n7. Keep the ritual standard at every step, including when he is learning at home.\n\n### How it works\n\nShort readings, two branching scenarios, an eleven-question final assessment (pass mark 75%, and you can try again), and an optional Lodge task with a reflection thirty days on. You can stop at any point and pick up where you left off.\n\nThe Personal Mentor Course introduces learning in a sentence or two. This course is where the subject lives in depth."
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "Nothing in this course reveals ritual. There are no ceremony words, obligations, test questions or answers, signs, tokens or words here, and the examples of learning methods use ordinary, non-Masonic material on purpose."
+      }
+     ]
+    },
+    {
+     "title": "Before you start",
+     "kind": "quiz",
+     "minutes": 3,
+     "required": false,
+     "isAssessment": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Five quick questions to see where you are starting from. They do not count towards completion."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "single",
+       "prompt": "A Brother wants to learn a short piece. Which approach is most likely to make it stick?",
+       "options": [
+        "Reading it through many times until it feels familiar",
+        "Saying it from memory a little at a time, checking, and coming back to it over several days",
+        "One long session the evening before he needs it"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Recalling from memory, spread over days, is what the research supports.",
+       "feedbackIncorrect": "Re-reading and cramming feel productive, but recalling from memory, a little and often, holds up far better over time.",
+       "explanation": "Re-reading makes the words feel familiar, which is not the same as being able to produce them without the book. Self-testing spread over several days builds the recall he will actually need. The lesson on memory gives the evidence."
+      },
+      {
+       "kind": "single",
+       "prompt": "You meet a Brother a few days after his Initiation. What is the best way to start?",
+       "options": [
+        "Ask what he made of it, and let him talk first",
+        "Walk him through the meaning of each part of the ceremony",
+        "Give him the test questions so he can make an early start"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Yes. His own impressions come first; explanation follows at his pace.",
+       "feedbackIncorrect": "A full explanation or a new task can wait. Start with what he made of it.",
+       "explanation": "A ceremony is learning by experience, and it settles best when he has a chance to reflect on it. Letting him talk first shows you what he noticed, what puzzled him and what he would like to know, so you explain only what helps."
+      },
+      {
+       "kind": "single",
+       "prompt": "A new Entered Apprentice asks what a symbol he saw means. What is the most helpful answer?",
+       "options": [
+        "Give him the one correct meaning",
+        "Share what it means to you, mention that Brethren read it differently, and ask what he makes of it",
+        "Tell him to search online"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Interpretation with humility.",
+       "feedbackIncorrect": "There is rarely one correct meaning. Share yours, say others differ, and invite his.",
+       "explanation": "Different Brethren read a symbol differently, and none of them wrongly. Offering your reading as yours keeps the conversation open and encourages his own thinking. An open internet search can lead him to speculation presented as fact."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "A Brother who chooses not to learn any ritual beyond the questions he needs for his degrees can still make a full and valued contribution to his Lodge.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "True. UGLE's guidance says exactly this.",
+       "feedbackIncorrect": "It is true. Ritual is one way to contribute among many.",
+       "explanation": "UGLE's Learning Ritual paper says a member who does not wish to learn more than the questions leading from one degree to the next can still make a useful contribution and gain a great deal from Freemasonry. Charity, the Festive Board, welcoming visitors, administration and friendship all matter."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "People who re-read a passage several times often feel more confident about remembering it than people who test themselves, even when they remember less a week later.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "True, and it is worth knowing when a Brother says he has read it a hundred times.",
+       "feedbackIncorrect": "It is true. Familiarity feels like knowing, which is why re-reading is so tempting.",
+       "explanation": "In the 2006 study covered in the memory lesson, the re-readers predicted they would remember more, and after a week they remembered less. Confidence is a poor guide to how well something has been learned."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "How adults learn",
+   "summary": "Two ideas that make the rest of the course work: learning from experience, and how memory holds on to things.",
+   "lessons": [
+    {
+     "title": "Experience, reflection, meaning",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "David Kolb's well-known learning cycle (1984) describes how adults learn from experience. Something happens, we think back on it, we make some sense of it, and we try things out next time. Leave out the thinking back and the experience often stays a blur.\n\nUGLE's Members' Pathway paper *Understanding* (August 2021, now part of Building Together) applies this to the Initiation. It describes the ceremony as learning by taking part, a new experience that bombards the senses, and says that this kind of learning works best when it is followed by a period of reflection and the new member's own attempts to make sense of what happened. Without some early help, he may settle on an inaccurate or unhelpful idea that takes others a long time to notice, let alone put right.\n\nThat makes the conversation afterwards part of the learning, not an extra.\n\n| What we know about adult learners | What it means for you |\n|---|---|\n| They learn from experience | A ceremony, a first Lodge of Instruction, a first visit: each becomes a lesson if someone talks it through with him afterwards. |\n| Reflection turns experience into understanding | ‘What did you make of it?’ is a teaching question, not small talk. |\n| They want to know why | Explain the purpose behind a custom before asking him to do it. |\n| They learn what matters to them | Follow his curiosity, not your favourite subject. |\n| They bring their own experience | A Brother who runs a business, teaches or serves in uniform already knows a lot about tradition, teamwork and learning. Use it. |\n| They learn best when involved | UGLE's Guided Learning paper notes that interactive learning, where he takes an active part, is far easier to remember than being expected to absorb information. Ask, discuss, let him try. |\n\n### Too much at once\n\nThe same UGLE paper notes that, in an effort to help, Lodges have sometimes handed a new Initiate letters, booklets and presentations at the end of the ceremony, just when he is least able to take them in. Some new members reported ‘too much at once’. UGLE suggests his Personal Mentor spends a few minutes alone with him straight after the ceremony instead, with any material given later or privately.\n\nThe general lesson applies at every stage: a little, well timed, beats a lot, badly timed."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "Before you explain anything, ask. ‘What did you make of it?’ or ‘What are you curious about?’ tells you where he is, and saves you answering a question he has not asked."
+      }
+     ]
+    },
+    {
+     "title": "Memory: spacing and self-testing",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "In the 1880s Hermann Ebbinghaus showed, in experiments on himself using lists of nonsense syllables, that much of what we learn is forgotten within days unless we come back to it. It was one man memorising meaningless material, so the exact shape of his ‘forgetting curve’ should not be stretched too far. The practical point has held up well in later research: memory fades if left alone, and coming back to things helps.\n\nTwo habits make learning stick.\n\n### 1. Self-testing\n\nIn a 2006 study (Roediger and Karpicke, *Psychological Science*, Experiment 2), students who read a short passage once and then tested themselves three times recalled about 61% of it a week later. Students who read it four times recalled about 40%, although the re-readers felt more confident. On a test five minutes later, re-reading did better. Over the week, self-testing won.\n\nThat is the trap. Re-reading gives a quick, comfortable feeling of knowing. Saying it from memory feels harder and shakier, and that effort is what makes it last.\n\n### 2. Spacing\n\nLittle and often, spread over days and weeks, beats the same time crammed into one session. Ten minutes a day for a fortnight will do more than two hours the night before.\n\n### What it looks like in practice\n\nTake something with no Masonic content, say a short poem for a family occasion. The re-reader reads it again and again and feels ready, then dries on the day. The self-tester reads the first line, covers the page, says it, checks, adds the next line, and does the same again tomorrow and the day after. He feels less sure early on and is far more reliable by the end.\n\nThe same applies to information. A single welcome evening, however good, fades unless someone returns to it. One topic per conversation, picked up again next time, will stay with him."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "If a Brother tells you he has ‘read it a hundred times’ and still cannot say it without the book, he is not slow. He has been using the method that feels best and works least. Changing the method usually changes the result."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "After a ceremony",
+   "summary": "The conversation that turns an experience into understanding, and how to share meaning without imposing it.",
+   "lessons": [
+    {
+     "title": "The reflective conversation",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "UGLE's *Understanding* paper suggests two moments: five to ten minutes alone with the new Brother straight after the ceremony, to check how he is and reassure him that it takes a long time to take it all in, and an informal meeting within a week or so to talk it through properly. The Personal Mentor Course covers the practical arrangements. This lesson is about the conversation itself, which works after any degree.\n\n### Five steps\n\n1. **Let him go first.** ‘What did you make of it?’ Then leave a pause. The first thing he says is often polite; the second is usually what he means.\n2. **Normalise.** Most men remember fragments. Nobody takes it all in, and some parts make sense only years later. Say so.\n3. **Explain at his pace.** Talk about the themes and purpose of the degree, using the UGLE guide for that degree (the Initiate's Guide, the Fellow Craft's Guide or the Master Mason's Guide) and Solomon. Answer what he asks. Stop when he has had enough.\n4. **Connect it to life.** What might this mean for how a man lives, at work, at home, among friends? Enlighten is about meaning and enjoyment, not facts.\n5. **Leave a question.** ‘Have a think about what struck you most, and tell me next time.’ It gives him something to come back to, which is spacing by another name.\n\n### Where and how\n\nIn private, Mason to Mason, and only about degrees he has taken. Over a coffee or a quiet corner after a meeting works better than a formal session. If a Brother is visibly shaken or upset by anything, slow down, listen, and put the explanation aside for another day.\n\n### What to avoid\n\n- **The lecture.** Twenty minutes of your favourite interpretation is about you, not him.\n- **The pop quiz.** He is not being examined on the ceremony.\n- **Running ahead.** Do not explain degrees he has not yet taken. UGLE's Personal Learning paper asks us to satisfy his curiosity while advising him not to go looking for information about ceremonies still to come."
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "The ritual standard. Hertfordshire mentoring never reveals ritual. Before a ceremony, prepare him practically: timing, dress, general shape, reassurance. Let the ceremony do what it is designed to do. Explain afterwards, in private, Mason to Mason. A non-Mason must never be exposed to signs, tokens or words, including when a Brother is learning at home."
+      }
+     ]
+    },
+    {
+     "title": "Interpretation with humility",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "There is rarely one correct meaning of a symbol or an allegory, and there is no single official meaning that a mentor is expected to hand on. Different Brethren read a symbol differently, and none of them wrongly. That is part of the pleasure of it.\n\nA mentor is there to help a Brother think, not to install the right answer. Share what something means to you, say plainly that it is your reading, and invite his.\n\n### Things you might say\n\n- ‘What it means to me is this, but I know Brethren who see it quite differently.’\n- ‘There isn't one official answer to that. What do you make of it?’\n- ‘I don't know. Let's see what Solomon has on it and talk about it next time.’\n- ‘I used to think one thing about that, and after a few years I came to see it another way.’\n\n### Why humility matters\n\n- **It keeps him curious.** A Brother given ‘the answer’ tends to stop looking.\n- **It protects him.** A newer Brother is impressionable. UGLE's *Understanding* paper warns against imposing one member's personal views on him.\n- **It keeps you honest.** We are all still learning, and saying ‘I don't know’ costs nothing.\n- **It keeps the Lodge kind.** A Lodge where one view is right and others are wrong is not a comfortable place to ask questions.\n\nHumility is not the same as ‘anything goes’. Some claims are simply wrong: invented history, speculation presented as secret knowledge, or material from other Masonic traditions passed off as ours. It is fine to say, kindly, that something is not accurate and to show him a better source. The next scenario is about exactly that."
+      }
+     ]
+    },
+    {
+     "title": "Scenario: what does it really mean?",
+     "kind": "scenario",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A Fellow Craft has found an online video that claims to reveal what Freemasonry is really about. Choose what you would do at each step."
+      }
+     ],
+     "scenario": {
+      "start": "s1",
+      "nodes": {
+       "s1": {
+        "text": "A Brother you mentor, Passed a month ago, sends you a link late one evening: a long video from a popular channel that claims to explain the ‘hidden meaning’ of Freemasonry, including a symbol he noticed at his Passing. His message reads: ‘This explains everything. Why did nobody tell me any of this?’ He is clearly excited. What do you do?",
+        "choices": [
+         {
+          "label": "Reply that you are glad he is curious, and suggest you watch some of it together over a coffee this week and compare it with what Solomon says.",
+          "next": "s2",
+          "feedback": "Good. You welcome the curiosity rather than squashing it, and you keep the conversation with you. Looking at it together lets you sort the reasonable from the invented without making him feel foolish."
+         },
+         {
+          "label": "Tell him firmly that those videos are rubbish and he should stay away from them.",
+          "next": "s1b",
+          "feedback": "You may be right about the video, but a flat dismissal tells him his curiosity was a mistake. UGLE warns that if the Lodge does not satisfy curiosity, a Brother turns to sources that are less reliable."
+         },
+         {
+          "label": "Send a thumbs-up and ‘Interesting stuff’ without watching it.",
+          "next": "s1c",
+          "feedback": "Friendly, but it reads as endorsement. He will reasonably assume you agree with it."
+         }
+        ]
+       },
+       "s1b": {
+        "text": "He replies ‘Fair enough’ and the messages stop. A fortnight later you notice he has stopped asking you questions, though another Brother mentions he is still watching videos and talking about them. What now?",
+        "choices": [
+         {
+          "label": "Get in touch, say you were too quick, and offer to look at the video together and talk about what he found interesting in it.",
+          "next": "s2",
+          "feedback": "Putting it right is worth more than being right. Owning your tone reopens the door, and he is far more likely to bring you his next question."
+         }
+        ]
+       },
+       "s1c": {
+        "text": "At the next Festive Board he repeats some of the video's claims as fact to a guest. A senior Brother corrects him sharply across the table, and he is plainly embarrassed. What do you do?",
+        "choices": [
+         {
+          "label": "Find a quiet moment that evening, tell him it was an easy mistake to make, and arrange to look at the video and some better sources together.",
+          "next": "s2",
+          "feedback": "Kindness first, then help. He needs to know that curiosity is welcome and that the mistake was in the source, not in him. You might also have a quiet word with the senior Brother about how the correction landed."
+         }
+        ]
+       },
+       "s2": {
+        "text": "Over coffee you look at the video together. Some of it is plain speculation presented as secret knowledge. One idea, about what the symbol might mean for how a man lives, strikes you as a thoughtful personal reading. He asks: ‘So which is the right meaning?’ What do you say?",
+        "choices": [
+         {
+          "label": "Say there isn't a single official meaning. Tell him what it means to you, that other Brethren see it differently, ask what he thinks, and show him a relevant paper on Solomon to read.",
+          "next": "s3",
+          "feedback": "Interpretation with humility. You separate the inaccurate (the invented history) from the legitimately personal (his reading), and you give him a reliable place to keep exploring."
+         },
+         {
+          "label": "Give him the meaning you were taught when you were new, as the correct one.",
+          "next": "s2b",
+          "feedback": "Your reading may be a good one, but presented as ‘the’ meaning it closes the conversation and sets him up to be confused when he hears another."
+         }
+        ]
+       },
+       "s2b": {
+        "text": "A few weeks later a Past Master gives a short talk at the Lodge of Instruction and offers a quite different reading of the same symbol. Your Brother asks you afterwards, a little confused, which of you is right.",
+        "choices": [
+         {
+          "label": "Explain that both are readings, that Brethren see symbols differently and none of them wrongly, and ask which one speaks to him and why.",
+          "next": "s3",
+          "feedback": "This puts it right. He learns something more useful than either reading: that the meaning is partly his to find."
+         }
+        ]
+       },
+       "s3": {
+        "text": "He goes away with a Solomon paper and a question to think about. Next time you meet, he brings two more questions, one of them about the history of your Lodge. You suggest he talks to the Brother who keeps the Lodge's records, and he ends up offering a five-minute piece on it at a future meeting.\n\nWhat worked: you welcomed his curiosity, kept the conversation going, separated speculation from honest personal reading, and pointed him to sources worth trusting. You did not need to know everything. You needed to be interested, honest and humble.",
+        "choices": []
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "title": "Learning ritual, if he wants to",
+   "summary": "Ritual is a choice. If a Brother chooses it, here is a method that works and how to support him without pressure.",
+   "lessons": [
+    {
+     "title": "Ritual is his choice",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Some Brethren love ritual. They enjoy the challenge, the satisfaction of a piece delivered well, and the way it deepens their understanding. Others would rather contribute in other ways. Both are entirely legitimate.\n\nUGLE's *Learning Ritual* paper (August 2021) is clear. As a minimum, new members learn the questions and answers leading from one degree to the next. Beyond that, a member who does not wish to learn more can still be a member, make a useful contribution to the Lodge and gain a lot of satisfaction and personal growth.\n\nSo a Brother learns as much ritual as he wants, when he wants. Many of the most valuable contributions to a Lodge involve no ritual at all: the Almoner and the Charity Steward, the Treasurer, the Brother who organises the social events, the one who always meets visitors at the door, the Stewards at the Festive Board, the friend.\n\n### Pressure in both directions\n\n- **Too much.** ‘Everyone takes a piece in their first year.’ ‘You'll never get on if you don't.’ Lines like these turn an opportunity into an obligation, and some Brethren quietly stop coming rather than say no.\n- **Too little.** UGLE also notes the claim that ‘younger Freemasons won't learn ritual’, and says many Lodges have found that, given notice and help, younger, working Brethren enjoy the challenge. Never assume he will not want to. Ask.\n\n### How to raise it\n\nMake it an offer, with an easy way to decline:\n\n- ‘Some Brethren enjoy taking a small piece now and then. If that ever appeals, I'd be glad to help. If not, that's absolutely fine.’\n- ‘Would you like a go at something small at the Lodge of Instruction, just to see how it feels?’\n\nIf he says yes, agree a piece that suits him, and talk to the Director of Ceremonies about a realistic date. If he says no, believe him, and help him find what he would enjoy instead. You can ask again in a year, lightly, because people change. Once is an offer; every meeting is pressure."
+      }
+     ]
+    },
+    {
+     "title": "A method that works",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "UGLE's *Learning Ritual* paper notes that few people today are practised in learning by heart, so a Brother who takes on a piece will need plenty of notice, guidance and personal support. Its suggested method, in summary:\n\n1. **Start early:** three to six months before he is expected to deliver it.\n2. **Set aside time each day,** and use ‘committed time’, when he is doing something else but can listen, such as travelling.\n3. **Read it over and over,** at first silently.\n4. **Look up unfamiliar words,** and ask his Personal Mentor what they mean.\n5. **Read it aloud,** again over and over, then ask his Personal Mentor to check his phrasing and pronunciation.\n6. **Record it** once he is saying it correctly, and play the recording each day.\n7. **Test himself:** say one sentence aloud without the book, then add another, gradually building up the length he can recite from memory.\n8. **Have someone hold the book,** asking them not to interrupt but to tell him at the end where he went wrong. Repeat until he can say the whole passage.\n9. **Rehearse in the Lodge room,** or another large space, with just one other person such as his Personal Mentor or the Preceptor.\n10. **Deliver it at a Lodge of Instruction,** to a group, in a helpful setting.\n\nUGLE's method starts with reading but ends where the memory research points: saying it from memory, a sentence at a time, spread over weeks. If time is short, the self-testing and spacing steps matter most. A Brother who is still only reading after a few weeks will usually make faster progress by moving on to step 7.\n\n### Understand it first\n\nWords that mean something are easier to remember and easier to deliver. Before he starts, talk through what the passage is about, in private, Mason to Mason. A Brother who dries at a line he never understood is common.\n\n### On the night\n\nA prompt is normal and nobody minds it. The Lodge remembers sincerity, not perfection. Agree with the DC in advance who will prompt and how."
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "Learning at home. The best person to hold the book is another Brother: his Personal Mentor, a friend from the Lodge of Instruction, the Preceptor. UGLE's Learning Ritual paper accepts that someone who is not a Freemason may hold the book, with a clear caution: nothing covered by his obligations, meaning signs, tokens and words, may be disclosed to them. Hertfordshire's ritual standard says the same: a non-Mason must never be exposed to signs, tokens or words, including when helping at home. In practice, if a member of his family helps, it should be with a passage that contains none of them, and only that passage: not the ritual book to read through. His book, notes and any recordings otherwise stay with him. If in any doubt, ask a Brother instead."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "Offer to hold the book for him twice a week for a fortnight, in person or on a video call. It spaces the practice, gives him a self-test with a friendly listener, and it is a very good excuse for a mentoring conversation."
+      }
+     ],
+     "devNotes": "PROVINCIAL DECISION NEEDED. UGLE's Learning Ritual paper (Aug 2021) says a non-Mason may hold the book, provided nothing covered by the obligations (signs, tokens and words) is disclosed. A3 section 5 says a non-Mason must never be exposed to signs, tokens or words, including when helping at home. The two are compatible in principle, but a non-Mason holding a ritual book can see more than the passage being learned. QA (Issue 3) tightened the callout: Brother preferred; family help only with a passage containing no signs, tokens or words, and only that passage; the book is not handed over to read. Earlier text also told him to keep the book to himself, which contradicted letting anyone hold it. Province to confirm (a) whether non-Mason helpers are acceptable at all, and (b) whether it is content to repeat UGLE's advice to record the ritual. If the line becomes stricter, change this callout, scenario step k2 and final Q4."
+    },
+    {
+     "title": "Scenario: three weeks to go",
+     "kind": "scenario",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A Brother has volunteered for a short piece and is struggling. Choose what you would do at each step."
+      }
+     ],
+     "scenario": {
+      "start": "k1",
+      "nodes": {
+       "k1": {
+        "text": "A Brother you mentor offered, of his own accord, to deliver a short piece at the next meeting, three weeks away. He tells you he has ‘read it a hundred times’ but still cannot say it without the book, and he is starting to worry. What do you suggest?",
+        "choices": [
+         {
+          "label": "Suggest he stops re-reading and instead says it from memory a sentence at a time each day, checking against the book and building up. Offer to hold the book for him twice a week.",
+          "next": "k2",
+          "feedback": "Self-testing, spaced, with a friendly listener. This is what the evidence supports, and your offer turns it into regular contact."
+         },
+         {
+          "label": "Encourage him to keep reading it; it will click eventually.",
+          "next": "k1b",
+          "feedback": "Re-reading feels productive, but it builds familiarity rather than recall. He may feel ready and still dry on the night."
+         },
+         {
+          "label": "Suggest he hands it back to the DC so he is not under pressure.",
+          "next": "k1c",
+          "feedback": "Kindly meant, but he chose this and has not asked to stop. Taking it away before asking what he wants can feel like a vote of no confidence."
+         }
+        ]
+       },
+       "k1b": {
+        "text": "A week later he can follow along fluently with the book but freezes without it. He is more anxious than before, and two weeks remain.",
+        "choices": [
+         {
+          "label": "Explain why re-reading has let him down, and switch to self-testing, a little each day, with you holding the book.",
+          "next": "k2",
+          "feedback": "Better late than never. Two weeks of spaced self-testing can do a great deal, and explaining why helps him trust the change."
+         }
+        ]
+       },
+       "k1c": {
+        "text": "He looks deflated. ‘I really wanted to do it. I thought you'd think I could.’",
+        "choices": [
+         {
+          "label": "Apologise, say you would be glad to help him do it, and ask what would help most. Then suggest the self-testing approach.",
+          "next": "k2",
+          "feedback": "Good recovery. The decision is his in both directions: to take a piece and to hand it back. What matters is that you support whichever he chooses."
+         }
+        ]
+       },
+       "k2": {
+        "text": "He is improving, but admits he does not really understand what some of the lines mean. He also mentions that his wife has offered to hold the book in the evenings. What do you say?",
+        "choices": [
+         {
+          "label": "Offer to talk through the meaning of the passage together, in private. Thank his wife for the offer, suggest you or another Brother hold the book where possible, and remind him that a non-Mason must never see or hear signs, tokens or words.",
+          "next": "k3",
+          "feedback": "Understanding first makes the words easier to remember and deliver. And you keep the ritual standard without making a drama of a kind offer."
+         },
+         {
+          "label": "Tell him the meaning doesn't matter for now, just get the words right, and that any help at home is welcome.",
+          "next": "k2b",
+          "feedback": "Words learned only as sound tend to go under pressure. And ‘any help is welcome’ misses the ritual standard at home."
+         }
+        ]
+       },
+       "k2b": {
+        "text": "At the Lodge of Instruction the week before, he dries at exactly the line he did not understand, and later mentions he let his wife follow the whole book, including a part he now realises he should have kept to himself. He is worried he has done something wrong.",
+        "choices": [
+         {
+          "label": "Reassure him calmly, explain the ritual standard for next time, and then talk through the meaning of the passage together.",
+          "next": "k3",
+          "feedback": "Calm and practical. He acted in good faith and the answer is to help him get it right from now on. Then the meaning: once the line makes sense, it usually sticks."
+         }
+        ]
+       },
+       "k3": {
+        "text": "A week to go. At the Lodge of Instruction he gets through it with two prompts, but afterwards he says quietly: ‘I'm not sure I can do this in the Lodge. Maybe someone else should.’ What do you say?",
+        "choices": [
+         {
+          "label": "Tell him he is nearly there and prompts are normal, offer to agree a prompter with the DC, and make clear that if he still wants to hand it back, that is his decision and nobody will think less of him.",
+          "next": "k_end",
+          "feedback": "Encouragement with a genuine way out. He is more likely to go ahead because he knows he does not have to."
+         },
+         {
+          "label": "Tell him he can't back out now; the Lodge is counting on him.",
+          "next": "k_pressure",
+          "feedback": "This may get the piece delivered, but it turns an offer into an obligation. Brethren pushed this way often decide never to volunteer again."
+         }
+        ]
+       },
+       "k_pressure": {
+        "text": "He delivers the piece, stiffly, with several prompts. At the Festive Board he says it was the most stressful evening he has had in Freemasonry and that he will not be doing that again. He has not offered since.\n\nWhat was missed: his decision to take a piece was his, and so was the decision to stop. Pressure at the last moment got one piece delivered and probably cost the Lodge a willing Brother. A genuine way out, with support to carry on, usually produces a better evening and a Brother who will offer again.",
+        "choices": []
+       },
+       "k_end": {
+        "text": "He decides to go ahead. On the night he delivers it with one small prompt, and nobody minds. At the Festive Board several Brethren make a point of thanking him, and a week later he asks what he might learn next.\n\nWhat worked: self-testing spread over the weeks, understanding the meaning before memorising, keeping the ritual standard at home, and support that left the decision with him at every stage.",
+        "choices": []
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "title": "Guided learning, personal learning and good sources",
+   "summary": "What the Lodge helps every Brother learn, what he chooses to explore, and where to point him.",
+   "lessons": [
+    {
+     "title": "Two kinds of learning, and where to find good material",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "UGLE's Members' Pathway papers describe two kinds of learning, and the Provincial Mentoring Framework adopts them.\n\n| | Guided learning | Personal learning |\n|---|---|---|\n| What it is | What he needs to take part confidently: the questions for his degrees, etiquette, the structure of the Lodge and of Freemasonry, protocol | What he chooses to explore: history, symbolism, the story of his Lodge, the wider Craft |\n| Who leads it | The Lodge: Preceptor, DC, Personal Mentor | His own curiosity |\n| Where it happens | One-to-ones, the Lodge of Instruction, short talks at meetings | Solomon, reading, research Lodges, visiting, Provincial events |\n| Your part | Plan it, keep it accurate, pace it | Encourage it, share it, never force it |\n\nUGLE advises a balance between the two. A Brother given only guided learning can feel he is being trained. One left only to his own curiosity can drift towards poor sources.\n\n### Ideas for a Lodge learning slot\n\nUGLE's *Guided Learning* paper lists topics that suit almost any Lodge. A few minutes on one of these at a meeting or the Lodge of Instruction goes a long way:\n\n- The Festive Board: what we do and why\n- The history of the Lodge, its practices and traditions\n- The offices in the Lodge, their duties and progression\n- The structure of Freemasonry in England and Wales\n- Regalia, and how to wear it\n- Forms of address, in the Lodge and at the Festive Board\n- Visiting other Lodges\n- Making a speech\n- How to learn and deliver ritual\n- The Royal Arch and other Orders\n\nUGLE asks that anything delivered is accurate and up to date, and that sources are checked first. Inaccurate information causes confusion and keeps myths alive.\n\n### Sources worth trusting\n\nSolomon is UGLE's online learning platform and the first place to send a Brother, and to go yourself. It has short items, longer papers and structured modules for every stage, including material for mentors.\n\nThe Provincial Mentoring Framework also provides for Provincial events for newer Brethren that bring mentoring and learning together. Where they are running, they are a good chance for him to meet other new Brethren and ask questions; the Provincial Mentoring Team can tell you what is coming up.\n\nSteer Brethren away from unverified online content, speculation and material from other Masonic traditions. When in doubt, check Solomon or ask the Provincial Mentoring Team.\n\nTechnology must never be a barrier to learning. Where a Brother does not use the internet easily, print from Solomon for him, and remember that conversation over a coffee is still the best learning tool we have."
+      },
+      {
+       "type": "resource",
+       "title": "Solomon",
+       "url": "https://solomon.ugle.org.uk/",
+       "description": "UGLE's learning platform: accurate, UGLE-approved material for every stage, including material for mentors. Send your Brethren there, and go yourself."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "UGLE's Personal Learning paper suggests that a Personal Mentor notices a Brother's questions and curiosity, and that common requests are built into the Lodge's learning. If three new Brethren have asked you about regalia this year, that is your next learning slot."
+      }
+     ],
+     "devNotes": "The Provincial events line (QA: reworded so it no longer states that every Initiate is invited) comes from the Provincial Mentoring Framework section 8 (Combined Mentoring and Learning and Development Meeting, twice yearly). Confirm the events are running before publication. UGLE's own topic list also includes signs, tokens and words of each degree; that item is deliberately not listed here (A3 section 5)."
+    }
+   ]
+  },
+  {
+   "title": "Assessment and your Lodge task",
+   "summary": "Show what you know, then put one idea to work.",
+   "lessons": [
+    {
+     "title": "Final assessment",
+     "kind": "quiz",
+     "minutes": 10,
+     "required": true,
+     "isAssessment": true,
+     "passMark": 75,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Eleven questions, most of them situations. You need 75% to pass, and you can try again. Where more than one answer is reasonable, the question says so."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "single",
+       "prompt": "A Brother you mentor was Passed last night. You meet for coffee a few days later. What do you do first?",
+       "options": [
+        "Explain the meaning of the ceremony from start to finish while it is fresh",
+        "Ask what he made of it, and let him talk first",
+        "Give him the questions for his next degree so he can make a start"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Reflection first, explanation at his pace.",
+       "feedbackIncorrect": "Start with his impressions. The explanation and the next task can follow.",
+       "explanation": "UGLE describes a ceremony as learning by experience, which works best when followed by reflection. Letting him talk first tells you what he noticed and what puzzled him, so you explain what helps rather than everything. Moving straight to the next degree's questions can make the Degrees feel like a production line."
+      },
+      {
+       "kind": "single",
+       "prompt": "Which statement fits Roediger and Karpicke's 2006 study of re-reading and self-testing?",
+       "options": [
+        "Self-testing did better on both the five-minute test and the one-week test",
+        "Re-reading did better on a test five minutes later, but self-testing did much better a week later",
+        "There was no real difference after a week"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. That is why re-reading feels as if it is working.",
+       "feedbackIncorrect": "Re-reading won at five minutes; self-testing won over the week (about 61% against 40%).",
+       "explanation": "In Experiment 2, students who read once and tested themselves three times recalled about 61% a week later, against about 40% for those who read four times, although the re-readers felt more confident. The short-term advantage of re-reading is exactly what makes it tempting. For a piece needed in a few weeks' time, self-testing spread over days is the better bet."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother has agreed to take a substantial piece of ritual. According to UGLE's guidance, when should he ideally start learning it?",
+       "options": [
+        "A fortnight before",
+        "Three to six months before",
+        "Once the summons is printed"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Plenty of notice makes spaced practice possible.",
+       "feedbackIncorrect": "UGLE suggests three to six months, so that he can learn it little and often.",
+       "explanation": "UGLE's Learning Ritual paper suggests starting three to six months ahead, because few people today are practised in learning by heart. Starting early allows spacing, which is what makes it stick. If the time is shorter, agree a smaller piece or a later date with the DC rather than leaving him to cram."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "A Brother's wife kindly offers to hold the book while he practises at home. Which of these are sound advice? (More than one answer.)",
+       "options": [
+        "Where possible, ask his Personal Mentor or another Brother to hold the book instead",
+        "If she does help, keep it to a passage with no signs, tokens or words in it, so she never sees or hears any",
+        "It is only practice, so the ritual standard does not apply at home",
+        "He should only ever practise in the Lodge building"
+       ],
+       "correct": [
+        0,
+        1
+       ],
+       "feedbackCorrect": "Yes. A Brother is the better helper, and if family help, the ritual standard still applies.",
+       "feedbackIncorrect": "A Brother is the best helper. If a non-Mason helps, signs, tokens and words must never be seen or heard. The standard applies at home too.",
+       "explanation": "The ritual standard says a non-Mason must never be exposed to signs, tokens or words, including when a Brother is learning at home. UGLE's guidance accepts help from a non-Mason within that limit, but another Brother avoids the problem altogether and is useful company. Saying he may only practise in the Lodge building is unnecessary and would make learning much harder."
+      },
+      {
+       "kind": "single",
+       "prompt": "A newer Brother asks you what a particular symbol ‘really’ means. What is the best answer?",
+       "options": [
+        "Tell him the meaning you were taught, so he has the correct one",
+        "Tell him what it means to you, that Brethren read it differently, and ask what he makes of it",
+        "Tell him it is a secret he will understand later"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Interpretation with humility.",
+       "feedbackIncorrect": "There is no single official meaning. Share yours as yours, and invite his.",
+       "explanation": "Different Brethren read a symbol differently, and none of them wrongly. Presenting one reading as the answer closes his thinking and confuses him when he hears another. Brushing him off as ‘a secret’ discourages curiosity and may send him to less reliable sources. You can point him to Solomon for more."
+      },
+      {
+       "kind": "single",
+       "prompt": "Which of these is personal learning rather than guided learning?",
+       "options": [
+        "Learning the questions for his next degree",
+        "Researching the history of his Lodge because he is curious about it",
+        "Learning how to wear his regalia correctly"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. It is led by his own interest.",
+       "feedbackIncorrect": "Personal learning is led by his curiosity. The other two are things the Lodge helps every Brother learn.",
+       "explanation": "Guided learning is what he needs to take part confidently, led by the Lodge. Personal learning is what he chooses to explore. Both matter. Your role in personal learning is to encourage it, share it and point him to good sources, never to force it."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "Giving a new Initiate several booklets and letters at the end of his ceremony is the best way to help him understand what has happened.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "False is right. Some new members have reported ‘too much at once’.",
+       "feedbackIncorrect": "It is false. UGLE's guidance notes new members reporting ‘too much at once’.",
+       "explanation": "UGLE's Understanding paper suggests a few minutes alone with his Personal Mentor straight after the ceremony, with materials given later or privately, and a proper conversation within a week or so. A little, well timed, beats a lot, badly timed."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother shows you a dramatic online ‘explanation’ of Freemasonry and is excited by it. What do you suggest?",
+       "options": [
+        "Look at it together, compare it with Solomon, and talk about what he found interesting",
+        "Tell him to ignore everything online",
+        "If it is popular and well made, it is probably reliable"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Yes. Welcome the curiosity and guide him to better sources.",
+       "feedbackIncorrect": "Neither dismissing nor trusting it helps. Look at it together and compare it with Solomon.",
+       "explanation": "UGLE warns that if the Lodge does not satisfy a Brother's curiosity, he may turn to sources that are not credible. Looking at it together lets you separate speculation from honest personal reading, without making him feel foolish. Popularity is not evidence of accuracy."
+      },
+      {
+       "kind": "single",
+       "prompt": "A capable, popular Brother tells you he does not want to learn any ritual beyond the questions for his degrees. What do you do?",
+       "options": [
+        "Respect it, and help him find other ways to contribute that he will enjoy",
+        "Keep encouraging him at every meeting; he will come round",
+        "Mention to the DC that he does not seem committed"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Yes. Ritual is one way to contribute among many.",
+       "feedbackIncorrect": "Respect his decision. Repeated encouragement becomes pressure, and labelling him uncommitted is unfair.",
+       "explanation": "UGLE's guidance says a member who learns no more than the questions can still make a useful contribution and gain a great deal. Pressing him risks turning Freemasonry into an obligation he quietly walks away from. You might ask lightly again in a year, because people change, but once is an offer and every meeting is pressure."
+      },
+      {
+       "kind": "single",
+       "prompt": "A keen new Master Mason asks to deliver a long piece of ritual at a meeting four weeks away. What is the best response?",
+       "options": [
+        "Welcome his enthusiasm, be honest that a substantial piece usually needs months, and agree with him and the DC either a shorter piece now or the long one at a later meeting",
+        "Tell him he is too new to take on ritual yet",
+        "Agree, and leave him to get on with it"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Yes. Encourage him and set him up to succeed.",
+       "feedbackIncorrect": "Turning him down discourages him; leaving him to it risks a stressful night. Welcome it and agree something realistic.",
+       "explanation": "Enthusiasm is precious, and there is no reason a newer Brother cannot take ritual if he wants to. But UGLE suggests three to six months for a substantial piece. A realistic plan, with your support and the DC's agreement, gives him a good experience and makes him likely to offer again."
+      },
+      {
+       "kind": "single",
+       "prompt": "You have about ten things a new Initiate will eventually need to know. How do you share them?",
+       "options": [
+        "All in your first proper conversation, so he has everything",
+        "One or two each time you meet, coming back to earlier ones briefly",
+        "Send him a written list and let him work through it"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Spacing works for information as well as ritual.",
+       "feedbackIncorrect": "A little at a time, revisited later, will stay with him far better than everything at once.",
+       "explanation": "Memory fades unless we come back to things, and a new Brother is already taking in a great deal. A topic or two per conversation, revisited later, sticks. A written list can help as a reminder, but it is not a substitute for conversation, and UGLE suggests following his questions where you can."
+      }
+     ]
+    },
+    {
+     "title": "Your Lodge task",
+     "kind": "reflection",
+     "minutes": 4,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Choose one of these to try in your own Lodge in the next thirty days, whichever suits your role:\n\n1. **After a ceremony.** Hold a reflective conversation with a Brother after his degree, using the five steps. Notice what he says before you explain anything.\n2. **Ritual, if he wants it.** If a Brother has chosen to learn a piece or his questions, help him switch to self-testing and spacing, and offer to hold the book.\n3. **A learning slot.** Agree with your Preceptor, DC or Lodge Mentor one short topic from the list in this course for a meeting or the Lodge of Instruction, and deliver or arrange it.\n\nYour answer is private to you. Please do not include names or personal details of other Brethren."
+      }
+     ],
+     "prompt": "Which option will you try, and when? Write it as ‘When [the moment], I will [the action]’. Plans written this way make it noticeably more likely that people follow through. Please do not include names or personal details of other Brethren."
+    },
+    {
+     "title": "Thirty days on",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Come back to this lesson once you have tried your Lodge task. Your Assistant Provincial Mentor may ask you the same over a coffee. Your answer is private to you."
+      }
+     ],
+     "prompt": "What did you try, and what happened? What would you do differently next time? Please do not include names or personal details of other Brethren."
+    }
+   ]
+  }
+ ]
+}

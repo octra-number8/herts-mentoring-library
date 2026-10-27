@@ -1,0 +1,980 @@
+{
+ "code": "E2",
+ "issue": "Issue 3",
+ "issueDate": "November 2026",
+ "fileTitle": "Personal Mentor Course",
+ "slug": "personal-mentor-course",
+ "title": "Personal Mentor Course",
+ "summary": "The foundation course for every Personal Mentor: the role, the first contacts with a new Brother, the shape of a one-to-one, the basics of good questions and listening, four common situations, and when to pass something on.",
+ "tier": "foundation",
+ "audiences": [
+  "personal_mentor",
+  "lodge_mentor"
+ ],
+ "audienceText": "Personal Mentors, Proposers and Seconders, and Lodge Mentors",
+ "stages": [],
+ "topics": [
+  "personal mentor",
+  "first contacts",
+  "one-to-one",
+  "questions",
+  "listening",
+  "welfare boundaries"
+ ],
+ "level": "essential",
+ "principle": "support",
+ "minutes": 80,
+ "passMark": 75,
+ "completion": "Complete every required lesson and pass the final assessment at 75%. The reflections, the practice questions and the Lodge task are optional.",
+ "source": "E2 Personal Mentor Course Draft for Development Issue 2 and the original course draft for development, the E2a Personal Mentor Workshop facilitator's guide, the Personal Mentor's Guide (B2), the Mentor Meeting Guide (D2), the Stage Checklists (D3), and West Lancashire's Mentor's Guide (v7).",
+ "changeSummary": [
+  "Story kept (now owned by this course), toned down, with a line that not every departure is preventable or a failure; Rule 183 now uses the verified Hertfordshire wording.",
+  "Module 2 now says mentoring is shared, and that the Brother's own wishes come first: office, ritual and the Chair are choices, not expectations.",
+  "First contacts expanded: before Initiation, joining members, and practical points for a one-to-one.",
+  "Questions lesson adds when closed questions are useful; the pause is presented as a habit, not research.",
+  "Scenario B rewritten from the Personal Mentor's side (the friendly call); Scenarios C and D rewritten to remove pressure in either direction and avoid 'fourth degree'.",
+  "Warning signs and the four steps replaced by a short lesson on noticing a change and when to involve the Lodge Mentor; Keeping Good Men owns the detail.",
+  "New lesson on welfare, privacy and confidentiality: the Almoner with his agreement, no promise of absolute secrecy, and urgent safety.",
+  "Assessment expanded to eleven judgement questions with full explanations; Lodge task and thirty-day follow-up added."
+ ],
+ "modules": [
+  {
+   "title": "A story to start with",
+   "summary": "What the course covers, and a composite story about the small moments that matter.",
+   "lessons": [
+    {
+     "title": "About this course",
+     "kind": "content",
+     "minutes": 2,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Most Personal Mentors have never been trained to mentor, and most don't need much. What helps is confidence in a few plain skills and a clear idea of where the role ends. That is what this course is for.\n\nIt is the foundation course for Personal Mentors. It covers the role, the first few contacts with a new Brother, the shape of a one-to-one conversation, the basics of asking good questions and listening, four situations you are likely to meet, and when to pass something on.\n\n### By the end of this course you will be able to\n\n1. Explain what a Personal Mentor does, and where the role ends.\n2. Plan your first contacts with a new Brother and run a relaxed one-to-one using the Mentor Meeting Guide.\n3. Use open questions and a comfortable pause to hear what he actually thinks.\n4. Handle four common situations without pressure in either direction.\n5. Notice a change in his usual pattern, make a friendly call, and know when to involve the Lodge Mentor or the Almoner.\n6. Choose one thing to do differently, and try it within a month.\n\n### How it works\n\nShort readings, four short scenarios and a final assessment of eleven questions (pass mark 75%, and you can try again). The reflections and the Lodge task are optional and private to you. You can stop at any point and pick up where you left off."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "The Hertfordshire Mentoring Principles, Prepare, Guide, Support and Enlighten, are set out in full in Lodge Mentor Essentials. This course uses them rather than restating them. They are not stages: all four apply at every point in a Brother's Freemasonry."
+      }
+     ],
+     "devNotes": "Issue 3: outcomes rewritten as things the learner can do; 'warning signs' outcome narrowed to noticing a change and passing it on (Keeping Good Men owns warning signs)."
+    },
+    {
+     "title": "I joined at thirty-four",
+     "kind": "content",
+     "minutes": 3,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "This is a composite. It is not one man's story, but each part of it has happened in a Lodge somewhere.\n\n> I joined at thirty-four, proposed by a colleague I liked. I enjoyed my Initiation and drove home buzzing. Then came my second meeting. Nobody had told me it would be mainly business, and at dinner I sat next to two men who talked across me all evening about people I didn't know. At my first rehearsal I was told after ten minutes that there was nothing for me that night and I might as well get off home.\n\n> Work got busy that spring and I missed two meetings. Nobody rang. When I came back, someone at the bar said, 'Well, look who's remembered where we meet.' Everyone laughed, and so did I.\n\n> My subscription reminder arrived in January with a letter that read like a final demand. I paid it. A few weeks later I wrote a different letter. The Secretary's reply was very polite: my resignation had been received and would be reported to the Lodge. Nobody asked me why.\n\nNobody in that story was unkind on purpose. Most of them would have been surprised to hear they had played a part."
+      }
+     ],
+     "devNotes": "Story kept from Issue 2 (E1 no longer uses it). Lightly edited: 'extraordinary' and 'sat down one Sunday' removed to take the drama down; content unchanged. QA: the empty '>' lines between the three quoted paragraphs removed (they printed as a stray '>' in the Word draft); each paragraph is now its own quote."
+    },
+    {
+     "title": "Where could it have been turned around?",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Before you read on, make your own list. The next lesson shows the moments others have found. Your answer is private to you."
+      }
+     ],
+     "prompt": "Thinking only about the story you have just read, list the moments where someone could have made a difference. There are at least six. Which one would have been easiest to fix?"
+    },
+    {
+     "title": "What we can learn",
+     "kind": "content",
+     "minutes": 3,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Moments where things could have gone differently:\n\n1. Nobody told him the second meeting would be mostly business. A two-minute conversation beforehand would have done it.\n2. Nobody sat with him at dinner or brought him into the conversation.\n3. He was sent home from the rehearsal instead of being given something small to do, or simply introduced to a few people.\n4. He missed two meetings and nobody rang. A friendly 'we missed you, how are things?' was all it needed.\n5. The joke at the bar greeted his return with a dig rather than a welcome. It was meant kindly. It didn't land that way.\n6. The subscription letter read like a final demand. The first missed subscription is a reason for a quiet word, not a letter.\n7. His resignation was acknowledged and nobody had the conversation.\n\nOn that last point, the rule matters:"
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "A Brother may resign at any time, by written notice to the Secretary (an email is enough) or by saying so at a regular meeting of the Lodge. No acceptance is needed, and the Secretary has no power to accept it: he acknowledges receipt and reports it to the Lodge at the next regular meeting. Hertfordshire is one of the Provinces where the amended Rule 183 applies, so the Brother automatically has sixty days to withdraw his resignation, counted from the day the Secretary receives it or the day he resigns in open Lodge. No vote of the Lodge is needed. Those sixty days are the time for a conversation."
+      },
+      {
+       "type": "text",
+       "markdown": "None of those moments needed expertise. They needed someone to notice and to care enough to act. That is most of what a Personal Mentor does.\n\nA word of balance. Not every departure can be prevented, and not every one is a failure. Men leave because of a new job, a move, family or health, or because Freemasonry turned out not to be for them. That is their choice and it deserves respect. What makes this story worth reading is that he left for reasons nobody gave him the chance to talk about."
+      }
+     ],
+     "devNotes": "Item 7 and the callout now use facts.md approved wording 1 (Rule 183, Hertfordshire). Added the 'not every departure' paragraph at the lead editor's request. Point 6 uses the mentoring line from approved wording 2."
+    }
+   ]
+  },
+  {
+   "title": "What the role is, and is not",
+   "summary": "A friend with a purpose, the people around you, and how the relationship changes over time.",
+   "lessons": [
+    {
+     "title": "A friend with a purpose",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A Personal Mentor is a friend with a purpose. You are not an expert, a teacher or a ritualist. You are the person a new Brother can ring, message or sit next to without feeling he is bothering anyone.\n\n| Your role is | Your role is not |\n|---|---|\n| His first point of contact for any question | The only person who can help him |\n| Someone who keeps in touch between meetings | His ritual coach (that is the Lodge of Instruction and its Preceptor) |\n| A listener who notices when something changes | Someone who monitors him or reports on him |\n| His link to the Lodge and the Province: introductions, visits, events | A replacement for the Lodge Mentor, who coordinates mentoring arrangements |\n| Honest about what you don't know, and willing to find out | The source of every answer |\n| A friend who notices if he is struggling and knows who can help | His counsellor, welfare officer or financial adviser |\n\n### You are not on your own\n\nMentoring in a Lodge is shared. The **Lodge Mentor** coordinates and is the person you talk to when you're unsure. The **Worshipful Master** sets the tone of the Lodge. The **Director of Ceremonies** looks after ceremonies and office. The **Almoner** leads on welfare. The **Royal Arch Representative** answers questions about the Royal Arch. The **Secretary** handles the paperwork. Part of the role is knowing these people and, when it helps, introducing him to them.\n\n### Who he is matters more than where he is\n\nSome Brethren want ritual, office and, one day, the Chair. Others would rather enjoy the meetings, the friendship, the charity work or the social side. Both are entirely legitimate. What matters is finding out which kind of Freemasonry he wants, not steering him towards the kind you enjoy. His family and work come first, and his Freemasonry has to fit around them."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "If you are his Proposer as well as his Personal Mentor, that is often a good thing: he already trusts you. Just be aware that he may find it harder to tell you if something isn't working. Make it easy for him by asking."
+      }
+     ],
+     "devNotes": "Table extended with the welfare boundary row. Added 'You are not on your own' (mentoring is shared) and 'Who he is matters more than where he is' (individual first; Family and connections first, then Masonry, expressed without the slogan). Removed the 'Coach, not counsellor' callout here; welfare is now handled in Module 6 with the confidentiality and agreement points."
+    },
+    {
+     "title": "How the relationship changes",
+     "kind": "content",
+     "minutes": 3,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Mentoring relationships change shape over time. Kathy Kram's research on workplace mentoring in the 1980s described four phases: initiation, cultivation, separation and redefinition. In a Lodge the 'separation' is gentler. The relationship rarely ends. He simply needs you less, which is what you were aiming for.\n\n| Phase | In the Lodge | What he needs from you |\n|---|---|---|\n| Getting started | From his application to his first few meetings | Reassurance before information. Practical preparation. A familiar face. |\n| Building | Entered Apprentice to Master Mason | Regular contact at his pace. A chat after each ceremony. Introductions. |\n| Growing independence | His first years as a Master Mason | Less explaining, more listening. Help with his own choices about visiting, office, the Royal Arch or simply enjoying the Lodge, without a view on what the answer should be. |\n| Friendship | An established member | Someone he can ring when something is wrong. Perhaps, one day, a Personal Mentor himself. |\n\nContact is usually more frequent in the early months and eases off as he settles. There is no set number of meetings. Agree with him what suits, and adjust it as things change."
+      }
+     ],
+     "devNotes": "Kram (1983) verified, facts.md E16. Phase labels made plain; removed the 'teacher becomes coach' line and the line about the mentor who stops learning (clever but not quite true)."
+    }
+   ]
+  },
+  {
+   "title": "The first contacts and the one-to-one",
+   "summary": "Getting the start right, and the simple shape of a good conversation.",
+   "lessons": [
+    {
+     "title": "Getting the start right",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "The first weeks matter a great deal. UGLE's guidance on supporting new members notes that a new Freemason is at his most vulnerable in the days, weeks and months after his Initiation, while he works out whether his expectations have been met (Members' Pathway paper, Stewardship, August 2021, now part of Building Together).\n\nIf you are named as his Personal Mentor before his Initiation, start then: a coffee, a chance to meet a few Brethren socially, honest answers about what the evening involves practically (dress, timing, the Festive Board), never about the ceremony itself. There should never be any surprises, other than the ones the ceremony is meant to hold.\n\n### The first three contacts after his Initiation\n\n| Contact | When | What it is for |\n|---|---|---|\n| 1. On the night | After the ceremony | A few minutes alone with him: how is he feeling, any questions, and reassurance that it takes time to make sense of it all. Make sure he is not left among strangers at dinner. |\n| 2. A quick check-in | Within a day or two | A short call or message. How is he? What did his family ask? Anything on his mind? |\n| 3. The first one-to-one | Before the next Lodge meeting | A proper conversation, face to face if you can, using the Mentor Meeting Guide. Prepare him for the second meeting, which is often mostly business. |\n\n### Joining members\n\nNot every Brother you mentor will be new to Freemasonry. A joining member from another Lodge knows the ceremonies but not your Lodge: its customs, its people, who to ask. Ask what he would find useful rather than assuming either that he needs everything or nothing."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "Book the next contact before you part, every time. 'I'll ring you on Thursday evening' is a plan. 'Let's catch up soon' usually isn't."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "The topic course The First Two Years goes into the evening of Initiation, the second meeting and pacing the Degrees in much more depth."
+      }
+     ],
+     "devNotes": "D07 verified (MP Stewardship). Contact timing: Hertfordshire guidance is 'before the next Lodge meeting'; UGLE suggests five to ten minutes after the ceremony and an informal meeting 'within a week or so' (facts.md D08, Part 3 item 15, LMG-8 open). Confirm the settled standard. Joining members paragraph added (LMG-4, D14)."
+    },
+    {
+     "title": "The shape of a one-to-one",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "The Mentor Meeting Guide gives every one-to-one the same simple shape. It is not a script. Think of it as a checklist you carry in your head so the conversation doesn't simply follow whatever comes up first.\n\n| Part | What to cover |\n|---|---|\n| Opening | An open question, then let him talk. 'How have things been since we last spoke?' |\n| Prepare | Does he know what's coming next? Timing, format, dress, practicalities. Never ritual detail. |\n| Guide | Does he know where to look? Solomon, the Provincial website, DAWG (the Daily Advancement WhatsApp Group), visiting with company the first time. |\n| Support | The heart of it. Is he enjoying it? How does Lodge fit around family and work at the moment? |\n| Enlighten | What has he been wondering about? Follow his curiosity, not yours. |\n| Closing | When you'll next be in touch, and anything either of you will do before then. |\n\n### Practical points\n\n- **Where:** somewhere he can talk freely. A coffee shop, a pub at a quiet time, his home or yours, a walk. Not the bar on a Lodge night.\n- **How long:** half an hour is often plenty. A good conversation that ends on time beats a long one he has to escape from.\n- **How he likes to be contacted:** ask at the start. Some men like a call, some prefer a message, some work shifts. UGLE's guidance suggests agreeing this early.\n- **Keeping track:** a line or two afterwards on what you agreed is enough. No opinions about him and nothing about his health, money or family. The topic course The Mentoring Conversation covers safe, minimal notes."
+      }
+     ],
+     "devNotes": "Based on D2 Mentor Meeting Guide. Added practical points; agreeing contact preference is UGLE guidance (facts.md D19). Note-keeping kept to one line and pointed to E7a (A3 s7 still draft)."
+    }
+   ]
+  },
+  {
+   "title": "Questions and listening: the basics",
+   "summary": "Open questions, a comfortable pause, and hearing what he actually means.",
+   "lessons": [
+    {
+     "title": "Questions that open doors",
+     "kind": "content",
+     "minutes": 3,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "'Did you enjoy the ceremony?' invites 'yes'. 'What did you make of tonight?' invites what he actually thinks.\n\nA simple test of an open question: you can't predict the answer. Most of us ask closed questions out of kindness, because they're easy to answer. But an open question says something kinder: I want to know what you think.\n\n### Three openers that work\n\n- 'What has surprised you most so far?'\n- 'How are you finding it, honestly?'\n- 'What have you been wondering about that nobody has explained?'\n\n### Closed questions still have their place\n\nClosed questions are fine for checking a fact or agreeing a plan: 'Shall I pick you up at six?' The trouble comes when a conversation is nothing but closed questions. It starts to feel like an interview, and he gives short answers because that is all you've asked for.\n\n### Go easy on 'why'\n\n'Why did you miss the meeting?' sounds like a charge, however kindly it's meant. 'What's been going on?' asks the same thing and opens a door instead."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "Try it this week with a Brother you know well: 'What do you remember about your own Initiation?' Then listen. It also reminds you what being new felt like."
+      }
+     ],
+     "devNotes": "Added 'closed questions still have their place', drawn from West Lancashire's Mentor's Guide (v7, s5.2), so E7a can build on it rather than re-teach."
+    },
+    {
+     "title": "Practice: rewrite the closed question",
+     "kind": "quiz",
+     "minutes": 3,
+     "required": false,
+     "isAssessment": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "For each closed question, choose the most useful open version. This is practice and does not count: try as often as you like."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "single",
+       "prompt": "'Did you enjoy the ceremony?'",
+       "options": [
+        "'What did you make of tonight?'",
+        "'Did you enjoy it as much as you expected?'",
+        "'It was a good one tonight, wasn't it?'"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. He can answer it any way he likes.",
+       "feedbackIncorrect": "Both of the others still invite a yes, and the last one tells him what he should think.",
+       "explanation": "Straight after a ceremony a new Brother will usually say what he thinks you want to hear. An open question with no 'right' answer gives him room to say he was confused, moved or both."
+      },
+      {
+       "kind": "single",
+       "prompt": "'Are you settling in all right?'",
+       "options": [
+        "'Are you finding it OK so far?'",
+        "'What has surprised you most so far?'",
+        "'You feel settled now, don't you?'"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Good. It invites a story rather than a verdict.",
+       "feedbackIncorrect": "The other two can be answered in one word, and one of them leads him to the answer.",
+       "explanation": "'Surprised' is a useful word. It lets him mention the good and the puzzling without having to complain."
+      },
+      {
+       "kind": "single",
+       "prompt": "'Have you got any questions?'",
+       "options": [
+        "'Any questions at all?'",
+        "'Is everything clear?'",
+        "'What have you been wondering about that nobody has explained?'"
+       ],
+       "correct": [
+        2
+       ],
+       "feedbackCorrect": "Yes. It gives him permission to ask.",
+       "feedbackIncorrect": "Most people answer 'any questions?' with 'no', even when they have several.",
+       "explanation": "The phrase 'that nobody has explained' takes the blame off him. It suggests the gap is ours, which it usually is."
+      },
+      {
+       "kind": "single",
+       "prompt": "'Are you coming to the next meeting?'",
+       "options": [
+        "'We'll see you next time, won't we?'",
+        "'What would make the next few months work well for you?'",
+        "'Can you make the next one?'"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. It opens a conversation rather than asking for a promise.",
+       "feedbackIncorrect": "The others ask for a commitment, which can feel like pressure, especially if he's busy.",
+       "explanation": "It also lets you hear about work, family or anything else that is affecting his diary, without him having to make excuses."
+      },
+      {
+       "kind": "single",
+       "prompt": "'Is the ritual learning going OK?'",
+       "options": [
+        "'How are you finding the learning, and what would help?'",
+        "'Have you learned your piece yet?'",
+        "'Is it going well?'"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. It asks, and offers help in the same breath.",
+       "feedbackIncorrect": "'Have you learned it yet?' sounds like a deadline. 'Is it going well?' invites a polite yes.",
+       "explanation": "And if the honest answer is that he doesn't want to learn much ritual, that is a perfectly good answer too. It's worth knowing."
+      },
+      {
+       "kind": "single",
+       "prompt": "'Everything all right at home?'",
+       "options": [
+        "'No problems at home, then?'",
+        "'All good with the family?'",
+        "'How are things generally, with family and work, and how is Lodge fitting around it at the moment?'"
+       ],
+       "correct": [
+        2
+       ],
+       "feedbackCorrect": "Yes. It puts family and work first, where they belong.",
+       "feedbackIncorrect": "The others invite a quick 'fine' and can feel intrusive.",
+       "explanation": "It asks about his life in general, not his private business, and lets him decide how much to say."
+      }
+     ]
+    },
+    {
+     "title": "Listening, and the pause",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "When he stops talking, try not to jump straight in. Wait a moment, count to three if it helps. He will often carry on, and what he says next is frequently the thing he actually wanted to say. Most of us fill a silence within a second because it feels awkward. Usually the awkwardness is ours. He is thinking.\n\n### Three habits of a good listener\n\n- **Listen for more than the words:** his tone, any hesitation, what he keeps coming back to, and what he doesn't mention.\n- **Play it back:** 'So the business meeting threw you a bit?' It shows you heard, and lets him correct you if you didn't.\n- **Hold back the fix and the story:** don't top his experience with yours, and don't solve something he hasn't asked you to solve.\n\n### The first reason isn't always the whole reason\n\n'Work's busy' may be exactly that. It may also mean the meetings are at an awkward time, someone has upset him, or he isn't enjoying it as much as he hoped. You won't find out by pushing. You find out by being someone he trusts, and by asking again, gently, another time."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "This is the starting point. The topic course The Mentoring Conversation goes further: follow-up questions, helping him reach his own decisions, difficult conversations and mentoring by phone and video."
+      }
+     ],
+     "devNotes": "The 'three-second rule' is presented as a practical habit, not a research finding (facts.md E17)."
+    }
+   ]
+  },
+  {
+   "title": "Four situations",
+   "summary": "Short scenarios every Personal Mentor is likely to meet. There is no score: each choice shows how it is likely to play out.",
+   "lessons": [
+    {
+     "title": "Scenario A: the overwhelmed Entered Apprentice",
+     "kind": "scenario",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Work through what you would do. Each choice shows how it is likely to play out, and you can always recover."
+      }
+     ],
+     "scenario": {
+      "start": "a1",
+      "nodes": {
+       "a1": {
+        "text": "Your Entered Apprentice was Initiated two months ago. At the Festive Board he says, smiling: 'Honestly, I still haven't a clue what's going on in there. Everyone else seems to just know.' It's the second time he's said it tonight. What do you do?",
+        "choices": [
+         {
+          "label": "Tell him that almost everyone feels like this at first, that it took you a while too, and suggest you meet for a proper chat before the next meeting.",
+          "next": "a2",
+          "feedback": "Reassurance before information. He hears that he's normal, and he knows there's a time coming when he can ask anything. The Festive Board isn't the place for a long explanation."
+         },
+         {
+          "label": "Explain the ceremony to him there and then, so he understands it.",
+          "next": "a1b",
+          "feedback": "Well meant, but it's too much at once, in the wrong place, and he may feel he's being taught in front of others. Pace the information."
+         },
+         {
+          "label": "Laugh along: 'Don't worry, half of us still haven't!'",
+          "next": "a1c",
+          "feedback": "Friendly, and partly true, but he has said it twice. He may be telling you something, and a joke can close the door on it."
+         }
+        ]
+       },
+       "a1b": {
+        "text": "His eyes glaze over. A Brother across the table joins in with a different explanation. He looks more lost than before.",
+        "choices": [
+         {
+          "label": "Stop, tell him it's normal to feel like this, and suggest a proper chat before the next meeting.",
+          "next": "a2",
+          "feedback": "Recovered. Next time, reassure first and save the explaining for a quieter moment."
+         }
+        ]
+       },
+       "a1c": {
+        "text": "Everyone laughs. He laughs too, then goes quiet for the rest of the evening.",
+        "choices": [
+         {
+          "label": "Have a quiet word as you leave: tell him it's a normal feeling and suggest a proper chat before the next meeting.",
+          "next": "a2",
+          "feedback": "Good recovery. The quiet word on the way out does what the joke didn't."
+         }
+        ]
+       },
+       "a2": {
+        "text": "He looks relieved and agrees to meet. What do you do this week?",
+        "choices": [
+         {
+          "label": "Book a time before the next meeting. Ask him what's puzzling him most, and look together at the material for Entered Apprentices on Solomon.",
+          "next": "a3",
+          "feedback": "Together, at his pace, starting from his questions rather than your list."
+         },
+         {
+          "label": "Send him links to several websites and books so he can read up.",
+          "next": "a2b",
+          "feedback": "Information without company rarely helps at this stage, and unofficial websites can be inaccurate or from a different tradition. Solomon is the reliable place to start."
+         }
+        ]
+       },
+       "a2b": {
+        "text": "He thanks you. You suspect he won't read much of it, and some of what he finds online may confuse him further.",
+        "choices": [
+         {
+          "label": "Offer to go through a short piece on Solomon with him over a coffee instead.",
+          "next": "a3",
+          "feedback": "Much better: one reliable source, and you're there to talk it through."
+         }
+        ]
+       },
+       "a3": {
+        "text": "Over coffee he talks for twenty minutes. Most of his questions turn out to be about the business meeting and who everyone is, not the ceremony. Keep in touch between meetings and let his curiosity set the pace. Most new Brethren feel exactly as he did, and most of them settle quickly once someone takes the time.",
+        "choices": []
+       }
+      }
+     },
+     "devNotes": "Kept from Issue 2 with a third plausible choice (the friendly joke). Distinct from The First Two Years scenario (the quiet Entered Apprentice over the summer)."
+    },
+    {
+     "title": "Scenario B: the friendly call",
+     "kind": "scenario",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "This one is from your side: the Brother you mentor has missed a couple of meetings. Keep it simple."
+      }
+     ],
+     "scenario": {
+      "start": "b1",
+      "nodes": {
+       "b1": {
+        "text": "The Brother you mentor, a Master Mason of about a year, has always come to every meeting and most Lodge of Instruction evenings. He sent apologies for the last meeting and missed this one without a word. What do you do?",
+        "choices": [
+         {
+          "label": "Ring him in the next few days, just as a friend: 'We missed you tonight. How are things?'",
+          "next": "b2",
+          "feedback": "A friendly call soon after a change in his usual pattern is a good habit. UGLE suggests a call within seven days after two missed meetings in a row, with or without an apology. It's a phone call from a friend, not a check-up."
+         },
+         {
+          "label": "Wait. He's an adult, and two meetings isn't much.",
+          "next": "b1b",
+          "feedback": "Two meetings on their own may mean nothing, and you're right not to make a fuss. But this is a change for him, and a short friendly call costs nothing."
+         },
+         {
+          "label": "Ask the Secretary to check his attendance record and let the Lodge Mentor know there may be a problem.",
+          "next": "b1c",
+          "feedback": "That turns a missed meeting into a case. Attendance can prompt a friendly conversation, but it isn't evidence of anything. Talk to him first."
+         }
+        ]
+       },
+       "b1b": {
+        "text": "A month later the next summons goes out and you realise you haven't heard from him at all.",
+        "choices": [
+         {
+          "label": "Ring him now, simply to say he's been missed and ask how he is.",
+          "next": "b2",
+          "feedback": "Recoverable. A friendly call is welcome whenever it comes, but earlier is easier for both of you."
+         }
+        ]
+       },
+       "b1c": {
+        "text": "The Lodge Mentor gently asks whether anyone has actually spoken to him yet.",
+        "choices": [
+         {
+          "label": "Agree, and ring him yourself as a friend.",
+          "next": "b2",
+          "feedback": "Right. Most of the time a friendly call is all that's needed, and it should come before anyone else is involved."
+         }
+        ]
+       },
+       "b2": {
+        "text": "He's pleased you rang. He has started a new job with evening shifts and can only make some meetings for the next few months. He sounds a bit embarrassed about it. What do you say?",
+        "choices": [
+         {
+          "label": "Tell him that's completely understandable, his job and family come first, and the Lodge will be glad to see him whenever he can make it. Ask how he'd like you to keep in touch meanwhile.",
+          "next": "b3",
+          "feedback": "Exactly right. Less frequent attendance isn't disengagement. He keeps his place without guilt, and you've agreed how to stay in touch."
+         },
+         {
+          "label": "Tell him not to worry, and that you'll let the Lodge Mentor know he's struggling.",
+          "next": "b2b",
+          "feedback": "He isn't struggling, he's busy. Passing that on would be unnecessary and could embarrass him. Nothing here needs to go any further than a note in your diary to ring again."
+         }
+        ]
+       },
+       "b2b": {
+        "text": "He goes quiet and says, 'I'm not struggling, it's just work.'",
+        "choices": [
+         {
+          "label": "Apologise for putting it badly, tell him he's welcome whenever he can come, and agree how to keep in touch.",
+          "next": "b3",
+          "feedback": "Good. Listening carefully to what he actually said is the whole skill."
+         }
+        ]
+       },
+       "b3": {
+        "text": "You agree to message him before each meeting and to meet for a coffee once a month. He comes when his shifts allow. Most friendly calls end like this: nothing to fix, just a Brother who knows he hasn't been forgotten. If a call ever turns up something the Lodge could change, or something more worrying, that's when you talk to the Lodge Mentor. The topic course Keeping Good Men covers what the Lodge does next.",
+        "choices": []
+       }
+      }
+     },
+     "devNotes": "Rewritten. Issue 2's 'quiet drift' duplicated E1 (Treasurer, arrears, passed over for office). E2's version is now the Personal Mentor's friendly call to the Brother he mentors, with an ordinary outcome (work shifts), so it teaches that less frequent attendance is not disengagement. Two-misses guidance per facts.md approved wording 12, presented as a habit. Points to Keeping Good Men."
+    },
+    {
+     "title": "Scenario C: the ritual dread",
+     "kind": "scenario",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A Brother is offered his first office and isn't sure. Pressure can run both ways."
+      }
+     ],
+     "scenario": {
+      "start": "c1",
+      "nodes": {
+       "c1": {
+        "text": "The Director of Ceremonies has asked the Brother you mentor whether he would like to take his first office next year. He tells you privately that he barely slept before answering his questions at his Passing and is thinking of saying no: 'I'm just not a performer, and I think they'll think less of me.' What do you say?",
+        "choices": [
+         {
+          "label": "Tell him there's no obligation to take office or learn ritual, and that his place in the Lodge doesn't depend on it. Then ask what he'd enjoy, and whether anything would make an office feel manageable.",
+          "next": "c2",
+          "feedback": "This protects him from pressure in both directions. He hears that no is a perfectly good answer, and he also gets the chance to think about what yes might look like, if he wants it."
+         },
+         {
+          "label": "Tell him everyone gets nervous and he should just accept. He'll be fine.",
+          "next": "c1b",
+          "feedback": "That pushes him towards something he has told you he dreads. He may accept to please you and then dread every meeting."
+         },
+         {
+          "label": "Tell him to turn it down; office clearly isn't for him.",
+          "next": "c1c",
+          "feedback": "Kindly meant, but you have decided for him. He may simply be nervous, or there may be a role he'd enjoy. Find out what he wants first."
+         }
+        ]
+       },
+       "c1b": {
+        "text": "He accepts reluctantly. Over the next few weeks he becomes quieter and stops coming to the Lodge of Instruction.",
+        "choices": [
+         {
+          "label": "Have an honest chat: tell him it's fine to change his mind, and ask what he really wants.",
+          "next": "c2",
+          "feedback": "Recoverable. It's much easier for him to step back now than after the Installation."
+         }
+        ]
+       },
+       "c1c": {
+        "text": "He looks relieved, but a little flat. Later he mentions that he'd quite liked the idea of helping out, just not of standing up and speaking.",
+        "choices": [
+         {
+          "label": "Go back and ask him what he would enjoy, and what might make it manageable.",
+          "next": "c2",
+          "feedback": "Good. Now the decision is his, based on what he actually wants."
+         }
+        ]
+       },
+       "c2": {
+        "text": "He thinks about it. He'd like to help, but not with a speaking part this year. He also asks whether he'll be 'stuck' if he says no now. What do you do?",
+        "choices": [
+         {
+          "label": "Explain that a no now doesn't close any doors. Suggest he talks to the DC himself about what he'd enjoy, and offer to go with him or to ask the Lodge Mentor to have a word, if he'd like.",
+          "next": "c3",
+          "feedback": "He stays in charge of his own decision, the DC hears it properly, and nobody is left guessing. Ask before passing on what he told you privately."
+         },
+         {
+          "label": "Tell the DC yourself that he's too nervous to take office.",
+          "next": "c2b",
+          "feedback": "He told you that in confidence. Passing it on without asking could embarrass him and label him as 'nervous' for years."
+         }
+        ]
+       },
+       "c2b": {
+        "text": "The DC mentions it to him at the next meeting. He is embarrassed that you passed it on.",
+        "choices": [
+         {
+          "label": "Apologise, and agree with him how he'd like it handled from now on.",
+          "next": "c3",
+          "feedback": "Recoverable, and the apology matters. Next time, ask first."
+         }
+        ]
+       },
+       "c3": {
+        "text": "He tells the DC he'd rather not take a ritual office this year but would happily help with the Festive Board and look after visitors. The DC is glad to know. Some Brethren go on to take office later, some never do, and both are fine. Good mentoring here means no office before he is ready, no pressure if he never wants it, and no capable man left wondering whether anyone would have welcomed his help. The topic course Succession Planning covers readiness conversations from the Lodge's side.",
+        "choices": []
+       }
+      }
+     },
+     "devNotes": "Reworked so that declining office or ritual is presented as legitimate, not as 'leaving a capable man waiting'. Added the confidentiality step (ask before passing on what he told you privately). Avoided stating that test questions are compulsory."
+    },
+    {
+     "title": "Scenario D: the eager recruiter",
+     "kind": "scenario",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Someone keen is pressing the Brother you mentor about the Royal Arch."
+      }
+     ],
+     "scenario": {
+      "start": "d1",
+      "nodes": {
+       "d1": {
+        "text": "At your coffee a few weeks after his Raising, the Brother you mentor says a senior Brother keeps telling him he 'isn't a proper Mason' until he has 'done the fourth degree', and has started asking when he is going to put his name down. 'I don't want to offend him,' he says, 'but I've got a young family and I've only just finished the three Degrees. Do I have to?' What do you say first?",
+        "choices": [
+         {
+          "label": "Reassure him: there is no obligation and no deadline. Then give him accurate information and ask what he would like to do.",
+          "next": "d2",
+          "feedback": "Information, not recruitment. He needs to hear that the decision and the timing are his, before anything else."
+         },
+         {
+          "label": "Tell him the senior Brother is right in principle, so he may as well join and get it done.",
+          "next": "d1b",
+          "feedback": "That adds your pressure to someone else's, and he has just told you his family comes first. It also repeats an inaccurate description."
+         },
+         {
+          "label": "Tell him the Royal Arch is for keen ritualists and he can ignore it.",
+          "next": "d1c",
+          "feedback": "That takes the pressure off, but it isn't accurate, and it closes off something he might enjoy later. Give him the facts and let him decide."
+         }
+        ]
+       },
+       "d1b": {
+        "text": "He tells the senior Brother he'll join, mostly to stop the comments. A few weeks later he tells you he's dreading the extra evenings and wishes he'd waited.",
+        "choices": [
+         {
+          "label": "Tell him it's fine to pause, offer to speak to the Royal Arch Representative with him, and give him the accurate picture.",
+          "next": "d2",
+          "feedback": "Recoverable. Nobody wants a Companion who joined under pressure."
+         }
+        ]
+       },
+       "d1c": {
+        "text": "Months later he hears a talk on the Royal Arch, finds it interesting, and wonders why you were so dismissive.",
+        "choices": [
+         {
+          "label": "Correct it honestly and give him the accurate picture.",
+          "next": "d2",
+          "feedback": "Accurate information builds trust, even when it comes a little late."
+         }
+        ]
+       },
+       "d2": {
+        "text": "He asks what the Royal Arch actually is. What do you tell him?",
+        "choices": [
+         {
+          "label": "That UGLE describes it as the completion of the journey he began at Initiation; that he has been eligible since four weeks after his Raising; that it is not a 'fourth degree'; and that there is no rush. If and when he is curious, the Lodge's Royal Arch Representative is happy to talk.",
+          "next": "d3",
+          "feedback": "Accurate and unpressured. Timing, not inevitability."
+         },
+         {
+          "label": "That it's the fourth degree and the next step after the Third.",
+          "next": "d2b",
+          "feedback": "The Royal Arch isn't described as a fourth degree. Since the Union of 1813 'pure Antient Masonry' has been described as the three degrees including the Holy Royal Arch. Calling it a 'next step' also makes it sound expected."
+         }
+        ]
+       },
+       "d2b": {
+        "text": "He reads the Royal Arch material on Solomon and finds it doesn't match what you told him.",
+        "choices": [
+         {
+          "label": "Put it right, and give him the accurate description.",
+          "next": "d3",
+          "feedback": "Good. Admitting a mistake is part of being someone he can trust."
+         }
+        ]
+       },
+       "d3": {
+        "text": "He decides to wait a year or two until the children are older, and to have a chat with the Royal Arch Representative when he's ready. You ask whether he'd like you to have a word with the Lodge Mentor about the comments, so the keen Brother hears it kindly from someone else. He's relieved. The senior Brother means well; a quiet word from the Lodge Mentor is usually all it takes. The topic course One Journey covers how to talk about the Royal Arch well.",
+        "choices": []
+       }
+      }
+     },
+     "devNotes": "Reset as a private conversation after the event, because One Journey's scenario already covers rescuing him at the Festive Board. Facts: eligibility four weeks after Raising, UGLE's 'completion of the journey', the 1813 declaration (facts.md 8, C01, C03, C10). 'Fourth degree' is used only as the senior Brother's error and is corrected. QA (Issue 3): the proposal form removed, so the scenario turns on the 'not a proper Mason' myth and accurate information, and does not mirror One Journey's 'bar and brochure' (form at the Festive Board)."
+    }
+   ]
+  },
+  {
+   "title": "Noticing, and passing things on",
+   "summary": "What a Personal Mentor needs to know about noticing a change, welfare and confidentiality.",
+   "lessons": [
+    {
+     "title": "Noticing a change",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "You are not there to watch him. You are there to know him well enough to notice when something has changed.\n\nWhat matters is a change in **his** usual pattern, not how often he comes. A Brother who has always come four times a year is doing exactly what suits him. A Brother who always came and has stopped, or who used to be chatty and has gone quiet, may simply be busy. He may also be unhappy about something. A friendly word will usually tell you which.\n\n### The friendly call\n\nUGLE's guidance is that if a member misses two consecutive meetings, with or without an apology, someone he knows rings him within seven days of the second meeting. Treat that as a sensible habit, not a rule to enforce. The call is from a friend: 'We missed you. How are things?' Not 'Why weren't you there?'\n\n### When to talk to the Lodge Mentor\n\nMost friendly calls end with nothing to do. Talk to the Lodge Mentor when:\n\n- something in the Lodge is the problem (he feels left out, overlooked or upset by someone), because the Lodge can change it and you can't on your own;\n- he tells you he is thinking of resigning, or has resigned. Do it straight away: the sixty days are the time for a conversation;\n- he seems to be drifting further away and your calls aren't making a difference;\n- you are simply not sure. That is what the Lodge Mentor is for.\n\nTell him you'd like to mention it to the Lodge Mentor, and why. Most men are glad someone is taking their concern seriously."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "This is all a Personal Mentor needs to start with. The topic course Keeping Good Men goes much further: changes in engagement, the Lodge's response, resignations and re-engagement."
+      }
+     ],
+     "devNotes": "Replaces Issue 2's 'Warning signs and the four steps' (E7e owns warning signs and the four steps). Two-misses wording per facts.md approved wording 12 ('with or without an apology'; Part 3 item 9 asks the Province to choose); Hermes alert omitted as unnecessary for a Personal Mentor. Removed 'keep a discreet note'."
+    },
+    {
+     "title": "Welfare, privacy and knowing your limits",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Sooner or later a Brother will tell you something personal: a health worry, money trouble, a family problem, a bereavement. That he told you is a mark of trust. You don't have to fix it. What he needs from you is to listen, to be a friend, and to help him get to the right help.\n\n### What you do\n\n- **Listen first.** Don't rush to advice or reassurance. 'That sounds hard. How are you doing with it?'\n- **Explain what help exists.** The Lodge Almoner looks after welfare for the Lodge, and can draw on the Provincial Grand Almoner and the Masonic Charitable Foundation, which helps Freemasons and their families.\n- **Ask before involving anyone.** 'Would you be happy for me to have a word with our Almoner? He's good at this, and he's discreet.' Normally the Almoner is involved with the Brother's agreement.\n- **Stay his friend.** Referring him doesn't end your part. Keep in touch as before.\n\n### What you don't do\n\n- **Don't pass everything on.** Not every personal disclosure needs to go to the Lodge Mentor, the Master or the Province. Respect his privacy and his wishes.\n- **Don't promise absolute secrecy.** You can't keep that promise if you become worried for his safety. Try instead: 'I'll keep this between us, unless I'm worried about your safety or someone else's.'\n- **Don't lend money or try to sort out his finances, health or family yourself.** Good intentions can make things harder for both of you.\n- **Don't write it down.** If you keep notes, the most they should say is 'referred to Almoner'."
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "If you think someone's life is at immediate risk, or you do not feel you can keep him safe, call 999. For an urgent mental health crisis that is not immediately life-threatening, call NHS 111 and choose the mental health option (option 2 in Hertfordshire). These are not mentoring decisions: act first. Afterwards, keep in touch, ask (with his agreement) whether the Almoner can help, and talk it over with someone yourself. The topic course Welfare, Wellbeing and Knowing Your Limits covers this properly, and every Personal Mentor is encouraged to take it."
+      }
+     ],
+     "devNotes": "Welfare boundaries per brief s4: with his agreement, not everything passed on, no absolute secrecy, safety distinguished. Emergency wording from facts.md approved wording 15 (shortened; full contacts are in E7f). MCF named as 'Masonic Charitable Foundation' per F03; check whether to add 'now operating as the Freemasons' Charity'. QA: NHS 111 option 2 added to match E7f and facts.md 15; 'it stays with him' changed to 'he's discreet' so the Personal Mentor does not promise what the Almoner may need to share with the Provincial Grand Almoner or the MCF."
+    }
+   ]
+  },
+  {
+   "title": "Assessment, tools and your next step",
+   "summary": "Check your understanding, find your tools, and choose one thing to try.",
+   "lessons": [
+    {
+     "title": "Final assessment",
+     "kind": "quiz",
+     "minutes": 10,
+     "required": true,
+     "isAssessment": true,
+     "passMark": 75,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Eleven questions, mostly situations. Some have more than one good answer: where it says 'choose all that apply', pick every reasonable option. You need 75% to pass, and you can try again."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "multiple",
+       "prompt": "Which of these are part of a Personal Mentor's role? Choose all that apply.",
+       "options": [
+        "Keeping in touch between meetings",
+        "Being his first point of contact for questions",
+        "Coaching him on his ritual each week",
+        "Noticing when something seems to have changed for him",
+        "Letting the Lodge Mentor know whenever he misses a meeting"
+       ],
+       "correct": [
+        0,
+        1,
+        3
+       ],
+       "feedbackCorrect": "Right. Contact, questions and noticing are the heart of it.",
+       "feedbackIncorrect": "Ritual coaching belongs to the Lodge of Instruction and its Preceptor, and reporting each missed meeting would turn friendship into monitoring.",
+       "explanation": "You can encourage him to go to the Lodge of Instruction and even help him practise if he asks, but you are not his coach. Passing on every absence makes him a case rather than a friend; a friendly call does far more. Talk to the Lodge Mentor when there's something the Lodge needs to know or you're unsure."
+      },
+      {
+       "kind": "single",
+       "prompt": "Your Brother was Initiated tonight. When should your first proper one-to-one happen?",
+       "options": [
+        "At the next Lodge meeting, when you'll see him anyway",
+        "Before the next Lodge meeting",
+        "After he has been Passed, when he has more to talk about"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. Before the next meeting, so it holds no surprises.",
+       "feedbackIncorrect": "Waiting for the next meeting, or longer, leaves him to make sense of things alone, and the second meeting is often mostly business.",
+       "explanation": "Hertfordshire's guidance is a one-to-one before the next Lodge meeting, ideally within a week or two. It lets him ask what he's been wondering about and prepares him for a second meeting that can feel flat after his Initiation. Book it on the night."
+      },
+      {
+       "kind": "single",
+       "prompt": "At the Festive Board two months after his Initiation, your Brother says he still hasn't a clue what's going on and everyone else seems to know. What's the best response tonight?",
+       "options": [
+        "Explain the ceremony to him there and then",
+        "Reassure him that it's a normal feeling and arrange a proper chat before the next meeting",
+        "Send him some websites to read when he gets home"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Reassurance before information, and a proper time to talk.",
+       "feedbackIncorrect": "A long explanation at dinner is too much at once, and unofficial websites can confuse him further.",
+       "explanation": "Most new Brethren feel this. Hearing that it's normal helps straight away, and a one-to-one gives you time to find out what's actually puzzling him. Solomon is the reliable place to start if he wants to read."
+      },
+      {
+       "kind": "single",
+       "prompt": "You ask how he's getting on and he says, 'Fine, thanks.' He looks tired. What do you do?",
+       "options": [
+        "Accept it and move on; he'll tell you if something's wrong",
+        "Ask, 'Are you sure everything's fine?'",
+        "Pause for a moment, then ask something open, such as, 'How have things been generally?'"
+       ],
+       "correct": [
+        2
+       ],
+       "feedbackCorrect": "Right. The pause and an open question give him room without pushing.",
+       "feedbackIncorrect": "Moving on may miss something, and 'Are you sure?' is still closed and can feel like a challenge.",
+       "explanation": "'Fine' is often a polite holding answer. A short pause and an easy open question let him say more if he wants to. If he doesn't, that's fine too: you've shown you're interested, and he may come back to it later."
+      },
+      {
+       "kind": "single",
+       "prompt": "The Brother you mentor usually comes to every meeting. He has missed the last two, the first with apologies. What's the most sensible step?",
+       "options": [
+        "Ring him within the week as a friend, say he was missed and ask how things are",
+        "Ask the Secretary to look at his attendance and tell the Lodge Mentor there's a problem",
+        "Leave it until he's missed three or four; two is nothing"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Yes. A friendly call soon after a change in his usual pattern.",
+       "feedbackIncorrect": "Treating attendance as evidence of a problem can feel like surveillance, and waiting longer makes the call harder.",
+       "explanation": "UGLE's guidance is a call within seven days after two consecutive missed meetings, with or without an apology. Treat it as a habit, not a trigger. Most of these calls find a perfectly ordinary reason, such as work or family, and that's fine."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "In Hertfordshire, a Brother who resigns has sixty days to withdraw his resignation, whether he resigned in writing or by saying so in open Lodge.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "True. The sixty days apply however he resigns.",
+       "feedbackIncorrect": "It is true. Hertfordshire applies the amended Rule 183.",
+       "explanation": "A Brother may resign by written notice to the Secretary (an email is enough) or at a regular meeting. The Secretary acknowledges it and cannot 'accept' it. Under the amended Rule 183, which applies in Hertfordshire, he automatically has sixty days to withdraw it, with no vote needed. If he tells you he has resigned, tell the Lodge Mentor straight away: those sixty days are the time for a conversation."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "Over a coffee your Brother tells you he has serious money worries since losing his job. Which of these are good responses? Choose all that apply.",
+       "options": [
+        "Listen, and let him tell you as much or as little as he wants",
+        "Ask whether he'd be happy for you to have a word with the Lodge Almoner",
+        "Tell him you'll keep it between you unless you're worried about his safety or someone else's",
+        "Offer to lend him some money to tide him over",
+        "Tell the Lodge Mentor and the Master the details that evening so they can help"
+       ],
+       "correct": [
+        0,
+        1,
+        2
+       ],
+       "feedbackCorrect": "Right. Listen, offer the Almoner with his agreement, and be honest about confidentiality.",
+       "feedbackIncorrect": "Lending money, or passing on the details without asking, can make things harder for him and for you.",
+       "explanation": "The Almoner leads on welfare and can draw on the Provincial Grand Almoner and the Masonic Charitable Foundation. Asking first keeps him in charge of his own situation. Not every disclosure needs to go to the Lodge Mentor or the Master. Never promise absolute secrecy, but don't spread it either. If you keep any notes, they say 'referred to Almoner' and nothing more."
+      },
+      {
+       "kind": "single",
+       "prompt": "Your Brother has been asked to take office and tells you he'd rather not: he doesn't enjoy speaking in front of people. What do you do?",
+       "options": [
+        "Encourage him to accept; he'll grow into it",
+        "Tell him there's no obligation, ask what he would enjoy, and leave the decision with him",
+        "Tell the DC privately that he's too nervous for office"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. No pressure either way, and the decision stays with him.",
+       "feedbackIncorrect": "Pushing him risks him dreading every meeting, and telling the DC without asking breaks a confidence.",
+       "explanation": "A Brother doesn't have to take office or learn ritual to belong. Some men are glad of help to make office manageable, others prefer to contribute in other ways, and both are fine. If he wants the DC to know, offer to go with him or ask the Lodge Mentor to have a word."
+      },
+      {
+       "kind": "single",
+       "prompt": "A keen senior Brother keeps telling your newly Raised Brother that he isn't a 'proper Mason' until he has done 'the fourth degree'. Your Brother asks you about it. Which response is best?",
+       "options": [
+        "Explain that the Royal Arch completes the journey he began at Initiation, that it isn't a fourth degree, that he's eligible now but there's no rush, and offer an introduction to the Royal Arch Representative when he's ready",
+        "Agree that he should join soon, since it's the next step after the Third Degree",
+        "Tell him to wait until he has been through the Chair, as tradition expects"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. Information, not recruitment; timing, not inevitability.",
+       "feedbackIncorrect": "Pushing him repeats the pressure and the inaccuracy, and 'wait for the Chair' is a myth UGLE has described as based on outdated ideas.",
+       "explanation": "A Master Mason is eligible to join the Royal Arch four weeks after his Raising. When he joins, if ever, is entirely his decision, and family and work come first. If the pressure continues, a quiet word from the Lodge Mentor to the keen Brother is usually enough."
+      },
+      {
+       "kind": "single",
+       "prompt": "On a phone call your Brother says something that makes you believe his life may be at immediate risk. What do you do?",
+       "options": [
+        "Call 999, or make sure he does, and stay on the line with him if you can; afterwards, with his agreement, involve the Almoner",
+        "Ask his permission before telling anyone, as you would with other personal matters",
+        "Arrange to see him at the weekend and talk it through then"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. Where life is at risk, safety comes first.",
+       "feedbackIncorrect": "Waiting, or asking permission first, could cost time that matters. This isn't an ordinary mentoring situation.",
+       "explanation": "In ordinary welfare matters you involve others with his agreement. When life may be at immediate risk, or you do not feel you can keep him safe, call 999. For an urgent mental health crisis that isn't immediately life-threatening, NHS 111, choosing the mental health option (option 2 in Hertfordshire). The topic course Welfare, Wellbeing and Knowing Your Limits covers this in full."
+      },
+      {
+       "kind": "single",
+       "prompt": "Two years on, the Brother you mentor is confident, visiting other Lodges and thinking about what he wants next. How should your relationship change?",
+       "options": [
+        "It should end; he no longer needs a mentor",
+        "Less explaining, more listening: help him make his own choices and stay a friend",
+        "More frequent contact, to make sure he stays on track for office"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. The relationship changes shape rather than ending.",
+       "feedbackIncorrect": "Ending it suddenly can feel like being dropped, and steering him 'on track' assumes you know what he wants.",
+       "explanation": "As he becomes established he needs you less, which was the aim. Stay the friend he can ring, help him think through his own choices about office, the Royal Arch or simply enjoying the Lodge, and don't push him towards any of them."
+      }
+     ]
+    },
+    {
+     "title": "Your tools and your support",
+     "kind": "content",
+     "minutes": 2,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "- **Personal Mentor's Guide:** the role, what to cover at each stage, and who to turn to.\n- **Mentor Meeting Guide:** the shape of a one-to-one. Glance at it before each one.\n- **Stage Checklists:** a page each for the Initiation night, the second meeting, Passing, Raising and the first Lodge of Instruction.\n- **Your Lodge Mentor:** your first port of call whenever you're unsure.\n- **The monthly mentoring call:** the first Tuesday of the month, 7pm, on Teams, open to all Personal Mentors.\n- **DAWG, the Daily Advancement WhatsApp Group,** run by the Provincial Mentoring Team. Ask your Lodge Mentor to have you added.\n- **The Provincial Mentoring Team:** mentor@hertfordshirefreemasons.org.uk"
+      },
+      {
+       "type": "resource",
+       "title": "Solomon, UGLE's learning platform",
+       "url": "https://solomon.ugle.org.uk/",
+       "description": "Accurate, UGLE-approved material for every stage, including material for mentors. Point the Brother you mentor there rather than to unofficial websites, and use it yourself."
+      },
+      {
+       "type": "text",
+       "markdown": "Want to go further? The topic courses The Mentoring Conversation, The First Two Years, Helping Brethren Learn and Welfare, Wellbeing and Knowing Your Limits were written with Personal Mentors in mind."
+      }
+     ],
+     "devNotes": "Warning Signs card removed from the list until D4 is corrected (it still carries 'one resignation in three is recovered' and pre-Issue 3 wording). Monthly call per facts.md G01; DAWG G02; email G03. Recheck at each issue."
+    },
+    {
+     "title": "Your Lodge task: one thing to try",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Pick one thing from this course and try it in the next thirty days. Some ideas:\n\n- In your next conversation with the Brother you mentor, ask only open questions for the first ten minutes, and pause before you reply.\n- Book your next contact before you part, and keep it.\n- Ask him how he'd like you to keep in touch, and how often.\n\nPlans written as 'when X happens, I will do Y' make it noticeably more likely that people follow through: a review of 94 studies found a medium-to-large effect (Gollwitzer and Sheeran, 2006). Your answer is private to you."
+      }
+     ],
+     "prompt": "Write your plan in this form: 'When [the moment], I will [what you'll do].' Keep it to one or two. Then write how you'll know it worked. This is about your own practice: please do not include names or personal details of other Brethren.",
+     "devNotes": "Implementation intentions wording per facts.md approved wording 14 (not 'far more likely'). Removed the 'Freemasonry must be fun ... does not resign' chain, which belongs in E1."
+    },
+    {
+     "title": "Thirty days on",
+     "kind": "reflection",
+     "minutes": 2,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Come back to this after you've tried your plan. Thirty days from now the Academy will send you one question: what did you try, and what happened? Your Assistant Provincial Mentor may ask the same over a coffee."
+      }
+     ],
+     "prompt": "What did you try? What happened? What would you do differently next time? Please do not include names or personal details of other Brethren."
+    }
+   ]
+  }
+ ]
+}

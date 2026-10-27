@@ -1,0 +1,753 @@
+{
+ "code": "E1",
+ "issue": "Issue 3",
+ "issueDate": "November 2026",
+ "fileTitle": "Lodge Mentor Essentials",
+ "slug": "lodge-mentor-essentials",
+ "title": "Lodge Mentor Essentials",
+ "summary": "The foundation course for Lodge Mentors: what the role is and is not, the four Hertfordshire principles, choosing Personal Mentors, the shape of the year, who to involve, and the support the Province offers.",
+ "tier": "foundation",
+ "audiences": [
+  "lodge_mentor",
+  "personal_mentor"
+ ],
+ "audienceText": "Lodge Mentors, new and experienced, and Personal Mentors thinking of taking on the role",
+ "stages": [],
+ "topics": [
+  "lodge mentor role",
+  "principles",
+  "personal mentors",
+  "provincial support"
+ ],
+ "level": "essential",
+ "principle": "prepare",
+ "minutes": 80,
+ "passMark": 75,
+ "completion": "Work through all the required lessons and pass the final assessment at 75%. The reflections are optional.",
+ "source": "Lodge Mentor Essentials, Course Draft for Development Issue 2, and the original course draft for development; The Hertfordshire Mentoring Principles (A1); Style, Terminology and Data Guide (A3); Provincial Mentoring Framework v3.1 (A2); Lodge Mentor's Guide Issue 2 (B1); Lodge Mentor Induction and Charge (E1, Tier E); UGLE Letter to Lodge Mentor; UGLE Members' Pathway papers (August 2021, now part of Building Together).",
+ "changeSummary": [
+  "New opening from the Lodge Mentor's point of view; the composite resignation story now belongs to the Personal Mentor Course.",
+  "The four principle definitions quoted verbatim from The Hertfordshire Mentoring Principles, with practical examples.",
+  "'Two windows' replaced with accurate wordings on the early years, spring Initiates and the year after the Chair; says plainly that not every new Brother is about to leave.",
+  "Attendance guidance reframed as noticing changes and a friendly 'you were missed' call; routine attendance reviews and discreet notes removed.",
+  "Rule 183 corrected to the Hertfordshire wording; welfare referrals made with the Brother's agreement, with details staying with the Almoner.",
+  "Both scenarios rewritten for realism, every route recoverable; the drift scenario is now distinct from the Personal Mentor Course.",
+  "Final assessment rewritten: eleven situational questions with plausible alternatives and full explanations.",
+  "Reflections no longer ask for names; restructured into five modules; about 80 minutes including the optional activities."
+ ],
+ "modules": [
+  {
+   "title": "The role",
+   "summary": "Why Lodges have a Lodge Mentor, and what the role is and is not.",
+   "lessons": [
+    {
+     "title": "About this course",
+     "kind": "content",
+     "minutes": 2,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "This is the foundation course for Lodge Mentors. It gives you the shape of the whole role in a little over an hour, so that you can start well, and it points you to the Academy's topic courses where a subject deserves more time. It is also worth taking if you are a Personal Mentor who has been asked whether you might take the role on one day.\n\n### By the end of this course you will be able to\n\n1. Say in a sentence what the Lodge Mentor does, and where the role ends.\n2. Explain the four Hertfordshire principles and what each looks like in a Lodge.\n3. Choose and brief a Personal Mentor for a new Brother.\n4. Plan the first few weeks and the shape of your year.\n5. Notice when a Brother may need a friendly call, and know who else to involve.\n6. Find the help the Province offers, and start thinking about who might follow you.\n\nYou can stop at any point and pick up where you left off. The course is complete when you have worked through the required lessons and passed the final check at 75%."
+      }
+     ]
+    },
+    {
+     "title": "Why Lodges have a Lodge Mentor",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Think about the last few Brethren who left your Lodge. Some moved away for work. One or two had family or health reasons, and leaving was the right thing for them. One may simply have found that Freemasonry was not for him, which is no disgrace to him or to the Lodge. We part with men like that on good terms and wish them well.\n\nBut most Lodge Mentors, if they are honest, can think of one where they wonder whether we could have done better. A man who came regularly for a year or so, sat at the same end of the table, and then quietly stopped coming. Nobody was unkind to him. It is just that nobody was quite sure who was meant to keep in touch.\n\nThat is what the Lodge Mentor is for. Not to keep every man at any cost, and not to watch anyone, but to make sure that every new Brother has someone looking out for him, and that the Lodge is a place he enjoys coming to.\n\n### The Hertfordshire view\n\nThe Provincial Mentor's foreword to the Provincial Mentoring Framework starts with four words, and the Hertfordshire Mentoring Principles carry the thought on:\n\n> Freemasonry must be fun. A man who is enjoying himself attends; a man who attends participates; a man who participates belongs; and a man who belongs does not resign.\n\nThe point is the order of things. If a Brother enjoys his Lodge, has friends there and feels he is part of it, he is far more likely to want to stay involved. We cannot prevent every resignation, and we should not try to keep score. What we can do is make the Lodge somewhere he wants to be, and make sure he is never left wondering what happens next.\n\n### What the evidence says, and what it does not\n\n- UGLE's guidance says that a significant proportion of new members leave within two years of Initiation, often before they become Master Masons (Members' Pathway, Stewardship, August 2021). There is no published national percentage.\n- That does not mean every new Brother is about to leave. Most settle in happily. It means the early years are when a little attention goes furthest.\n- Outside Freemasonry, a 2002 review of 55 evaluations of youth mentoring programmes found that programmes using more good practices had stronger effects. There is no comparable study of adult mentoring in clubs, but the common-sense lesson travels: mentors who are chosen with care, briefed and supported do better. That is what this course, and the Province, are for."
+      }
+     ],
+     "devNotes": "Issue 3: the 'I joined at thirty-four' composite story has been removed. It belongs to the Personal Mentor Course (E2). This opening is new, written from the Lodge Mentor's point of view, and admits that some departures are right. The MetGL one-in-three figure has been moved out of E1: resignations are covered in Keeping Good Men. Evidence wordings: facts.md 9 and 14 (DuBois, youth mentoring)."
+    },
+    {
+     "title": "The role: organiser, not everything",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "### The role in one sentence\n\nThe Lodge Mentor makes sure mentoring happens in the Lodge; he does not do it all himself.\n\nUGLE's Board of General Purposes describes the role as co-ordinating mentoring in the Lodge and seeing that a Personal Mentor is appointed to every candidate and, preferably, every joining member, as well as other members who would benefit from one. It adds that the Lodge Mentor need not act as a Personal Mentor himself unless a particular case needs it.\n\n| Your role is | Your role is not |\n|---|---|\n| Making sure every candidate and new or joining Brother has a Personal Mentor, chosen with care | Being Personal Mentor to every new Brother yourself |\n| Briefing, encouraging and thanking the Personal Mentors | Teaching ritual: that is the Lodge of Instruction, the Preceptor and the Director of Ceremonies |\n| Keeping a simple, confidential Personal Mentoring Plan for each Brother being mentored | Keeping notes on members, or reporting on individuals to anyone who asks |\n| Paying attention to how the Lodge welcomes and includes its newer Brethren, and raising it when something could be better | Handling welfare matters yourself: that is the Almoner, with the Brother's agreement |\n| Being the Lodge's link with the Provincial Mentoring Team | Persuading anyone to take office or join the Royal Arch |\n| Briefing the Lodge on mentoring, and helping it see that mentoring is everyone's business | Holding the office for life |\n\nThe Province recommends that a Lodge Mentor serves for three to five years: long enough to build something, short enough to hand it on while it is fresh. It is a recommendation, not a rule.\n\n### Mentoring is shared\n\nYou co-ordinate. The Personal Mentor gives one Brother friendship and individual support. The Worshipful Master sets the tone of the Lodge. The Almoner looks after welfare. The Secretary, the Director of Ceremonies, the Royal Arch Representative and the Membership Officer each hold a piece. And every Brother who sits next to a new Brother at the Festive Board is mentoring, whether he calls it that or not. No one does everything."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "If you find yourself acting as Personal Mentor to several Brethren at once, the answer is usually more Personal Mentors rather than more evenings. The topic course Organising Mentoring in Your Lodge covers finding, matching and supporting them."
+      }
+     ],
+     "devNotes": "Facts relied on: facts.md D14 (UGLE Letter to Lodge Mentor: Personal Mentor for every candidate and, preferably, joining members); B18 (three to five years, Provincial recommendation). The table row 'Noticing patterns across the Lodge and acting early' has been reworded so it does not read as monitoring individuals."
+    }
+   ]
+  },
+  {
+   "title": "The four principles",
+   "summary": "Prepare, Guide, Support, Enlighten: the full statement, and what each looks like in your Lodge.",
+   "lessons": [
+    {
+     "title": "Prepare, Guide, Support, Enlighten",
+     "kind": "content",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "principles",
+       "intro": "Mentoring in Hertfordshire rests on four principles: Prepare, Guide, Support, Enlighten. They are not stages: they apply continuously and simultaneously throughout a member's journey."
+      },
+      {
+       "type": "text",
+       "markdown": "This is the one foundation course that sets out the four principles in full. The definitions below are quoted exactly from The Hertfordshire Mentoring Principles, the Province's one-page statement. Other courses link back here.\n\n### The principles\n\n> **Prepare.** Ensuring members are ready for each stage of their Masonic journey. This begins before interview and continues through practical preparation for ceremonies, office, and progression - ensuring members understand what to expect before it happens. There should never be any surprises.\n\n> **Guide.** Providing accurate, clear, and timely information and support. Good guidance is honest and grounded in authoritative sources. It dispels myths, answers questions openly, and helps members navigate an unfamiliar world with confidence - without creating dependency.\n\n> **Support.** Being present, responsive, and compassionate throughout. Support is not only practical; it is relational. Members who feel cared for and valued are far more likely to remain engaged and committed. The question is always \"How can we help?\" - never \"Why aren't you attending?\"\n\n> **Enlighten.** Deepening understanding, curiosity, and enjoyment of Freemasonry. Mentoring does not end with the Third Degree; it is a lifelong opportunity to help Brethren appreciate Freemasonry - its purpose, traditions and meaning - rather than simply learn information.\n\n> **These four principles are not sequential stages.** They apply continuously and simultaneously throughout a member's journey - from applicant to Entered Apprentice, through each degree, into the Royal Arch, into office, through the Chair and beyond it.\n\n### What they look like on a Lodge night\n\n| Principle | In practice, for example |\n|---|---|\n| Prepare | The candidate knows what to wear, when to arrive, roughly how long the evening lasts and what the Festive Board involves. The new Junior Deacon knows what the office asks of him before he says yes. |\n| Guide | A question gets a straight answer, or \"I don't know, but I'll find out\". He is pointed to Solomon rather than to whatever a search engine turns up. |\n| Support | Someone notices he has not been for a while and rings to say he was missed. Someone asks how his family is, and means it. |\n| Enlighten | A Past Master of thirty years and a Fellow Craft of three months both find something new to talk about, at their own pace and following their own curiosity. |\n\nThey apply to every Brother, not only the new ones. The Brother who has just come out of the Chair needs Support as much as the Entered Apprentice, and the established Master Mason who has stopped learning may simply be waiting for someone to Enlighten.\n\nThe Principles end with a line worth remembering: the Lodge Mentor co-ordinates and the Personal Mentor accompanies, but the responsibility belongs to every member of every Lodge. \"We are all mentors to others in Freemasonry.\""
+      }
+     ],
+     "devNotes": "Definitions quoted verbatim from A1 (The Hertfordshire Mentoring Principles), including A1's own spaced hyphens and the word 'navigate' inside the quotation. Order Prepare, Guide, Support, Enlighten. This is the only foundation course with the full statement; E2 and E6 link here."
+    },
+    {
+     "title": "Your Lodge against the four principles",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A short, honest look at your own Lodge. Your answer is private to you and is saved so you can come back to it. The second half of each answer is often the start of your plan.\n\nPlease do not include names or personal details of other Brethren. Think about what the Lodge does, not about individuals."
+      }
+     ],
+     "prompt": "For each principle (Prepare, Guide, Support, Enlighten), write one thing your Lodge already does well and one thing it could do better. Then pick the one improvement that would make the most difference and that you could start this year. Please do not include names or personal details of other Brethren."
+    }
+   ]
+  },
+  {
+   "title": "Choosing and briefing Personal Mentors",
+   "summary": "The test for a good Personal Mentor, the short brief every one should have, and a scenario.",
+   "lessons": [
+    {
+     "title": "Choosing a Personal Mentor",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "The test is time, temperament and the potential for friendship, not seniority and not ritual skill. Knowledge can be learned along the way; warmth and reliability are much harder to teach.\n\n- **Time.** Can he keep in touch between meetings, not only on Lodge nights? A busy man can still be a good Personal Mentor if he is reliable about a call or a message.\n- **Temperament.** Does he listen more than he talks? Is he patient? Can he say \"I don't know, but I'll find out\" without embarrassment?\n- **Friendship potential.** Would these two men enjoy a drink together? Stage of life, work pattern, interests and where they live often matter more than rank.\n\n### The Proposer, and the Past Masters\n\nUGLE's advice is to consider the Proposer or Seconder first, and it is good advice: trust already exists. But consider him, do not default to him. Sometimes he is ideal. Sometimes he is a generation older, lives an hour away, or is already stretched, and the kindest thing is a shared arrangement where he stays close and someone else does the regular keeping in touch.\n\nPast Masters often make excellent Personal Mentors. They know the Lodge, they have time once the Chair is behind them, and many of them welcome a purpose.\n\n### The ten-minute brief\n\nNo Personal Mentor should start without a short conversation with you. Ten minutes is usually enough to cover:\n\n1. What the role is: a friend with a purpose. What it is not: a ritual coach or a welfare officer.\n2. The first contacts: the night itself, a call or message within a day or two, and a proper one-to-one before the next meeting.\n3. The Personal Mentor's Guide and the Personal Mentoring Plan, and where to find them.\n4. Where his role ends: welfare matters go to the Almoner, normally with the Brother's agreement, and he should never carry a worry alone.\n5. When you will next check in with him.\n\nA Brother who has taken the Personal Mentor Course will already know most of this, but the conversation still matters. It tells him you are there."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "The topic course Organising Mentoring in Your Lodge goes further: practical matching, joining members and dual members, briefing, supporting your mentors, re-matching without blame, and records."
+      }
+     ],
+     "devNotes": "Facts: facts.md D15 (UGLE: always consider the Proposer or Seconder first). Contact timing 'before the next meeting' is the current Hertfordshire wording; UGLE suggests a meeting 'within a week or so' (facts.md Part 3 item 15, LMG-8 open)."
+    },
+    {
+     "title": "Who could be a Personal Mentor?",
+     "kind": "reflection",
+     "minutes": 2,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Most Lodges have more possible Personal Mentors than they think. Try this on paper, or over a coffee with your Master, not in the Academy: run down the Lodge list and mark everyone who passes the time, temperament and friendship test. Include the Past Masters and any joining members whose experience nobody has yet used. The list is usually longer than you expect.\n\nThen come back here and answer the question below. It asks about your approach, not about people."
+      }
+     ],
+     "prompt": "Without naming anyone: roughly how many possible Personal Mentors did you find, and how does that compare with the number of new Brethren you expect in the next year or two? How will you approach the first one or two, and what will you say to them? Please do not include names or personal details of other Brethren."
+    },
+    {
+     "title": "Scenario: choosing for a new candidate",
+     "kind": "scenario",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Work through what you would do. There is no score: each choice shows how it is likely to play out, and you can always recover."
+      }
+     ],
+     "scenario": {
+      "start": "m1",
+      "nodes": {
+       "m1": {
+        "text": "Your Lodge has balloted for a candidate who will be Initiated next month: a 31-year-old paramedic who works rotating shifts and has a young family. His Proposer is a much-loved Past Master in his seventies, a friend of the candidate's late father, who is clearly delighted to be bringing him in. Who do you ask to be his Personal Mentor?",
+        "choices": [
+         {
+          "label": "Talk to the Proposer first. Ask what he thinks the young man will need, and whether he feels able to keep in touch between meetings.",
+          "next": "m2",
+          "feedback": "A good start. Considering the Proposer first respects the trust that already exists, and an open conversation lets him tell you what he can realistically do."
+         },
+         {
+          "label": "Ask the Proposer to do it. He knows the family and would probably be hurt not to be asked.",
+          "next": "m1b",
+          "feedback": "Understandable, and sometimes right. The risk is skipping the questions that matter for this candidate: time, temperament and fit with a shift worker's week. Defaulting is different from considering."
+         },
+         {
+          "label": "Ask the Lodge's most accomplished ritualist, so the candidate is taught properly from the start.",
+          "next": "m1c",
+          "feedback": "A well-meant choice, but ritual skill is not the test. The Lodge of Instruction and the Preceptor teach ritual. A Personal Mentor is a friend with a purpose, chosen for time, temperament and friendship potential."
+         }
+        ]
+       },
+       "m1b": {
+        "text": "Three months on, the Proposer has had a spell in hospital and, understandably, has not been in touch with the young man since the Initiation. Nobody else had been asked to keep an eye out. The new Entered Apprentice's shifts have meant he could not come to the last meeting, and he mentions to the Secretary by email that he 'isn't really sure what happens next'. What now?",
+        "choices": [
+         {
+          "label": "Ring the Entered Apprentice yourself this week, then ask a second Brother with a similar working pattern to share the mentoring, with the Proposer still involved as he is able.",
+          "next": "m3",
+          "feedback": "Recoverable. Two Brethren can share one man. The Proposer keeps his place and his dignity, and the Entered Apprentice gets someone who can actually be there. Ring the Proposer too: he will be glad to know the young man is looked after."
+         },
+         {
+          "label": "Reply by email with the date of the next meeting and the Lodge of Instruction details.",
+          "next": "m1d",
+          "feedback": "Accurate, but it answers the question he asked rather than the one he meant. 'Not sure what happens next' usually means 'nobody has talked to me'. A call from a person will do more than a list of dates."
+         }
+        ]
+       },
+       "m1d": {
+        "text": "He replies politely. Two weeks later he is still not sure whether he is expected at the Lodge of Instruction, and says so to a Brother he bumps into at work. The Brother mentions it to you. What do you do?",
+        "choices": [
+         {
+          "label": "Ring him yourself, apologise that he was left in the dark, and arrange a Personal Mentor who can keep in touch around his shifts, with the Proposer alongside.",
+          "next": "m3",
+          "feedback": "A genuine call and a simple apology go a long way. Then make sure there is a named person, and that he is briefed."
+         }
+        ]
+       },
+       "m1c": {
+        "text": "The ritualist is thorough and kind, but formal. After a few weeks the Entered Apprentice tells his Proposer he feels he is being tested every time they speak, and is a bit anxious about coming to Lodge. What now?",
+        "choices": [
+         {
+          "label": "Thank the ritualist, ask whether he would help at the Lodge of Instruction when the time comes, and ask a Brother who will simply keep in touch to be Personal Mentor.",
+          "next": "m3",
+          "feedback": "Good. Use each man for what he does best, and nobody is made to feel he failed. Explain the change to the Entered Apprentice as adding a friend, not removing a teacher."
+         },
+         {
+          "label": "Ask the ritualist to ease off on the ritual and focus on friendship instead.",
+          "next": "m1e",
+          "feedback": "Worth a try if you think he can change his approach, and he may. The risk is asking a man to be someone he is not. Check how it is going soon."
+         }
+        ]
+       },
+       "m1e": {
+        "text": "A month later little has changed. The ritualist is trying, but the two men have little in common and the calls have become shorter. What do you do?",
+        "choices": [
+         {
+          "label": "Make a friendly change: thank the ritualist warmly, keep him involved for the ritual side when it is wanted, and introduce a Personal Mentor who is a better fit.",
+          "next": "m3",
+          "feedback": "A re-match without blame. Some pairings simply do not click, and that is nobody's fault. The topic course Organising Mentoring in Your Lodge covers re-matching in more detail."
+         }
+        ]
+       },
+       "m2": {
+        "text": "The Proposer says he would love to stay involved but admits that evening phone calls tire him, he does not use WhatsApp, and he finds the drive to the Lodge harder after dark these days. What do you do?",
+        "choices": [
+         {
+          "label": "Suggest a shared arrangement: a Brother with a similar working pattern as Personal Mentor, with the Proposer alongside as a friend and sponsor. Brief them both together.",
+          "next": "m3",
+          "feedback": "This keeps what matters. The Proposer keeps the relationship, the Personal Mentor keeps the regular contact, and a shift worker gets someone who can fit around his week."
+         },
+         {
+          "label": "Thank him, reassure him that he has done his part by proposing, and appoint someone else.",
+          "next": "m2b",
+          "feedback": "Kindly meant, but it risks the Proposer feeling sidelined, and the candidate loses the person he already trusts. A shared arrangement is usually better."
+         },
+         {
+          "label": "Let the Proposer do it anyway, with you stepping in when he cannot manage.",
+          "next": "m1b",
+          "feedback": "Goodwill is not the same as time. A shift worker with a young family needs contact that fits his week, and 'stepping in when needed' tends to mean nobody notices until something has gone wrong."
+         }
+        ]
+       },
+       "m2b": {
+        "text": "At the Initiation, the Proposer seems a little subdued. Afterwards he says, quietly, that he had hoped to have more of a part in it. What do you do?",
+        "choices": [
+         {
+          "label": "Apologise for not involving him more, and ask him to stay alongside the new Personal Mentor: perhaps sitting with the candidate at the Festive Board and joining them for a coffee now and then.",
+          "next": "m3",
+          "feedback": "Easily put right. A shared arrangement works best when it is agreed openly, and the Proposer's goodwill is valuable to both men."
+         }
+        ]
+       },
+       "m3": {
+        "text": "The Personal Mentor and the Proposer have both been briefed. The Personal Mentoring Plan is open, and the candidate knows it exists and what it is for. The first contacts are in the diary around his shift pattern, and he knows exactly who to ring with a question. That is the role done well: not by you doing everything, but by making sure the right people are in place.",
+        "choices": []
+       }
+      }
+     },
+     "devNotes": "Issue 3: realism improved (the candidate's absence is now explained by shifts and the Lodge's silence rather than 'nobody noticed he missed two meetings'), every step now has a recoverable path, and one ending is reachable from every route."
+    }
+   ]
+  },
+  {
+   "title": "The year, and who to involve",
+   "summary": "Getting started, the shape of the year, noticing when a Brother may need a call, and who else to involve.",
+   "lessons": [
+    {
+     "title": "Getting started, and the shape of the year",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "### In your first few weeks\n\nWhether you are newly appointed or have been in post a while, these are the foundations.\n\n1. **Your induction.** The Province offers an induction to every new Lodge Mentor, with the Charge (at the end of this course) and the Mentor's Jewel. If you have not had yours, ask.\n2. **The list.** Ask the Secretary for the candidates, the Brethren in their first two years, and joining members in their first year.\n3. **A Personal Mentor and a Personal Mentoring Plan for each of them.** Each Brother should know a Plan is kept and what it is for.\n4. **A short conversation with the Master, the Secretary, the Almoner and the Director of Ceremonies.** Agree how you will hear early about new candidates and coming ceremonies, how welfare matters reach the Almoner, and that you will be told promptly if anyone resigns.\n5. **The monthly mentoring call.** Join it once; most Lodge Mentors find it worth keeping up.\n6. **Your Assistant Provincial Mentor.** Introduce yourself, and invite him to your Lodge's next Initiation.\n\n### The year in outline\n\n| When | What the Lodge Mentor does |\n|---|---|\n| Lodge Committee | A few minutes on mentoring: does every new Brother have a Personal Mentor, what ceremonies are coming, and is there anything the Lodge could do better for its newer Brethren? Individual Brethren are a matter for a friend's call, not the Committee. |\n| Before each ceremony | Check that the Personal Mentor has prepared the candidate, using the Stage Checklists. There should never be any surprises. |\n| After each ceremony | Check that the first contacts have happened. |\n| Before the summer break | Make sure Brethren in their first year or two, especially spring Initiates, will hear from someone over the summer. |\n| Installation | Have a word with the outgoing Master about what comes next for him, and think about which Past Masters might enjoy being Personal Mentors. |\n| Once a year | Brief the Lodge on mentoring, thank your Personal Mentors, and talk with the Membership Officer about who has joined and who has left, and what the Lodge can learn. |\n\nAdapt it to your Lodge. The Lodge Mentor's Guide has a fuller version, and the topic course Organising Mentoring in Your Lodge goes into the practical detail."
+      }
+     ],
+     "devNotes": "Issue 3: 'Agree how you will see the attendance record after each meeting' and 'look at the attendance record with the Almoner after every meeting' removed as routine surveillance (brief section 4). The Committee item is now about the Lodge's arrangements, not a review of the attendance register; QA (Issue 3) also removed 'is there anyone we have not seen for a while', so individual Brethren are not discussed at Committee (consistent with E6 2.2 and E7e 3.2). 'Same day' notice of a resignation is a Hertfordshire standard awaiting confirmation (facts.md A05), so this lesson says 'promptly'."
+    },
+    {
+     "title": "Noticing, and the friendly call",
+     "kind": "content",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Mentoring is not surveillance. Nobody is asking you to keep a register of who comes and who does not. What helps is the ordinary attentiveness of a good friend: noticing when something has changed, and doing something kind about it.\n\n### Change, not level\n\nA Brother who has always come twice a year may be perfectly content. That is how Freemasonry fits his life, and it is entirely legitimate. A Brother who has rarely missed a meeting in ten years and then stops coming is a different matter. It may be nothing: a new job, a new grandchild, a hip operation. But it is worth a call.\n\nOne sign on its own means very little. A change in someone's usual pattern is a reason for a friendly conversation, never proof of a problem.\n\n### \"You were missed\"\n\nUGLE's guidance offers a simple habit: if a Brother misses two meetings in a row, with or without an apology, an agreed person gives him a ring within seven days of the second one. Where the Secretary records attendance in Hermes, UGLE says the system will also let the Almoner know. Do not wait for that: a call from a friend is the Lodge's to make.\n\nTreat it as a friendly habit, not a rule or a trigger. The tone is \"you were missed, how are things?\", never \"why weren't you there?\" Most of these calls end with good news and an arrangement to have a drink. Some open a door to something he has not mentioned to anyone. Either way, he knows someone noticed.\n\n### Where a little attention goes furthest\n\n- **The early years.** As Lesson 1.2 said, a significant proportion of new members leave within two years of Initiation, often before they are Raised. Most settle in happily, so this is not a reason to treat anyone as about to leave. It is a reason to make sure nobody is left to work things out alone.\n- **Spring Initiates.** Research in one Province, reported by UGLE in 2021, found that men Initiated between January and June were less likely to remain than those Initiated between September and December, largely because of reduced participation. UGLE links this to the long summer break. A summer phone call or a social evening costs little.\n- **The year after the Chair.** Experienced Provinces describe the year after the Chair as a time when a Past Master can feel let down and cast aside. There is no published figure for how many leave then, but Hertfordshire treats it as a time to keep in touch.\n\n### Pressure in both directions\n\nThere are two ways to get this wrong. Some Brethren are asked to take office, learn ritual or move through the degrees before they are ready, or feel nudged towards the Royal Arch before they have asked about it. Others would happily do more but are never asked: the capable Brother waiting years for a first office, the joining member whose experience nobody uses, the Past Master with nothing to do. Neither is much fun.\n\nThere is no formula. Some Brethren want ritual, office and the Chair; others prefer the meetings, the friendship, the charity work or the social side. All of those are proper ways to enjoy Freemasonry. The answer is to know the individual and ask him what he would enjoy. Family and work come before Masonry, and a good Lodge helps a Brother keep it that way.\n\n### If something more is needed\n\nMost concerns are settled with one friendly call and never look like a process. Where something more is needed, the Province's four steps are: the Personal Mentor makes friendly, informal contact; the Lodge Mentor becomes involved if the concern continues, often by asking what the Lodge itself could change; the Worshipful Master or another appropriate officer has a conversation; and the Province can help if needed."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "The topic course Keeping Good Men goes further on changes in engagement, the four steps and supporting a Brother who is thinking of resigning. The First Two Years covers the early experience in depth."
+      }
+     ],
+     "devNotes": "Issue 3 rewrite. Removed: 'two windows', 'most losses fall within two years', 'a second cluster after the Chair' (facts.md D02, D03 INCORRECT/UNVERIFIED). Now uses facts.md wordings 9, 10 and 11, and says plainly that not every new Brother is about to leave. Two misses: facts.md 12 ('with or without an apology'), framed as a friendly habit. Removed 'keeps a discreet note' from step 2. Rewrote 'a bored Brother will leave as surely as one who is frightened' per brief section 2. Four steps: A2 section 11 wording. Provincial decision outstanding: Part 3 item 9 (whether the Province adopts UGLE's 'with or without an apology'). QA: the early-years bullet shortened to refer back to Lesson 1.2 rather than repeat the wording a second time."
+    },
+    {
+     "title": "Who to involve, and when",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "You are not expected to handle everything. Knowing who to involve is a large part of the role.\n\n| If it is about | Involve | What to remember |\n|---|---|---|\n| Welfare: health, money, bereavement, family | The Almoner, normally with the Brother's agreement | The Personal Mentor does not need to tell you the details, and you do not need to know them. Often all you need to hear is that support is in hand. The Plan says only \"referred to Almoner\". |\n| A resignation | The Secretary, the Almoner, and the Brother's Personal Mentor | See Rule 183 below. The time after a resignation is for a conversation, not a campaign. |\n| A missed subscription | The Treasurer, quietly | A first missed subscription is a reason for a quiet word from a friend or the Almoner, not a letter. |\n| Ceremonies and ritual | The Director of Ceremonies and the Preceptor | Readiness decides, not the calendar. |\n| The Royal Arch | The Royal Arch Representative | Information, not recruitment. The topic course One Journey covers it. |\n| Lodge culture, office, or a difficulty between Brethren | The Worshipful Master | A considered, private conversation. |\n| Anything you would like a second opinion on | Your Assistant Provincial Mentor | Asking early is a strength. All contact is in confidence. |\n\n### Resignation (Rule 183)\n\nA Brother may resign at any time, by written notice to the Secretary (an email is enough) or by saying so at a regular meeting of the Lodge. No acceptance is needed, and the Secretary has no power to accept it: he acknowledges receipt and reports it to the Lodge at the next regular meeting. Hertfordshire is one of the Provinces where the amended Rule 183 applies, so the Brother automatically has sixty days to withdraw his resignation, counted from the day the Secretary receives it or the day he resigns in open Lodge. No vote of the Lodge is needed. Those sixty days are the time for a conversation.\n\nThat conversation is about understanding, not persuasion. Some Brethren resign for entirely good reasons, and the right response is warmth and thanks. Others discover, once someone asks, that the problem was something the Lodge could fix.\n\n### Confidence and its limits\n\nBrethren will tell you and your Personal Mentors things in confidence. Respect that, and the Brother's wishes, but never promise absolute secrecy. Something like \"I'll keep this between us unless I'm worried about your safety or someone else's\" is honest and kind. If a life may be at immediate risk, or you do not feel you can keep him safe, call 999. For an urgent mental health crisis that is not immediately life-threatening, ring NHS 111 and choose the mental health option (option 2 in Hertfordshire). Neither is a matter of preference. The topic course Welfare, Wellbeing and Knowing Your Limits covers this properly, and every Lodge Mentor should take it."
+      }
+     ],
+     "devNotes": "Rule 183: facts.md approved wording 1 (replaces 'In a Hermes Province'). Arrears idea: facts.md 2. Royal Arch reduced to one line pointing to E7h (C06: 'should have' a Royal Arch Representative). Welfare: Personal Mentor refers to the Almoner with the Brother's agreement; the Lodge Mentor need not be told details (brief section 4). 999 and NHS 111 option 2: facts.md 15 (QA added the 111 line so the safety actions match E7f); full contacts are in E7f. 'Support is in hand' matches E7f 2.2 and 4.1. 999 wording aligned with E7f: 'immediate risk, or you do not feel you can keep him safe'."
+    },
+    {
+     "title": "Scenario: the Brother who stopped coming",
+     "kind": "scenario",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Work through what you would do as Lodge Mentor. There is no score: each choice shows how it is likely to play out, and every route can be recovered."
+      }
+     ],
+     "scenario": {
+      "start": "s1",
+      "nodes": {
+       "s1": {
+        "text": "At the Committee, the Treasurer mentions that a Master Mason of about six years has not paid this year's subscription. You realise you have not seen him for the last two meetings either. Until this year he rarely missed, and he used to help at the Lodge of Instruction. His Personal Mentor arrangement ended a couple of years ago, as most do. What do you do first?",
+        "choices": [
+         {
+          "label": "Ask the Brother who knows him best, perhaps his old Personal Mentor, to give him a friendly ring in the next week or so, just to say he has been missed.",
+          "next": "s2",
+          "feedback": "Step one, and usually the only step needed. A call from a friend is the most natural thing in the world, and it does not make the subscription the subject."
+         },
+         {
+          "label": "Ask the Secretary to send the usual reminder about the subscription, and see whether he responds.",
+          "next": "s1b",
+          "feedback": "Reasonable administration, but a formal letter can read like a demand to a man who may already be feeling distant. The arrears are a reason to talk, not to chase. The quiet word comes first."
+         },
+         {
+          "label": "Agree with the Committee to keep an eye on whether he comes to the next meeting before doing anything.",
+          "next": "s1c",
+          "feedback": "Well-meant caution, but waiting another month tells him nobody noticed. A friendly call is not an intervention; it is what friends do."
+         }
+        ]
+       },
+       "s1b": {
+        "text": "The Secretary sends the reminder. A week later the Brother pays, with a one-line email: 'Paid. Sorry, it's been a bit of a year.' He does not come to the next meeting either. What now?",
+        "choices": [
+         {
+          "label": "Take 'a bit of a year' as a cue. Ask the Brother who knows him best to ring him this week, just to say he has been missed.",
+          "next": "s2",
+          "feedback": "Good. The subscription is settled, but the email told you more than the payment did. A friend's call is the right next step, and your part is to make sure it happens, not to make it yourself."
+         },
+         {
+          "label": "Treat it as closed: the subscription is paid and the Treasurer is happy.",
+          "next": "s1d",
+          "feedback": "The administration is done, but nobody has yet asked him how things are. 'A bit of a year' is often an invitation to ask."
+         }
+        ]
+       },
+       "s1d": {
+        "text": "A month later, the Almoner mentions he has heard from another Brother that the man has been looking after his mother, who has been seriously ill. Nobody in the Lodge knew. What do you do?",
+        "choices": [
+         {
+          "label": "Ask the Brother who knows him best to ring him this week, simply to say he has been missed, and let the Almoner know you have done so in case the Brother would welcome his help.",
+          "next": "s2",
+          "feedback": "Right. Your part is the hand-off: a friend for friendship, and the Almoner ready if the Brother wants support. Whatever else is going on, a Brother having a hard time should hear from his Lodge."
+         }
+        ]
+       },
+       "s1c": {
+        "text": "He does not come to the next meeting either. A Brother says at the bar, 'Well, he's obviously lost interest.' What do you do?",
+        "choices": [
+         {
+          "label": "Gently say you would rather not guess, and ask the Brother who knows him best to ring him this week.",
+          "next": "s2",
+          "feedback": "Recoverable. Assumptions at the bar travel quickly, and are often wrong. A call will tell you more than speculation."
+         }
+        ]
+       },
+       "s2": {
+        "text": "His friend rings. He sounds pleased to hear from him. Work has been relentless, he says, and he has been caring for his mother. Then he adds: 'To be honest, I'm not sure anyone would notice if I wasn't there. I stopped going to the Lodge of Instruction when they gave the Inner Guard to someone else.' His friend passes this on to you, with his agreement. What do you take from it?",
+        "choices": [
+         {
+          "label": "There are two things here: real pressure at home, and a feeling of being overlooked. Ask his friend to keep in touch, mention to the Almoner (with his agreement) that he is caring for his mother, and talk to the Master and the DC about how he was passed over.",
+          "next": "s3",
+          "feedback": "Good listening. The stated reason (work and family) is real, but so is the feeling of being overlooked. One belongs with friendship and perhaps the Almoner; the other is something the Lodge itself can look at."
+         },
+         {
+          "label": "Ask the DC to offer him an office at the next Installation to show he is valued.",
+          "next": "s2b",
+          "feedback": "Kindly meant, and it shows he matters. But you have not asked him what he would like, and with a mother to care for, a new office may be the last thing he needs this year."
+         },
+         {
+          "label": "Reassure him through his friend that everyone is busy and he'll get back into it when things calm down.",
+          "next": "s2c",
+          "feedback": "Kind, but it misses what he told you about feeling unnoticed. A Brother who says he would not be missed usually needs to hear the opposite, from someone who means it."
+         }
+        ]
+       },
+       "s2b": {
+        "text": "The DC rings him with the offer. He says thank you, but he cannot commit to learning anything this year, and sounds a little embarrassed to have been asked. What now?",
+        "choices": [
+         {
+          "label": "Ask his friend to have a relaxed conversation about what he would enjoy, with no expectations attached, and make sure the Lodge keeps in touch whatever he decides.",
+          "next": "s3",
+          "feedback": "Asking is better than assuming. He may want an office next year, a small role the year after, or simply to come when he can. All of those are fine."
+         }
+        ]
+       },
+       "s2c": {
+        "text": "He comes to one meeting, ends up sitting with people he does not know well at the Festive Board, and then stops again. What should you do now?",
+        "choices": [
+         {
+          "label": "Ask his friend to get back in touch, and talk to the Master about what the Lodge could change: who sits with him, and whether there is something he would enjoy being asked to do.",
+          "next": "s3",
+          "feedback": "This is the Lodge Mentor's part of the four steps: asking what the Lodge itself could change, rather than what is wrong with the Brother."
+         }
+        ]
+       },
+       "s3": {
+        "text": "A few weeks on, he has talked things through with his friend. His mother's care is sorted for now, and the Almoner has been in touch. The Master has had a word with him and he has agreed, in his own time, to come back to the Lodge of Instruction. He may take an office next year, or he may not; either is fine. His friend has arranged to sit with him at the next Festive Board. One more thing remains for you.",
+        "choices": [
+         {
+          "label": "Close the loop: thank everyone involved, and check in with him yourself, lightly, after the next meeting.",
+          "next": "end",
+          "feedback": "Closing the loop matters. The aim is not that he attends; it is that he feels he belongs, and that the Lodge learned something."
+         },
+         {
+          "label": "Leave it there. The friend and the Almoner have it in hand.",
+          "next": "end_b",
+          "feedback": "They probably do, and most concerns do end like this. But a brief word from you completes the picture and makes sure nothing has slipped."
+         }
+        ]
+       },
+       "end_b": {
+        "text": "Things work out, as they usually do. A quick word from you afterwards would have done no harm, and would have told him the Lodge's interest did not stop when he came back. Worth remembering next time.",
+        "choices": []
+       },
+       "end": {
+        "text": "Most concerns end like this, with a friend's phone call and a few small changes, and never look like a process. Notice what the Lodge learned: a capable Brother can feel overlooked without anyone meaning it, and a missed subscription was the first sign of pressure at home, not a lack of interest. Not every story ends with a Brother staying, and that is not always failure. What matters is that he was asked, and heard. If he had decided to resign, your part as Lodge Mentor would be much the same: make sure the Secretary only acknowledges it, that the right friend gets in touch soon, and that the Almoner is involved if he would welcome it. The topic course Keeping Good Men covers that conversation, and the sixty days, in full.",
+        "choices": []
+       }
+      }
+     },
+     "devNotes": "Issue 3: rewritten from the Lodge Mentor's point of view to avoid duplicating E2's 'quiet drift' scenario (same setup in E2 6.2). Removed 'two misses' as an automatic trigger, 'keep a discreet note', 'mention it at the bar' (implausible as a choice), and the 'Start again' loop. Welfare information reaches the Almoner with the Brother's agreement. Both endings are real endings; no ending punishes. QA (Issue 3, lead editor): the resignation-email branch (s1b) and its sixty-days feedback removed, since resignations belong to Keeping Good Men. s1b is now a terse 'it's been a bit of a year' reply to the reminder; s1d now routes to s2 (it previously skipped to s3, whose text assumed facts only learned in s2). The ending points to Keeping Good Men for resignations."
+    }
+   ]
+  },
+  {
+   "title": "The Province behind you, and what comes next",
+   "summary": "Where to find help, your successor, the final check, the Charge and your one action.",
+   "lessons": [
+    {
+     "title": "You do not hold this office alone",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "- **Your Assistant Provincial Mentor** for your area: your first call for advice. He is there to help, never to inspect.\n- **The monthly mentoring call**, facilitated by the Deputy Provincial Mentor and open to all Lodge Mentors and Personal Mentors: currently the first Tuesday of the month at 7pm, on Teams. Bring a question or a story.\n- **DAWG, the Daily Advancement WhatsApp Group**, run by the Provincial Mentoring Team. Ask to be added.\n- **The mentoring library:** the Lodge Mentor's Guide, the Personal Mentor's Guide, the Personal Mentoring Plan, the Mentor Meeting Guide and the Stage Checklists.\n- **One-to-one help, in confidence,** from the Provincial Mentor's office: mentor@hertfordshirefreemasons.org.uk."
+      },
+      {
+       "type": "resource",
+       "title": "Solomon, UGLE's learning platform",
+       "url": "https://solomon.ugle.org.uk/",
+       "description": "Accurate, UGLE-approved material for every stage, including material for mentors. Point your Personal Mentors and new Brethren to it, and use it yourself."
+      },
+      {
+       "type": "text",
+       "markdown": "### Where to go next in the Academy\n\n| If you want to | Take |\n|---|---|\n| Organise mentoring in your Lodge: matching, briefing, supporting mentors, records | Organising Mentoring in Your Lodge |\n| Plan your Lodge's offices, and hand on your own role well | Succession Planning |\n| Sharpen your own conversations | The Mentoring Conversation |\n| Get the early years right | The First Two Years |\n| Support a Brother whose engagement has changed, or who is thinking of resigning | Keeping Good Men |\n| Know where your role ends on welfare, and what to do if someone may be at risk | Welfare, Wellbeing and Knowing Your Limits |\n| Talk about the Royal Arch without pressure | One Journey |\n| Help Brethren learn, ritual included, as much as they want | Helping Brethren Learn |"
+      }
+     ],
+     "devNotes": "Monthly call: A2 section 7.2 and 12 confirm a monthly call facilitated by the Deputy Provincial Mentor. The day, time and platform (first Tuesday, 7pm, Teams) come from the Lodge Mentor's Guide (B1) Issue 2, section 11 (facts.md G01). Please confirm they are current before publication and at every issue. QA (Issue 3): B1 says the call is open to Lodge Mentors and Personal Mentors, so the text now says both (matches E2). The Warning Signs card is removed from the library list, as in E2, until D4 is corrected. DAWG: A3 section 4, B1, C2 (facts.md G02)."
+    },
+    {
+     "title": "Your successor starts now",
+     "kind": "content",
+     "minutes": 3,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "The measure of your work is not only what mentoring looks like in your Lodge while you are Lodge Mentor, but what it looks like after you. So start thinking about who might follow you early, not in your last year.\n\n- **Watch your Personal Mentors.** The one who rings without being asked, and enjoys it, may be your natural successor.\n- **Share the work.** Ask a likely Brother to take on a piece of it, such as the summer contacts or the annual briefing, if he would enjoy it.\n- **Bring him along.** Invite him to the monthly call once, or to a Provincial mentoring evening.\n- **Keep your records tidy,** so that someone else could pick them up tomorrow.\n\nNo pressure, on him or on you. Some Brethren would love the role; others would rather stay Personal Mentors, and that is just as valuable. Talk it over with your Master and your Assistant Provincial Mentor rather than writing names down here."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "The topic course Succession Planning covers handing on the Lodge Mentor's role, and the Lodge's plan for its offices."
+      }
+     ]
+    },
+    {
+     "title": "Final assessment",
+     "kind": "quiz",
+     "minutes": 10,
+     "required": true,
+     "isAssessment": true,
+     "passMark": 75,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Eleven questions. Most are situations rather than definitions, and where more than one answer is reasonable you can choose more than one. You need 75% to pass, and you can try again."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "single",
+       "prompt": "You have just been appointed Lodge Mentor. The Lodge has three candidates coming forward this year, and the Master suggests that you act as Personal Mentor to all three 'to keep things simple'. What is the best response?",
+       "options": [
+        "Agree for the first year, then hand them on once things are running.",
+        "Thank him, and explain that the Lodge Mentor's role is to make sure each candidate has a well-chosen Personal Mentor, then find and brief three Brethren.",
+        "Take the candidate you think needs most help, and ask the Master to find mentors for the other two.",
+        "Agree, but ask the Proposers to help out between meetings."
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. The Lodge Mentor makes sure mentoring happens; he does not do it all himself.",
+       "feedbackIncorrect": "Not quite. Each option is well-meant, but they all leave you as the Personal Mentor, which is not sustainable and leaves no one else learning the work.",
+       "explanation": "UGLE describes the Lodge Mentor as co-ordinating mentoring and seeing that every candidate has a Personal Mentor, acting as one himself only where a particular case needs it. Taking on three men yourself tends to mean thinner contact for each and burn-out for you. A reasonable next step: draw up a few possible Personal Mentors with the Master and talk to the Proposers first."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "Which of these should weigh most when you choose a Personal Mentor? Choose all that apply.",
+       "options": [
+        "Whether he has time to keep in touch between meetings",
+        "Whether he listens well and is patient",
+        "Whether the two men are likely to get on",
+        "His seniority and rank in the Lodge",
+        "How well he knows the ritual"
+       ],
+       "correct": [
+        0,
+        1,
+        2
+       ],
+       "feedbackCorrect": "Right: time, temperament and the potential for friendship.",
+       "feedbackIncorrect": "Time, temperament and friendship potential are the test. Seniority and ritual ability are useful, but they are not what makes a good Personal Mentor.",
+       "explanation": "A senior or highly skilled Brother can be an excellent Personal Mentor, but only if he also has the time, the patience and the likelihood of a real friendship. Ritual is taught at the Lodge of Instruction. If your best candidate on rank is weaker on time or fit, consider a shared arrangement."
+      },
+      {
+       "kind": "single",
+       "prompt": "A candidate's Proposer is keen to be his Personal Mentor. What is the right approach?",
+       "options": [
+        "Appoint him: the Proposer always has first claim.",
+        "Choose someone else, so the candidate gets a fresh relationship.",
+        "Consider him first, using the same questions of time, temperament and fit as for anyone else.",
+        "Let the candidate choose between the Proposer and the Seconder."
+       ],
+       "correct": [
+        2
+       ],
+       "feedbackCorrect": "Yes. Consider him first; never default to him.",
+       "feedbackIncorrect": "The Proposer should be considered first, because trust already exists, but not appointed automatically.",
+       "explanation": "UGLE advises considering the Proposer or Seconder first. Often he is ideal. Sometimes age, distance or other commitments make a shared arrangement better, with the Proposer staying close. Asking the candidate to choose puts him in an awkward position before he knows anyone."
+      },
+      {
+       "kind": "single",
+       "prompt": "Which statement about Brethren leaving in their early years is accurate?",
+       "options": [
+        "UGLE's national figures show that most losses happen within two years of Initiation.",
+        "UGLE's guidance says a significant proportion of new members leave within two years, often before becoming Master Masons; there is no published national percentage.",
+        "About one new member in three resigns before his Raising.",
+        "There is no evidence that the early years are any different from the rest of a Brother's membership."
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Correct. 'A significant proportion', with no published national figure.",
+       "feedbackIncorrect": "UGLE's guidance says 'a significant proportion' leave within two years, often before becoming Master Masons. It does not publish a percentage, so any precise figure should be treated with caution.",
+       "explanation": "It matters to be accurate: inflated figures make every new Brother look like a flight risk, which he is not. Most settle in happily. The early years are simply when a little attention goes furthest, which is why every candidate has a Personal Mentor."
+      },
+      {
+       "kind": "single",
+       "prompt": "Brother A has come to nearly every meeting for eight years and has now missed two in a row. Brother B has always come about twice a year and missed the last meeting. Who would most appreciate a friendly call?",
+       "options": [
+        "Brother A: it is a change in his usual pattern.",
+        "Brother B: his attendance is lower.",
+        "Both equally, because both missed a meeting.",
+        "Neither: it is their own business how often they come."
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Yes. A change in someone's usual pattern is what is worth noticing.",
+       "feedbackIncorrect": "Brother B coming twice a year is his normal pattern, and he may be perfectly content. Brother A's change is the one worth a call.",
+       "explanation": "Less frequent attendance is not disengagement in itself. A change in pattern may still be nothing, but a friendly 'you were missed' costs little. It is true that attendance is a Brother's own business, which is why the call is about him, not about the register."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother misses two meetings in a row. Following UGLE's guidance, what is the sensible habit?",
+       "options": [
+        "Wait to see whether Hermes notifies the Almoner, then let the Almoner decide.",
+        "An agreed person gives him a friendly call within seven days of the second meeting, simply to say he was missed.",
+        "The Secretary writes to remind him of the Lodge's expectations on attendance.",
+        "Raise it at the next Committee and agree there who should contact him."
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. A friendly call within seven days: 'you were missed'.",
+       "feedbackIncorrect": "UGLE's guidance is a phone call from an agreed person within seven days of the second missed meeting. Waiting for a notification or the next Committee loses weeks.",
+       "explanation": "This is a friendly habit, not a trigger or a policing exercise. The tone is 'how are things?', never 'why weren't you there?' Where attendance is recorded in Hermes, the Almoner may also be notified, but the call is the Lodge's to make."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "A Brother emails the Secretary to resign. In Hertfordshire he can withdraw his resignation within sixty days, without any vote of the Lodge.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "True. Under the amended Rule 183, which applies in Hertfordshire, he has sixty days, and no vote is needed.",
+       "feedbackIncorrect": "It is true. Hertfordshire is one of the Provinces where the amended Rule 183 applies.",
+       "explanation": "The Secretary acknowledges a resignation; he has no power to accept it. The sixty days run from the day the Secretary receives it, or the day the Brother resigns in open Lodge. That time is for an unhurried conversation, aimed at understanding, not persuasion."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother tells his Personal Mentor that he is worried about money at home. What should the Personal Mentor do?",
+       "options": [
+        "Tell the Lodge Mentor and the Almoner straight away, so they can help.",
+        "With the Brother's agreement, put him in touch with the Almoner. The Lodge Mentor need not be told the details.",
+        "Ask the Treasurer quietly to let his subscription slide this year.",
+        "Keep it between the two of them: it is private."
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. The Almoner, with his agreement. The details stay with the Almoner.",
+       "feedbackIncorrect": "Welfare belongs with the Almoner, normally with the Brother's agreement, and the details do not need to go any further.",
+       "explanation": "Telling others without asking breaks his trust, even with good intentions. Arranging something with the Treasurer behind his back is well-meant but takes the decision out of his hands. Keeping it entirely private may leave him without help that exists. The Personal Mentoring Plan records, at most, 'referred to Almoner'. The exception is safety: if anyone may be at risk, act."
+      },
+      {
+       "kind": "single",
+       "prompt": "A capable Master Mason of four years has never been offered anything to do in the Lodge, and has started missing meetings. What is the most helpful next step?",
+       "options": [
+        "Ask the DC to offer him an office at the next Installation.",
+        "Ask him, through his friend or yourself, what he would enjoy, then talk to the Master and the DC.",
+        "Leave him be: if he wanted to be more involved he would say so.",
+        "Remind him that Lodge membership involves commitment."
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Ask first, then work with the Master and the DC.",
+       "feedbackIncorrect": "He may feel overlooked, but you do not yet know what he wants. Ask him first.",
+       "explanation": "Some Brethren are never asked and quietly drift; others would rather not take office at all. Offering an office without asking can land as pressure; leaving him be risks him feeling unnoticed. A conversation about what he would enjoy, whether office, a small role, the Lodge of Instruction or simply friendship, tells you which."
+      },
+      {
+       "kind": "single",
+       "prompt": "A newly Raised Brother asks his Personal Mentor about the Royal Arch. What is the best response?",
+       "options": [
+        "Explain that he should wait until he has been through the Chair.",
+        "Answer honestly, offer to introduce him to the Royal Arch Representative, and make clear the decision and its timing are his.",
+        "Give him a proposal form so he does not lose interest.",
+        "Change the subject: it is too soon to talk about it."
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Information, not recruitment; timing, not inevitability.",
+       "feedbackIncorrect": "Answer his question honestly and introduce him to the Royal Arch Representative. The choice, and when, are his.",
+       "explanation": "A Master Mason can join the Royal Arch four weeks after his Raising; UGLE calls the idea of waiting until after the Chair a myth. Pressing a form on him is recruitment; brushing him off leaves his question unanswered. The topic course One Journey covers this."
+      },
+      {
+       "kind": "single",
+       "prompt": "At the bar, a Past Master asks you, 'What's going on with young so-and-so? I hear he's having a rough time.' What do you say?",
+       "options": [
+        "Tell him what you know, since he is a senior Brother and may be able to help.",
+        "Say kindly that you would rather not discuss another Brother's affairs, and suggest he simply gives him a call if he would like to.",
+        "Say you know nothing about it, even though you do.",
+        "Suggest he asks the Almoner for the details."
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Courteous, discreet, and it turns his concern into something useful.",
+       "feedbackIncorrect": "What a Brother shares in confidence is his to share, not ours. A kind 'I'd rather not say, but do give him a ring' respects both men.",
+       "explanation": "Passing details on, even to a well-meaning senior Brother, is how private matters become gossip. Saying you know nothing is untrue and can backfire. Sending him to the Almoner implies there are details to be had. Encouraging a friendly call gives the Brother more support without sharing anything."
+      }
+     ]
+    },
+    {
+     "title": "The Charge to the newly appointed Lodge Mentor",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "The Charge is presented in writing to every new Lodge Mentor on appointment, and read at the Lodge Mentor Induction. It complements, and never replaces, the presentation of the Mentor's Jewel in open Lodge."
+      },
+      {
+       "type": "text",
+       "markdown": "Brother, the office you have accepted is unlike any other in the Lodge. The Treasurer keeps the accounts and the Secretary keeps the record; you keep something less visible and more easily lost: the experience of every member, from the man who has not yet been Initiated to the Past Master wondering what his Freemasonry is now for.\n\nYour duty is not to mentor every member yourself. It is to make sure that every member is mentored: that each new Brother has a Personal Mentor chosen with care; that those mentors are supported, encouraged and thanked; that no one's absence goes unnoticed and no one's question goes unasked; and that the Brethren of your Lodge come to understand that mentoring is not an office but a culture. We are all mentors to others in Freemasonry.\n\nFour words describe the work: Prepare, Guide, Support, Enlighten. Prepare every member for what lies ahead of him, so that there are never any surprises. Guide him with accurate and honest information, so that he navigates an unfamiliar world with confidence. Support him through whatever life and the Lodge may bring, asking always \"How can we help?\" and never \"Why aren't you attending?\" And enlighten him, patiently, at his pace, following his curiosity and not your own, so that Freemasonry becomes to him not information learned but a life enjoyed and understood.\n\nRemember the order of things: family and connections first, then Masonry. Hold that line for him even when the Lodge's programme tempts otherwise, and you will keep men the calendar would have lost.\n\nYou do not hold this office alone. Behind you stand the mentors of every Lodge in this Province, the Provincial Mentoring Team, and guidance for every stage of the road. Ask for help early and often; in Hertfordshire, asking is a strength.\n\nAnd from your first day, look for the Brother who will one day succeed you, for the measure of your work is not what mentoring looks like in your Lodge during your tenure, but what it looks like after it.\n\n*May the work be patient and purposeful, and may Freemasonry flourish, root and branch.*\n\nPresented on behalf of the Provincial Mentor, Province of Hertfordshire."
+      }
+     ],
+     "devNotes": "The Charge text is awaiting approval as canon (A1). Light editorial only in Issue 3: (1) the sign-off now reads 'Provincial Mentor' per the Issue 3 titles decision (was 'Provincial Grand Mentor'); (2) the Support question now uses the canon house phrase 'Why aren't you attending?' (was 'Why weren't you there?') so it matches A1 exactly; (3) the fifth paragraph keeps the priorities line agreed in October 2026 ('family and connections first, then Masonry'), as in Issue 2; (4) dashes replaced with commas and colons. Principles in canon order. Please confirm all four before the Charge is approved."
+    },
+    {
+     "title": "My one action",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Keep it to one or two things you will actually do in your Lodge in the next month. Plans written as \"When this happens, I will do that\" make it noticeably more likely that people follow through: a review of 94 studies found a medium-to-large effect (Gollwitzer and Sheeran, 2006).\n\nYour answer is private to you. Please do not include names or personal details of other Brethren."
+      }
+     ],
+     "prompt": "Write your plan in this form: 'When [the moment], I will [the action], with [which officer or role, not a name], by [date].' Keep it to one or two. If you have started thinking about a successor, describe in a sentence how you will begin, without naming anyone."
+    },
+    {
+     "title": "Thirty days on",
+     "kind": "reflection",
+     "minutes": 2,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Come back to this lesson about a month after finishing the course. The Academy will remind you. Your Assistant Provincial Mentor may ask the same over a coffee.\n\nPlease do not include names or personal details of other Brethren."
+      }
+     ],
+     "prompt": "What did you try? What happened? What would you do differently next time, and what do you need from the Province?"
+    }
+   ]
+  }
+ ]
+}

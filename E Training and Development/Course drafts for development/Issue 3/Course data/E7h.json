@@ -1,0 +1,643 @@
+{
+ "code": "E7h",
+ "issue": "Issue 3",
+ "issueDate": "November 2026",
+ "fileTitle": "One Journey",
+ "slug": "one-journey",
+ "title": "One Journey",
+ "summary": "How to talk about the Royal Arch accurately and without pressure: what it is, how it relates to the Craft, when to mention it, and how to work with your Royal Arch Representative so a Brother can make his own decision in his own time.",
+ "tier": "specialist",
+ "audiences": [
+  "personal_mentor",
+  "lodge_mentor",
+  "all"
+ ],
+ "audienceText": "Personal Mentors, Lodge Mentors, Royal Arch Representatives, Worshipful Masters and anyone who talks to newer Brethren about the Royal Arch",
+ "stages": [],
+ "topics": [
+  "Royal Arch",
+  "One Journey",
+  "Royal Arch Representative",
+  "signposting"
+ ],
+ "level": "optional",
+ "principle": "guide",
+ "minutes": 60,
+ "passMark": 75,
+ "completion": "Complete every required lesson and pass the final assessment at 75% or more. The warm-up quiz, the reflection, the Lodge task and the thirty-day reflection are optional.",
+ "source": "E7h One Journey, Topic Course Draft for Development Issue 1 (October 2026); Provincial Mentoring Framework sections 9 and 10; Lodge Mentor's Guide section 6; Style, Terminology and Data Guide (A3); UGLE Members' Pathway papers Introduction to the Royal Arch (October 2023) and Personal Learning (August 2021); UGLE Building Together conference material (September 2025); UGLE website, Royal Arch pages (checked October 2026).",
+ "changeSummary": [
+  "Reframed around one message: information, not recruitment; timing, not inevitability. A Brother who never joins is not an incomplete Freemason.",
+  "Pressure phrases removed (‘four-part journey’, ‘the last part of the journey’, ‘the natural close of the path’); UGLE's ‘completion of the journey’ reported as information only.",
+  "Removed the unsupported claims that Royal Arch members are ‘demonstrably’ more likely to stay and that UGLE asks Master Masons to complete the journey ‘before joining other orders’; Archway references replaced by Building Together.",
+  "Royal Arch Representative described accurately: an appointment every Lodge should have, not one of the Lodge offices in Rule 104.",
+  "New lesson on what a Brother will practically want to know: time, cost, choosing the right Chapter.",
+  "Warm-up quiz now tests judgement about how to talk about the Royal Arch, not trivia.",
+  "The bar-and-brochure scenario extended so that every route reaches an ending and the after-conversation with the keen Companions is covered.",
+  "Principle changed from Enlighten to Guide: the course is about accurate, timely information that dispels myths."
+ ],
+ "modules": [
+  {
+   "title": "About this course",
+   "summary": "What the course is for, and a short warm-up on how you talk about the Royal Arch now.",
+   "lessons": [
+    {
+     "title": "What this course is for",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "The Royal Arch is closely linked to the Craft, and many Brethren find great enjoyment in it. Many others never join and are no less Freemasons for it. A mentor's role sits between those two facts: make sure a Brother knows the opportunity exists and understands it accurately, then leave the decision, and its timing, with him.\n\nHertfordshire calls this approach **One Journey**, and sums it up in two lines:\n\n> Information, not recruitment. Timing, not inevitability.\n\nTwo things tend to go wrong. Sometimes nobody mentions the Royal Arch for years, so when a Brother does hear about it, perhaps around the time he reaches the Chair, it sounds like a sales pitch. Sometimes it is mentioned too early, too hard or by the wrong people, and a newly Raised Brother finds himself being signed up at the bar. This course is about avoiding both.\n\n### By the end of this course you will be able to\n\n1. Describe the Royal Arch and its relationship to the Craft accurately, using current terminology.\n2. Answer the questions a Brother usually asks: when he can join, what is involved, what it costs in time and money.\n3. Recognise good moments to mention it, and moments to leave it alone.\n4. Talk about it in a way that informs without pressing, and protect a Brother from well-meaning pressure.\n5. Work with your Lodge's Royal Arch Representative so that a Brother who is interested is introduced to a Chapter that suits him.\n\n### How it works\n\nShort readings, a branching scenario, a ten-question final assessment (pass mark 75%, and you can try again), and an optional Lodge task with a reflection thirty days on. You can stop at any point and pick up where you left off."
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "Royal Arch ritual is never described or hinted at in this course, and should never be in your conversations with a Brother who has not been Exalted. Prepare him practically, as you would for a Craft degree, and let the ceremony speak for itself."
+      }
+     ]
+    },
+    {
+     "title": "Before you start",
+     "kind": "quiz",
+     "minutes": 3,
+     "required": false,
+     "isAssessment": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Five quick questions on how you would talk about the Royal Arch. They do not count towards completion. Notice which ones made you pause."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "single",
+       "prompt": "A Brother you mentor, Raised last month, asks: ‘Do I have to join the Royal Arch?’ What is the best first answer?",
+       "options": [
+        "‘No, there's no obligation. It's something many Brethren enjoy, and I'm happy to tell you about it whenever you're curious.’",
+        "‘Not have to, but you'll be missing the best part of Freemasonry if you don't.’",
+        "‘Most of us do, so it's worth getting on with it while you're keen.’"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Yes. Honest, warm, and it leaves the door open without pushing.",
+       "feedbackIncorrect": "The other two answers both apply pressure, however gently. Start by making clear it is his choice.",
+       "explanation": "‘Missing the best part’ suggests his Masonry is incomplete without it, and ‘most of us do’ is social pressure. A plain ‘no obligation, happy to tell you more’ answers his question truthfully and invites the next one."
+      },
+      {
+       "kind": "single",
+       "prompt": "Which description of the Royal Arch is most accurate to give a Brother?",
+       "options": [
+        "‘It's the fourth degree of Freemasonry.’",
+        "‘It's a separate Order with its own Chapters, closely linked to the Craft. UGLE describes it as the completion of the journey begun at Initiation.’",
+        "‘It's one of many side degrees, with no particular link to the Craft.’"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Accurate, and it reports UGLE's view as UGLE's.",
+       "feedbackIncorrect": "It is not a fourth degree, and it is more than a side degree. It is a separate Order, closely linked to the Craft.",
+       "explanation": "Since the Union of 1813 the Royal Arch has been recognised as part of pure Antient Masonry, but it is governed by the Supreme Grand Chapter of England and meets in Chapters. ‘Fourth degree’ is inaccurate; ‘no link’ is wrong the other way."
+      },
+      {
+       "kind": "single",
+       "prompt": "When is the right time to talk to a Brother about joining the Royal Arch?",
+       "options": [
+        "On the night of his Raising, while he is enthusiastic",
+        "When he has settled into the Craft, shows curiosity or asks, and has room in his life for it. There is no single right moment",
+        "Once he has been through the Chair"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Timing, not inevitability.",
+       "feedbackIncorrect": "The right moment depends on the man, not the calendar. Waiting for the Chair is an outdated idea.",
+       "explanation": "Raising night is about his Raising. Waiting for the Chair is what UGLE calls a myth based on outdated ideas. He is eligible four weeks after his Raising, and the right time is when it suits him."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "A Brother who never joins the Royal Arch is missing something essential, and his Freemasonry is incomplete.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "False is right. The Craft is complete and valuable in itself.",
+       "feedbackIncorrect": "It is false. He must never be made to feel an incomplete Freemason.",
+       "explanation": "UGLE describes the Royal Arch as the completion of the journey begun at Initiation, and you can say so as information. But many fine Freemasons never join. Telling a Brother he is incomplete without it is pressure, and it damages trust."
+      },
+      {
+       "kind": "single",
+       "prompt": "The Chapter linked to your Lodge is short of candidates. A Brother you mentor is eligible and mildly curious. What do you do?",
+       "options": [
+        "Tell him the Chapter needs him, so it would be a kindness to join",
+        "Answer his questions, and suggest he talks to the Royal Arch Representative about Chapters that would suit him, including but not only the linked one",
+        "Say nothing at all, in case it sounds like recruitment"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. His needs, not the Chapter's numbers.",
+       "feedbackIncorrect": "A Chapter's numbers are never his problem, and silence leaves him without information he has asked for.",
+       "explanation": "UGLE's Building Together material says no Brother should be steered into a Chapter that does not meet his needs simply because it is linked to his Lodge. The right Chapter is one that meets on days, at times and at a cost that work for him."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "What the Royal Arch is",
+   "summary": "The facts, the right words, and the practical things a Brother will want to know.",
+   "lessons": [
+    {
+     "title": "The facts, accurately",
+     "kind": "content",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "### The relationship to the Craft\n\nAt the Union of the two Grand Lodges in December 1813 it was declared that pure Antient Masonry consists of three degrees, the Entered Apprentice, the Fellow Craft and the Master Mason, including the Supreme Order of the Holy Royal Arch. That declaration still opens the Book of Constitutions.\n\nSo the Royal Arch is not an extra degree bolted on, and it is not a fourth Craft Degree. It is a separate Order, closely linked to the Craft and recognised as part of pure Antient Masonry.\n\n- **Governance.** The Craft is governed by the United Grand Lodge of England. The Royal Arch is governed by the Supreme Grand Chapter of England. The Grand Master, if a Royal Arch Mason, is First Grand Principal. UGLE's own guidance goes as far as saying that in real terms the two are one organisation, though they remain two governing bodies.\n- **In the Province.** Royal Arch Chapters in Hertfordshire come under the Provincial Grand Chapter, alongside the Provincial Grand Lodge.\n- **UGLE's description.** UGLE describes the Royal Arch as the completion of the journey begun at Initiation. That is worth knowing and fine to pass on as UGLE's view. It is not a reason to tell a Brother he is unfinished.\n\n### Eligibility\n\nA Master Mason becomes eligible to join the Royal Arch four weeks after he is Raised (‘a Master Mason of at least four weeks' standing’). The old idea that he should wait until he has been through the Chair is, in UGLE's words, a myth based on outdated ideas. Equally, being eligible is not the same as being expected to join. Some Brethren join soon after their Raising, some years later, and some never.\n\n### The right words\n\n| Use | Avoid |\n|---|---|\n| The Royal Arch (formally the Supreme Order of the Holy Royal Arch) | ‘The fourth degree’ |\n| A Chapter | ‘The Royal Arch Lodge’ |\n| A Companion (a member of the Royal Arch) | |\n| Exaltation (the ceremony of joining) | Describing anything that happens in it |\n| The Supreme Grand Chapter of England; the Provincial Grand Chapter | |\n| The Lodge's Royal Arch Representative | Calling him a Lodge officer |\n| ‘UGLE describes it as the completion of the journey begun at Initiation’ | ‘The completion of the Third Degree’, ‘You're not a full Mason until…’ |"
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "Prepare without spoiling. Tell a Brother about time, cost, dress, how meetings run and how friendly Chapters are. Never describe the ceremony of Exaltation, what happens in it or what is ‘discovered’, and do not drop hints. It is as true of the Royal Arch as of any Craft degree: let the ceremony do what it is designed to do."
+      }
+     ],
+     "devNotes": "Eligibility, 1813 and governance wording follow facts.md approved wording 8 (C01 to C04, C10). UGLE's website (Royal Arch page, checked October 2026) also calls the Royal Arch ‘the fourth and final stage in Pure Antient Masonry’ and says the administration of the Royal Arch has been entrusted to UGLE; the course does not use the ‘fourth and final stage’ phrase because it reads as pressure and sits close to ‘fourth degree’."
+    },
+    {
+     "title": "What he will want to know",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "When a Brother shows interest, his questions are usually practical. Good answers to these do more than any amount of enthusiasm.\n\n### How much time will it take?\n\nUGLE's Building Together material notes that Chapters usually meet less often than Lodges, but every Chapter is different. Find out how often the Chapters he might join meet, including any rehearsals, and on which days. Ask him honestly how that would sit with his family, his work and his Lodge.\n\n### What will it cost?\n\nThere is a joining fee and an annual subscription, dining costs at meetings, and regalia to buy. UGLE's material notes that the up-front cost of Royal Arch regalia can come as a surprise. Tell him early, so he is never caught out. If money is tight, waiting is a perfectly good decision, and you should say so.\n\n### Which Chapter?\n\nMany Lodges have a Chapter they are traditionally linked with, often sharing a name. That Chapter may suit him well. But UGLE's Building Together material is clear that no Brother should be influenced to join a Chapter that does not meet his needs simply because it is linked to his Lodge. The right Chapter is one that meets on a day, at a time and in a place that work for him, at a cost he is comfortable with, among people he gets on with. Your Royal Arch Representative can help him look.\n\n### Will I have to learn ritual?\n\nAs in the Craft, how much he takes on is up to him. If he is the sort of Brother who enjoys ritual and office, the Chapter will have opportunities. If not, he can enjoy it as a member.\n\n### Can I meet people first?\n\nYes, and it is a good idea. Meeting some Companions socially, or attending a Chapter's social event, before he decides lets him see whether it suits him.\n\n### What happens after?\n\nA new Companion needs support just as a new Brother does. Metropolitan Grand Lodge's Mentor's Handbook (2025) notes that many aspects of mentoring in the Royal Arch, and the tools available, are the same as in the Craft. Mentoring in the Chapter is the Chapter's responsibility, but a friendly ‘How are you finding it?’ from his Craft mentor is always welcome."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "If you are not a Companion yourself, you can still do all of this well. Give him the facts in this course, tell him honestly what you know and don't know, and introduce him to the Royal Arch Representative for the rest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Information, not recruitment; timing, not inevitability",
+   "summary": "How to talk about it, when to mention it, and how to protect a Brother from well-meaning pressure.",
+   "lessons": [
+    {
+     "title": "How to talk about it",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "### Information, not recruitment\n\nTell him clearly what the Royal Arch is, what to expect in general terms, and what the time and cost involve. Reassure him that the Craft is complete and valuable in itself. He must never be made to feel an incomplete Freemason without it.\n\nYour role is to inform, not to sell. The moment a mentor starts arguing for a particular Chapter's need for members, the conversation has stopped being about the Brother.\n\n### Timing, not inevitability\n\nMention it when he has settled into the Craft, when he shows curiosity or asks, and when he has room in his life for another commitment. There is no universal right moment, only the right moment for him. Family and work come first; Freemasonry fits around them, and the Royal Arch fits around all three.\n\n‘Not now’ is a complete answer. So is ‘not for me’. If he says either, believe him, leave the door open, and do not raise it again at every meeting. If he wants to know more later, he knows who to ask.\n\n### Things you can say\n\n- ‘The Royal Arch is closely linked to the Craft. UGLE describes it as the completion of the journey you started at your Initiation. Whenever you're curious, I'm happy to tell you more.’\n- ‘There's no rush and no wrong time. Some join soon after they're Raised, some years later, and some never do. It's your choice.’\n- ‘Our Royal Arch Representative can tell you about Chapters that might suit you, and you could meet a few people first.’\n- ‘It would be good to think about the time and cost before you decide. Let's talk it through.’\n\n### Things never to say\n\n- ‘You're not a proper Mason until you've done it.’\n- ‘It's the last part of the journey, so you'll want to finish it.’\n- ‘I'll put your name down.’\n- ‘You have to wait until you've been Master.’\n- ‘Our Chapter needs the numbers.’\n- ‘Royal Arch members stay longer, so it's good for you.’\n\n### A word on retention\n\nUGLE's guidance observes that members of the Royal Arch tend to remain active Freemasons for longer. That is an observation, not proof that joining the Royal Arch keeps men in the Craft. A Brother who joins because he is interested may well enjoy his Freemasonry more. A Brother who joins because he was pressed may enjoy it less. It is never a reason to press anyone."
+      },
+      {
+       "type": "callout",
+       "tone": "info",
+       "text": "UGLE's own advice to Personal Mentors is to help a Brother decide when it is appropriate for him to join, and to protect him from over-enthusiastic, if well-intentioned, recruiters. Both halves of that are part of your role."
+      }
+     ]
+    },
+    {
+     "title": "Good moments, and moments to leave it",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "The aim is simple: the Royal Arch should never come as a surprise, and it should never feel like a sales pitch. That usually means small, honest mentions over time rather than one big conversation.\n\n| When | What a mentor might do |\n|---|---|\n| **Early on** | If he asks about the wider Craft, or notices Companions' jewels, explain briefly that English Freemasonry includes the Royal Arch, which meets in Chapters. A sentence or two is plenty. |\n| **As he progresses** | Answer questions as they come. Do not explain ceremonies he has not yet taken, in the Craft or the Royal Arch. |\n| **After his Raising** | Once he has settled, make sure he knows he is now eligible, what is involved, and that the choice and its timing are entirely his. |\n| **Whenever he asks** | Answer honestly, and offer an introduction to the Royal Arch Representative if he would like one. |\n\n### Moments to leave it alone\n\n- **His Raising night.** It is his evening. The Royal Arch can wait for a quiet conversation another time.\n- **A busy season of life.** A new baby, a new job, exams, caring for a parent, money worries. Say nothing beyond ‘there's no rush’, and let him raise it when he is ready.\n- **When he is unsettled in the Craft.** If he is not enjoying his Lodge, another commitment is not the answer. Help with the Lodge first.\n- **When he has already said no.** Once is information. Every meeting is pressure.\n\n### Working out who says what\n\nIt helps if the Lodge Mentor, the Personal Mentors and the Royal Arch Representative agree in advance how the Royal Arch is mentioned in your Lodge, and by whom. A Brother who hears the same calm message from everyone trusts it. One who hears five different versions, two of them pushy, does not."
+      }
+     ]
+    },
+    {
+     "title": "Scenario: the bar and the brochure",
+     "kind": "scenario",
+     "minutes": 7,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A newly Raised Brother is put on the spot at the Festive Board. Choose what you would do at each step."
+      }
+     ],
+     "scenario": {
+      "start": "b1",
+      "nodes": {
+       "b1": {
+        "text": "It is the Festive Board after the Raising of a Brother you mentor. Two senior Brethren, both keen Companions of the Chapter linked to your Lodge, sit down beside him, hand him a glossy Chapter brochure and a proposal form, and tell him cheerfully that he ‘must’ join next month and they will propose him. He laughs politely and looks across at you. What do you do?",
+        "choices": [
+         {
+          "label": "Step in warmly: ‘Plenty of time for all that. Tonight's about your Raising.’ Then steer the conversation elsewhere, perhaps by introducing him to someone he has not met.",
+          "next": "b2",
+          "feedback": "A graceful rescue that embarrasses nobody. The two Brethren mean well, and the evening stays his."
+         },
+         {
+          "label": "Let it run. They mean well, and he is a grown man who can say no.",
+          "next": "b1x",
+          "feedback": "They do mean well, but a newly Raised Brother at his own Festive Board is not well placed to say no to two senior Brethren. Pressure is exactly what One Journey tries to avoid."
+         },
+         {
+          "label": "Tell them, in front of the table, that this is out of order.",
+          "next": "b1y",
+          "feedback": "Right instinct, wrong method. A public rebuke embarrasses everyone, including the Brother you are trying to protect."
+         }
+        ]
+       },
+       "b1x": {
+        "text": "Three days later he messages you: ‘I think I agreed to join their Chapter next month. Honestly I've barely got my head round the Third Degree, and this year is going to be busy. Have I committed myself?’",
+        "choices": [
+         {
+          "label": "Call him. Reassure him that nothing is decided until he decides, that there is no rush, and offer to let the two Brethren know, kindly, that he would like to take his time.",
+          "next": "b2",
+          "feedback": "Good recovery. You put the decision back where it belongs, and you take the awkward conversation off his hands."
+         },
+         {
+          "label": "Tell him that, having said yes, it would look bad to back out now, so he might as well go ahead.",
+          "next": "b_end_reluctant",
+          "feedback": "This treats a cornered ‘yes’ at a dinner table as a commitment. It protects the two Brethren's feelings at the expense of his."
+         }
+        ]
+       },
+       "b1y": {
+        "text": "The table goes quiet. The two Brethren are embarrassed and a little offended, and your Brother is more uncomfortable than before. What now?",
+        "choices": [
+         {
+          "label": "Lighten the moment, apologise for your tone, change the subject, and later ask the Lodge Mentor to have a friendly private word with the two Brethren.",
+          "next": "b2",
+          "feedback": "Repairing it gracefully matters. The point still needs making, but privately and through the right person."
+         },
+         {
+          "label": "Leave it. They needed telling.",
+          "next": "b_end_frost",
+          "feedback": "You may be right that they needed telling, but leaving the relationship damaged helps nobody, least of all your Brother."
+         }
+        ]
+       },
+       "b2": {
+        "text": "A week later, over coffee, he asks: ‘So what actually is the Royal Arch? And do I have to?’ What do you say?",
+        "choices": [
+         {
+          "label": "Explain that it is a separate Order, closely linked to the Craft, which UGLE describes as the completion of the journey begun at Initiation. He is eligible now, there is no obligation and no rush, and you can tell him about time and cost or introduce him to the Royal Arch Representative whenever he likes.",
+          "next": "b3",
+          "feedback": "Information, not recruitment; timing, not inevitability. Accurate, honest, and the decision stays with him."
+         },
+         {
+          "label": "Tell him he should really wait until he has been Master.",
+          "next": "b2x",
+          "feedback": "This is a myth UGLE has explicitly retired. It is inaccurate, and it takes a decision away from him in the other direction."
+         },
+         {
+          "label": "Tell him he doesn't have to, but that he'll be missing the best part of Freemasonry if he doesn't.",
+          "next": "b2y",
+          "feedback": "Softer than the bar, but it is still pressure. It tells him his Freemasonry is incomplete without it."
+         }
+        ]
+       },
+       "b2x": {
+        "text": "A few weeks later he reads UGLE's guidance and finds that waiting for the Chair is described as a myth based on outdated ideas. He mentions it to you, puzzled, and wonders what else he has been told that is not right.",
+        "choices": [
+         {
+          "label": "Say honestly that you had it wrong, give him the accurate position, and offer to help him find out more if he would like to.",
+          "next": "b3",
+          "feedback": "Owning a mistake builds more trust than it costs. Accurate information is the heart of the Guide principle."
+         }
+        ]
+       },
+       "b2y": {
+        "text": "He goes quiet, then says: ‘So I'm only half a Mason at the moment?’ What do you say?",
+        "choices": [
+         {
+          "label": "Put it right at once: the Craft is complete and valuable in itself, many fine Freemasons never join the Royal Arch, and whether and when he joins is entirely his choice.",
+          "next": "b3",
+          "feedback": "Good. You have corrected the impression before it settles."
+         },
+         {
+          "label": "Reassure him he'll love it once he's in, and ask the Royal Arch Representative to give him a call this week.",
+          "next": "b_end_pressure",
+          "feedback": "This confirms what he feared: that he is expected to join, and soon."
+         }
+        ]
+       },
+       "b3": {
+        "text": "He says he is interested, but would like a year to settle into the Craft first. At the next Lodge meeting the two keen Companions ask you when he is coming along. What do you do?",
+        "choices": [
+         {
+          "label": "Tell them warmly that he is interested but wants to take his time, and that he will be in touch when he is ready. Ask the Lodge Mentor and the Royal Arch Representative to agree how the Royal Arch is mentioned in the Lodge.",
+          "next": "b_end_good",
+          "feedback": "Honest, friendly and respectful of his wishes. Agreeing a shared approach makes the next newly Raised Brother's experience better too."
+         },
+         {
+          "label": "Give them his number so they can explain it to him themselves.",
+          "next": "b3x",
+          "feedback": "His contact details and his timing are his to share. Passing them on without asking him invites exactly the pressure you have been protecting him from."
+         },
+         {
+          "label": "Tell them he isn't interested, so they will leave him alone.",
+          "next": "b3y",
+          "feedback": "It protects him from pressure, but it is not true, and it may close a door he wants to keep open."
+         }
+        ]
+       },
+       "b3x": {
+        "text": "Both of them ring him the following week. He tells you he felt chased, and asks whether you passed on his number.",
+        "choices": [
+         {
+          "label": "Apologise, agree with him how he would like it handled from now on, and ask the Lodge Mentor to have a quiet word with the two Brethren.",
+          "next": "b_end_good",
+          "feedback": "A straightforward apology and a clear plan put it right. Next time, ask him first."
+         }
+        ]
+       },
+       "b3y": {
+        "text": "Eight months later he asks the Royal Arch Representative about Chapters. The two Companions hear of it and are puzzled, and a little hurt, that they were told he was not interested.",
+        "choices": [
+         {
+          "label": "Explain honestly that you were trying to give him space, apologise for the misunderstanding, and help make his introduction a happy one.",
+          "next": "b_end_good",
+          "feedback": "Honesty repairs it. Accurate information applies to Companions as well as to the Brother."
+         }
+        ]
+       },
+       "b_end_good": {
+        "text": "A year or so later he asks the Royal Arch Representative about Chapters. They look at two or three that meet on days he can manage, he meets some Companions at a social evening, and he chooses one. It happens to be the Chapter linked to your Lodge, and the two keen Companions are delighted to welcome him. He tells you it felt like his own decision, because it was.\n\nWhat worked: a graceful rescue on the night, accurate information when he asked, timing set by him, and a Lodge that agreed one calm way of talking about the Royal Arch. Had he decided not to join, that would have been a good outcome too.",
+        "choices": []
+       },
+       "b_end_reluctant": {
+        "text": "He joins the following month, unsure and short of time. He attends twice, finds the extra evenings and expense hard to manage, and resigns from the Chapter within the year. He is a little awkward around the two Companions in Lodge, and less keen on the Royal Arch than he might otherwise have been.\n\nWhat was missed: a cornered ‘yes’ is not a decision. Reassuring him that nothing was settled, and handling the conversation with the two Brethren for him, would have let him choose freely, perhaps the same Chapter, later, and happily.",
+        "choices": []
+       },
+       "b_end_frost": {
+        "text": "The two Brethren are cool towards you for months, and your Brother feels he caused a row on his big night. He avoids the subject altogether, and the Royal Arch becomes something faintly embarrassing in his mind.\n\nWhat was missed: the point needed making, but privately and kindly, ideally through the Lodge Mentor. A graceful rescue on the night protects the Brother without making anyone lose face.",
+        "choices": []
+       },
+       "b_end_pressure": {
+        "text": "The Royal Arch Representative rings him. He feels he is now expected to join and does not know how to say ‘not yet’. He stops mentioning the Royal Arch to you, and you later learn he has been avoiding the Representative at meetings.\n\nWhat was missed: he asked whether he was ‘half a Mason’. The right answer was a clear no. The Craft is complete and valuable in itself, and the decision and its timing are his. Information, not recruitment.",
+        "choices": []
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "title": "Working with the Royal Arch Representative",
+   "summary": "Building the bridge from both sides.",
+   "lessons": [
+    {
+     "title": "Working together",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "### Who he is\n\nEvery Lodge should have a Royal Arch Representative. He is a Companion appointed to be the Lodge's link with the Royal Arch. It is an appointment, not one of the Lodge offices listed in Rule 104 of the Book of Constitutions, so do not describe him as a Lodge officer. Some Provinces use other titles for the same role.\n\nUGLE's Building Together material describes him working with the Lodge Mentor and with the Personal Mentors of Entered Apprentices, Fellow Crafts and Master Masons, to give context to the Royal Arch and to help a Brother find a Chapter that meets on days, at times and in places that suit him. The same material is candid that well-meaning Representatives have sometimes confused encouragement with pressure. Working together is how you avoid that.\n\n### How to work together\n\n- **Agree the message.** The Lodge Mentor and the Royal Arch Representative agree what is said about the Royal Arch in the Lodge, when, and by whom.\n- **Agree the timing.** The Personal Mentor usually knows the Brother best. The Representative waits for the Brother's own interest, passed on with his agreement, rather than approaching every new Master Mason as soon as he is eligible.\n- **A warm introduction.** When a Brother is interested, introduce him personally. Offer the chance to meet Companions socially before he decides, and to look at more than one Chapter.\n- **Honest information.** Make sure he knows about time, cost and regalia before he commits. UGLE's Building Together material encourages Chapters to produce a short information sheet covering these; ask your Representative whether yours have one.\n- **Support continues.** A new Companion needs a friendly face in the Chapter too. The Chapter looks after that, and his Craft mentor can still ask how he is getting on.\n- **Respect a ‘no’.** If he decides the Royal Arch is not for him, the Representative and the mentors leave it there.\n\n### Resources\n\nUGLE's Building Together resources now include the former Archway material for Chapters, and Solomon has material on the Royal Arch. Check with the Provincial Office what is current. The Provincial Mentoring Team works with the Provincial Grand Chapter so that the message about the Royal Arch is shared, not parallel."
+      },
+      {
+       "type": "resource",
+       "title": "Solomon",
+       "url": "https://solomon.ugle.org.uk/",
+       "description": "UGLE's learning platform, including material on the Royal Arch for Brethren and mentors."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "If your Lodge has no Royal Arch Representative at the moment, mention it to the Lodge Mentor and the Master. In the meantime, the Provincial Office can put an interested Brother in touch with the right people."
+      }
+     ],
+     "devNotes": "Royal Arch Representative status per facts.md C06 (‘Every Lodge should have a Royal Arch Representative’; not a Rule 104 office). Building Together (September 2025 conference material) calls the role ‘a non-collared office in a Lodge’; the course avoids ‘office’ to stay consistent with facts.md. Confirm the Provincial expectation, and whether the Provincial Grand Chapter has a named contact for Lodges without a Representative. The planned Royal Arch Mentoring Guide (B5) is not mentioned in course text; add a pointer when it is published."
+    },
+    {
+     "title": "Reflection: how your Lodge talks about the Royal Arch",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Think about your Lodge in general, not any individual Brother. Your answer is private to you."
+      }
+     ],
+     "prompt": "When does the Royal Arch usually first get mentioned to a newer Brother in your Lodge, and by whom? Does it sound more like information or recruitment? What one thing would you change? Please do not include names or personal details of other Brethren."
+    }
+   ]
+  },
+  {
+   "title": "Assessment and your Lodge task",
+   "summary": "Show what you know, then put it to work.",
+   "lessons": [
+    {
+     "title": "Final assessment",
+     "kind": "quiz",
+     "minutes": 10,
+     "required": true,
+     "isAssessment": true,
+     "passMark": 75,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Ten questions, most of them situations. You need 75% to pass, and you can try again. Where more than one answer is right, the question says so."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "single",
+       "prompt": "A Brother asks when he will be able to join the Royal Arch. What is the accurate answer?",
+       "options": [
+        "Four weeks after he is Raised, if and when he wishes",
+        "Once he has been through the Chair of his Lodge",
+        "After he has been a Master Mason for a year"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Yes. A Master Mason of at least four weeks' standing is eligible.",
+       "feedbackIncorrect": "He is eligible four weeks after his Raising. Waiting for the Chair is an outdated idea.",
+       "explanation": "UGLE and the Supreme Grand Chapter state that a Master Mason of at least four weeks' standing may join. UGLE calls the idea of waiting for the Chair a myth based on outdated ideas. Eligibility is not expectation: the right time is the time that suits him."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother asks you: ‘Is the Royal Arch the fourth degree?’ Which answer is most accurate?",
+       "options": [
+        "‘Yes, it's the fourth and highest degree.’",
+        "‘No. It's a separate Order with its own Chapters, governed by the Supreme Grand Chapter and closely linked to the Craft. Since 1813 it has been recognised as part of pure Antient Masonry.’",
+        "‘No, it's unconnected to the Craft; it's just another Order.’"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Accurate, and in current terms.",
+       "feedbackIncorrect": "It is neither a fourth degree nor unconnected. It is a separate Order, closely linked to the Craft.",
+       "explanation": "The 1813 declaration, still at the front of the Book of Constitutions, says pure Antient Masonry consists of the three degrees including the Supreme Order of the Holy Royal Arch. The Craft is governed by UGLE and the Royal Arch by the Supreme Grand Chapter of England. ‘Fourth degree’ is inaccurate and best avoided."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother you mentor has just been Raised. He and his partner have a new baby, and he asks, almost apologetically, about the Royal Arch. What is best?",
+       "options": [
+        "Encourage him to join now while he is keen, before life gets busier",
+        "Give him accurate information, reassure him there is no rush, and let him decide when the time is right",
+        "Tell him the Royal Arch is not really for someone in his position"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. Information, and timing that suits him.",
+       "feedbackIncorrect": "Inform him and let him choose the timing. Family comes first, and the decision is his.",
+       "explanation": "He asked, so he deserves an honest answer. But his life has plenty in it just now, and pressing him risks overcommitting him. Deciding for him that it is ‘not for him’ is just as wrong. Accurate information and ‘no rush’ leave him free to choose."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "Which of these would you avoid saying to a Brother about the Royal Arch? (More than one answer.)",
+       "options": [
+        "‘You're not a proper Mason until you've done it.’",
+        "‘It's the last part of the journey, so you'll want to finish it.’",
+        "‘Whenever you're curious, I'm happy to tell you more.’",
+        "‘Our Chapter needs the numbers.’"
+       ],
+       "correct": [
+        0,
+        1,
+        3
+       ],
+       "feedbackCorrect": "Yes. Those three all apply pressure; the third option is a good thing to say.",
+       "feedbackIncorrect": "Avoid the three that imply he is incomplete or that a Chapter needs him. ‘Whenever you're curious’ is a good line.",
+       "explanation": "Telling him he is not a proper Mason, or that he must ‘finish’, implies his Freemasonry is incomplete. A Chapter's numbers are never his problem. An open invitation to ask more is information without pressure."
+      },
+      {
+       "kind": "single",
+       "prompt": "At the Festive Board after his Raising, two senior Companions press your Brother to sign a proposal form for their Chapter. What is right in the moment?",
+       "options": [
+        "A graceful rescue that embarrasses nobody, with a private word later through the Lodge Mentor",
+        "A firm public correction, so everyone knows it is not acceptable",
+        "Let them carry on; he can always withdraw later"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Yes. Protect him without anyone losing face.",
+       "feedbackIncorrect": "A public rebuke embarrasses everyone; letting it run leaves him cornered. Rescue him gracefully and deal with it privately later.",
+       "explanation": "UGLE asks Personal Mentors to protect Brethren from over-enthusiastic, if well-intentioned, recruiters. On the night, a light change of subject does that. Afterwards, the Lodge Mentor can have a friendly word, and the Lodge can agree a shared approach so it does not happen again."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "It is helpful to describe the ceremony of Exaltation to a Master Mason beforehand, in outline, so that he knows what to expect.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "False is right. Prepare him practically; never describe or hint at the ceremony.",
+       "feedbackIncorrect": "It is false. Never reveal ritual, in the Craft or the Royal Arch.",
+       "explanation": "The ritual standard applies to the Royal Arch as to the Craft. Tell him about time, dress, cost and how welcoming Chapters are. Let the ceremony do what it is designed to do."
+      },
+      {
+       "kind": "single",
+       "prompt": "The Chapter linked to your Lodge meets on weekday afternoons. Your Brother, who is interested, works full time. What do you suggest?",
+       "options": [
+        "Join the linked Chapter anyway, as it is tradition, and attend when he can",
+        "Ask the Royal Arch Representative to help him look at Chapters that meet at times he can manage, as well as the linked one",
+        "Wait until he retires"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. The right Chapter is the one that suits him.",
+       "feedbackIncorrect": "Tradition is no reason to join a Chapter he cannot attend. Help him find one that fits.",
+       "explanation": "UGLE's Building Together material says no Brother should be influenced to join a Chapter that does not meet his needs simply because it is linked to his Lodge. A Chapter he cannot attend is a first step towards disappointment."
+      },
+      {
+       "kind": "single",
+       "prompt": "A colleague suggests telling every new Master Mason that Royal Arch members stay in Freemasonry longer, so they should join. What is the right view?",
+       "options": [
+        "Good idea; it is proven and helps the Lodge",
+        "UGLE observes that Royal Arch members tend to remain active for longer, but that is not proof of cause, and it is never a reason to press anyone",
+        "It is untrue and should never be mentioned"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Yes. An observation, not a sales argument.",
+       "feedbackIncorrect": "UGLE does make the observation, but it is not proof, and it is never a reason to press.",
+       "explanation": "Brethren who are already enthusiastic may be more likely both to join the Royal Arch and to stay; that does not show that joining makes them stay. Using it as a reason to join turns information into recruitment."
+      },
+      {
+       "kind": "single",
+       "prompt": "After a frank, friendly conversation, a Brother tells you he does not think the Royal Arch is for him. What do you do?",
+       "options": [
+        "Respect his decision, tell him the door is always open, and leave it there",
+        "Raise it again in a few months in case he has changed his mind",
+        "Ask the Royal Arch Representative to have a go at persuading him"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Yes. ‘Not for me’ is a complete answer.",
+       "feedbackIncorrect": "Revisiting it or sending someone to persuade him is pressure. Respect his decision.",
+       "explanation": "He is no less a Freemason for not joining. If he becomes curious later, he knows who to ask. Respecting his answer keeps his trust, which matters far more than one more Companion."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "Which of these are good ways for a Lodge Mentor to work with the Royal Arch Representative? (More than one answer.)",
+       "options": [
+        "Agree together what is said about the Royal Arch in the Lodge, when and by whom",
+        "Pass on a Brother's interest, with his agreement, and arrange a warm personal introduction",
+        "Give the Representative a list of every Master Mason as soon as he becomes eligible, so he can approach each one",
+        "Make sure an interested Brother hears about time, cost and regalia before he commits"
+       ],
+       "correct": [
+        0,
+        1,
+        3
+       ],
+       "feedbackCorrect": "Yes. A shared message, his agreement, a warm introduction and honest information.",
+       "feedbackIncorrect": "Approaching every eligible Brother from a list is recruitment, not information. The other three are good practice.",
+       "explanation": "One Journey works when the Craft mentors and the Representative give the same calm message, and when contact follows the Brother's own interest. A list-driven approach treats eligibility as expectation and passes on information he has not agreed to share."
+      }
+     ]
+    },
+    {
+     "title": "Your Lodge task",
+     "kind": "reflection",
+     "minutes": 4,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Within the next thirty days, have a fifteen-minute conversation with your Lodge's Royal Arch Representative, with the Lodge Mentor if you are not the Lodge Mentor yourself. Agree, in general terms:\n\n- how and when the Royal Arch is usually mentioned to newer Brethren in your Lodge\n- who passes on a Brother's interest, and how his agreement is checked\n- what information an interested Brother is given about time, cost and choosing a Chapter\n- how the Lodge handles over-keen recruiting, kindly\n\nIf your Lodge has no Representative at the moment, talk to the Lodge Mentor and the Master instead. Your answer is private to you."
+      }
+     ],
+     "prompt": "What did you agree, or what do you plan to agree? Write your next step as ‘When [the moment], I will [the action]’. Please do not include names or personal details of other Brethren."
+    },
+    {
+     "title": "Thirty days on",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Come back to this lesson once you have tried your Lodge task. Your Assistant Provincial Mentor may ask you the same over a coffee. Your answer is private to you."
+      }
+     ],
+     "prompt": "What did you try, and what happened? What would you do differently next time? Please do not include names or personal details of other Brethren."
+    }
+   ]
+  }
+ ]
+}

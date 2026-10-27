@@ -1,0 +1,808 @@
+{
+ "code": "E7e",
+ "issue": "Issue 3",
+ "issueDate": "November 2026",
+ "fileTitle": "Keeping Good Men",
+ "slug": "keeping-good-men",
+ "title": "Keeping Good Men",
+ "summary": "Noticing when a Brother's involvement changes and responding as a friend, the four steps, resignations and Rule 183 as it applies in Hertfordshire, supporting a Brother who is thinking of resigning, re-engagement, unattached Brethren, migration and learning from losses.",
+ "tier": "specialist",
+ "audiences": [
+  "lodge_mentor",
+  "personal_mentor"
+ ],
+ "audienceText": "Lodge Mentors, Personal Mentors, Almoners, Secretaries, Treasurers, Membership Officers and Worshipful Masters",
+ "stages": [],
+ "topics": [
+  "engagement",
+  "resignation",
+  "re-engagement",
+  "migration",
+  "warning signs"
+ ],
+ "level": "optional",
+ "principle": "support",
+ "minutes": 70,
+ "passMark": 75,
+ "completion": "Complete the required reading and scenario lessons and pass the final assessment at 75% or more. The warm-up quiz, the reflection, the Lodge task and the thirty-day follow-up are optional.",
+ "source": "E7e Keeping Good Men, Topic Course Draft for Development Issue 1 (October 2026). Draws on B6 Retention, Retrieval and Migration Guide (parts now out of date), D4 Warning Signs card, the Lodge Mentor's Guide, the Provincial Mentoring Framework, the Secretaries' Handbook, UGLE Members' Pathway RETRIEVE papers and Managing Migration (August 2021, now part of Building Together) and the MetGL/MetGC Mentor's Handbook v2.0 (2025).",
+ "changeSummary": [
+  "Rule 183 corrected: Hertfordshire uses the amended rule, so a Brother automatically has sixty days to withdraw his resignation, however he resigns, with no Lodge vote. The old step 4 and final question 6 were wrong and have been replaced.",
+  "Warning signs reframed as changes in a Brother's own pattern that may prompt a friendly conversation, never proof of a problem. The two-missed-meetings call is presented as UGLE's suggested habit, not a monitoring rule.",
+  "Records: 'keep a discreet note' replaced with minimal records of contact and actions only, no opinions, welfare detail with the Almoner.",
+  "New lesson on supporting a Brother who is thinking of resigning: curiosity, no persuasion or guilt, options including a lighter pattern, a break or a different Lodge, and parting well.",
+  "'Retrieval' replaced by 're-engagement' in teaching text; Metropolitan Grand Lodge's one-in-three figure attributed to London and not presented as a general rate.",
+  "Rule 127 wording corrected (two further visits to one Lodge, last within a year of the first; excluded and expelled Brethren covered accurately). New material on re-joiners.",
+  "Both scenarios rewritten and distinct from the Lodge Mentor and Personal Mentor courses; learning from losses now uses a composite example and anonymised reflection.",
+  "Lodge task no longer asks learners to review attendance records or list former members; nothing identifying other Brethren is recorded in the Academy."
+ ],
+ "modules": [
+  {
+   "title": "About this course",
+   "summary": "What the course covers, the spirit of it, and a quick warm-up.",
+   "lessons": [
+    {
+     "title": "What this course covers",
+     "kind": "content",
+     "minutes": 3,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "If a Brother enjoys his Lodge, feels included and has friends there, he is far more likely to want to stay involved. Most of what keeps good men in Freemasonry is simply a good Lodge. But there are moments when a little attention makes a real difference: when a Brother's involvement changes, when he starts to wonder whether to carry on, when a resignation arrives, and when he moves away. This course is about those moments.\n\nIt is also about handling them in the right spirit. Mentoring is not surveillance. Nobody is studying attendance registers to catch anyone out. We notice because we are friends, we ask because we care, and we respect the answer. We can't prevent every resignation and shouldn't try to: some Brethren leave for entirely good reasons, and then the aim is to part well and leave the door open.\n\nThe Lodge Mentor Essentials and Personal Mentor courses introduce these ideas. This course goes further.\n\n### By the end of this course you will be able to\n\n- Tell a meaningful change in a Brother's own pattern from the level of involvement that suits him, and respond with a friendly conversation\n- Use the four steps, knowing who does what, and keep records to a minimum\n- Act correctly when a resignation arrives, using Rule 183 as it applies in Hertfordshire\n- Support a Brother who is thinking of resigning, without persuasion or guilt, and part well if he goes\n- Keep the door open for Brethren who have left, using Rule 127\n- Treat a move away as migration, and learn from losses without blame\n\n### How this course works\n\n| Part | What it is |\n|---|---|\n| Before you start | Five quick questions. Optional, and they do not count. |\n| The lessons | Short readings and two branching scenarios. These are required. One short reflection is optional. |\n| Final assessment | Twelve questions, most of them situations. Pass mark 75%. You can try again. |\n| Your Lodge task | An optional practical task in your own Lodge within thirty days. |\n| Thirty days on | An optional private reflection: what did you try, and what happened? |"
+      }
+     ]
+    },
+    {
+     "title": "Before you start",
+     "kind": "quiz",
+     "minutes": 3,
+     "required": false,
+     "isAssessment": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Five questions to show where you are starting from. They do not count towards completion."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "true_false",
+       "prompt": "The Lodge Secretary can accept a Brother's resignation on behalf of the Lodge.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. He acknowledges receipt; he has no power to accept it.",
+       "feedbackIncorrect": "False. No acceptance is needed, and the Secretary has no power to accept a resignation.",
+       "explanation": "Under Rule 183 the Secretary acknowledges receipt and reports the resignation to the Lodge at the next regular meeting. Anything that reads as acceptance, such as thanking him for his years of service and wishing him well, can make the door feel closed. Module 4 covers this."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "A Brother who has come to two meetings a year for many years is showing a warning sign.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        1
+       ],
+       "feedbackCorrect": "Right. That is his pattern, and he may be perfectly content.",
+       "feedbackIncorrect": "False. The level of attendance is not the signal; a change in his own pattern might be.",
+       "explanation": "Some Brethren come to everything; others come twice a year and are entirely happy with that. What is worth noticing is a change in a Brother's own pattern, and even then it is a reason for a friendly word, not proof of a problem."
+      },
+      {
+       "kind": "single",
+       "prompt": "Metropolitan Grand Lodge reports that around one in three of its exit conversations have ended positively. What does that figure tell us?",
+       "options": [
+        "It is London's own reported figure, from its own Retention Team; it is not a national rate",
+        "Roughly one resignation in three can be recovered anywhere",
+        "One in three resignations is withdrawn within sixty days"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. A useful encouragement, not a national statistic.",
+       "feedbackIncorrect": "It is London's figure, for its own process, and the method isn't published. It is not a national rate.",
+       "explanation": "Metropolitan Grand Lodge's Retention Team contacts every member who resigns and holds a confidential exit conversation. Its Mentor's Handbook (2025) reports that around one in three cases have ended positively, for example with the resignation withdrawn or the Brother joining another Lodge. It's a good reason to have the conversation, but please don't quote it as a general rate."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "If a Brother's subscription stays unpaid for two full years, he ceases to be a member of the Lodge.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right (Rule 148). The mentoring point comes much earlier.",
+       "feedbackIncorrect": "True. Under Rule 148 he ceases to be a member after two full years in arrears.",
+       "explanation": "It is reported at the next regular meeting and minuted. The Lodge may act sooner under its by-laws and Rule 181. But the first missed subscription is the time for a quiet, friendly word, not a letter."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother tells you he is moving to Devon for work next spring. What is this?",
+       "options": [
+        "Migration: a reason to start helping him find a Lodge near his new home",
+        "A resignation waiting to happen",
+        "A matter for him to sort out once he has moved"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. Migration is a continuation of mentoring.",
+       "feedbackIncorrect": "It's migration. The earlier the Lodge knows, the better the chance he carries on without a break.",
+       "explanation": "A move is one of the commonest reasons Brethren drift away, and one of the easiest to help with if it's known early. Module 6 covers what to do."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Noticing change",
+   "summary": "The pattern, not the level: what is worth a friendly word, and what is not.",
+   "lessons": [
+    {
+     "title": "The pattern, not the level",
+     "kind": "content",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Every Brother has his own pattern. One comes to every meeting, every Lodge of Instruction and every social. Another comes to the Installation and the Christmas meeting, and has done for twenty years. Both may be perfectly content. A Brother who comes twice a year is not disengaged: he has found the level that fits his life, and family and work rightly come first.\n\nWhat can be worth noticing is a change in a Brother's own pattern, especially when a few things change at once. UGLE's guidance makes the same point: resignation is often preceded by absences relative to the individual's normal pattern.\n\n### Changes that might be worth a friendly word\n\n| Area | Things you might notice |\n|---|---|\n| Attendance | A regular who misses two or three meetings in a row; habitual late arrival or early departure; coming only to Installations or socials when he used to come to everything; no longer visiting; a summer absence that runs on into the autumn |\n| Participation | Reluctance to take on work he once enjoyed; withdrawal from conversation; an officer who stops coming to the Lodge of Instruction; no longer preparing where he once took pride in it; seeming unhappy in meetings |\n| Communication | Calls and messages left unanswered; frustration or disappointment; repeated mentions of time or money pressure; unfavourable comparisons with other commitments; a subscription unpaid |\n\n### What these are, and what they are not\n\nThey are prompts for a friendly conversation. They are never proof of a problem. One on its own usually means nothing at all: a holiday, a busy month at work, a new baby. Plenty of happy Brethren will show one or two of these at some point. So don't draw conclusions, don't discuss him round the bar, and don't write down opinions about him. Just make sure someone who knows him gets in touch.\n\n### Two missed meetings: a friendly habit\n\nUGLE's guidance is that if a member misses two consecutive meetings, with or without an apology, an agreed person phones him within seven days of the second meeting. Where the Secretary keeps the attendance register in Hermes, UGLE says the system will also notify the Lodge Almoner. Do not wait for that notification: the call is the Lodge's to make.\n\nTreat this as a sensible habit, not an automatic trigger. The tone is 'you were missed, how are you?', never 'why weren't you there?'. Usually he is fine, and a two-minute call simply leaves him feeling noticed. And it should never be the only time anyone rings him.\n\n### Arrears\n\nIf a Brother's subscription stays unpaid for two full years, he ceases to be a member of the Lodge. This is reported at the next regular meeting and minuted. The Lodge may act sooner under its by-laws and Rule 181, but the mentoring point is earlier still: the first missed subscription is a reason for a quiet word, not a letter. It may be an oversight, or it may be a sign that money is tight, in which case the Almoner can help.\n\n### Times when it's worth staying close\n\n- **The first two years.** UGLE says a significant proportion of new members leave within two years of Initiation, often before they become Master Masons. The topic course The First Two Years covers this period.\n- **The year after the Chair.** Experienced Provinces describe it as a time when a Past Master can feel let down and cast aside. There is no published figure for how many leave then; Hertfordshire treats it as a second risk window on the strength of that experience.\n- **A long summer break,** especially for a Brother Initiated in the spring.\n\nThese are reasons to keep in touch, not reasons to assume anyone is about to leave.\n\n### The reason he gives, and the real one\n\nUGLE observes that many who resign cite work or family rather than tell the Lodge that, say, the start time doesn't suit them or they aren't enjoying it as much as they hoped. That isn't dishonesty; it's politeness. Only a relationship of trust brings the real reason out, which is why a friend, not a form, is the best early warning a Lodge has."
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "Attendance and arrears may prompt a conversation. They are never proof of a problem, and they are never a reason to treat a Brother as a case."
+      }
+     ],
+     "devNotes": "Two-misses wording follows facts.md approved wording 12 (UGLE says 'with or without an apology'; the Issue 1 draft said 'without a word'). Provincial decision needed on which wording the Province adopts (facts.md Part 3 item 9). Whether the Hermes Almoner notification is live in Hertfordshire, and that it depends on the Secretary recording attendance, is unconfirmed (Part 3 item 8, D11): confirm with the Provincial Grand Secretary. Year after the Chair: approved wording 10; Part 3 item 5 asks whether courses may call it 'recognised'. This course uses 'Hertfordshire treats it as'."
+    }
+   ]
+  },
+  {
+   "title": "The four steps",
+   "summary": "Who helps, when, and how to keep records to a minimum.",
+   "lessons": [
+    {
+     "title": "Who does what",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Most concerns are resolved at the first step and never look like a process at all. The steps aren't a procedure to work through. They are a way of making sure the right person helps, and that nobody is left wondering who should act.\n\n| Step | Who | What it looks like |\n|---|---|---|\n| 1 | The Personal Mentor, or whoever knows him best | A friendly call, message or coffee. He was missed; how is he; is there anything we can do? Listen more than you talk. |\n| 2 | The Lodge Mentor | Where a concern carries on, or the cause needs more than friendship. He takes the overview, supports the Personal Mentor, and asks what the Lodge itself could change: meeting times, cost, culture, an office that doesn't fit. |\n| 3 | The Worshipful Master, with the Almoner alongside for anything touching welfare | Where the matter touches Lodge culture, office or relations with another Brother: a considered, private conversation. |\n| 4 | The Provincial Mentoring Team | Where an impartial voice would help, or he might be happier in a different Lodge. Contact your Assistant Provincial Mentor or mentor@hertfordshirefreemasons.org.uk. Asking for help is responsible mentoring, not failure. |\n\nTwo habits make the steps work.\n\n- **Someone is always looking after it, and every hand-on is explicit.** 'I've spoken to the Lodge Mentor and he'll ring you next week', not an assumption that somebody else will.\n- **Close the loop.** Check afterwards that he actually feels better, not just that something was done.\n\nMoving up the steps happens with his knowledge wherever possible. A Brother should never discover that his attendance has been discussed by three officers, none of whom has spoken to him.\n\n### The officers who often see things first\n\n- **The Secretary** keeps the attendance register. UGLE's suggested process has him share it with the Lodge Mentor and Almoner after each meeting. If your Lodge does this, keep it light: the only point is that a change in a regular's pattern doesn't go unnoticed, so a friend can ring. It is not a record to study, nobody keeps score, and it is never a reason to discuss a Brother nobody has spoken to.\n- **The Treasurer** sees arrears first. A quiet word to the Almoner or Lodge Mentor at the first missed subscription, never a letter that reads like a final demand.\n- **The Almoner** leads on welfare: health, money, bereavement, family. He is involved with the Brother's agreement, except where someone's safety is at risk. The topic course Welfare, Wellbeing and Knowing Your Limits covers this.\n- **The Membership Officer** holds the Lodge's picture of joiners and leavers over time, and works with the Lodge Mentor on what it shows.\n\n### Keep records to a minimum\n\nThe Province's draft guidance on mentoring records (A3, section 7) is to record only what mentoring needs: that contact was made, what was agreed and what was done. Not opinions ('seems to be losing interest'), and not welfare detail, which belongs with the Almoner: the mentoring record notes 'referred to Almoner' and no more. The Brother knows a plan is kept and what is in it."
+      }
+     ],
+     "devNotes": "Issue 1 draft: 'keeps a discreet note' (Step 2). Replaced with minimal records per A3 section 7, which is still awaiting Provincial sign-off (facts.md Part 3 item 14). Step 4 contact changed from the Provincial Mentor's office to the Assistant Provincial Mentor or the mentoring email, using the Issue 3 titles. The four steps are described in full only here; E1 and E2 should point to this course."
+    },
+    {
+     "title": "Scenario: the new meeting night",
+     "kind": "scenario",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "You are the Lodge Mentor. Work through what you would do. There is no score: each choice shows how it is likely to play out."
+      }
+     ],
+     "scenario": {
+      "start": "k1",
+      "nodes": {
+       "k1": {
+        "text": "A Brother of about ten years has always come to every meeting and most Lodges of Instruction. Since your Lodge moved from Saturday afternoons to a weekday evening at a new centre further from his home, he has missed three of the last four meetings, sending his apologies each time. His original Personal Mentor stepped back some years ago. What do you do first?",
+        "choices": [
+         {
+          "label": "Ask the Brother who knows him best to give him a friendly call: he was missed, how are things?",
+          "next": "k2",
+          "feedback": "Step 1. A warm call from a friend is how most concerns are resolved, and it treats him as a Brother rather than a problem. A change in a regular's pattern is worth a friendly word, apologies or not."
+         },
+         {
+          "label": "Put him on the agenda for the Lodge Committee so the officers can decide what to do.",
+          "next": "k1b",
+          "feedback": "Well intended, but it turns a Brother into an agenda item before anyone has spoken to him. Committees discuss patterns and Lodge decisions; individual concerns start with a friend."
+         },
+         {
+          "label": "Leave it. He's sending apologies, so nothing is wrong.",
+          "next": "k1c",
+          "feedback": "Apologies tell you he is courteous, not that he is content. UGLE's suggested habit applies after two consecutive misses whether or not he sends apologies, and this is a clear change in his own pattern."
+         }
+        ]
+       },
+       "k1b": {
+        "text": "The Committee spends ten minutes on him. One officer says he 'must have gone off it'. A week later it gets back to him that he was discussed.",
+        "choices": [
+         {
+          "label": "Ask his friend to ring him personally and warmly, say he was missed, and apologise if the Committee comes up.",
+          "next": "k2",
+          "feedback": "Harder now, but recoverable. A genuine personal call, and honesty about the clumsiness, usually does more good than harm. Next time, the conversation with him comes first."
+         }
+        ]
+       },
+       "k1c": {
+        "text": "Two more meetings pass. He stops sending apologies. The Almoner hears from a mutual friend that he has said he may not renew his subscription.",
+        "choices": [
+         {
+          "label": "Ask the Brother who knows him best to ring him now.",
+          "next": "k2",
+          "feedback": "Right, and it isn't too late. But you have lost several months in which a simple call might have made the next part easier."
+         }
+        ]
+       },
+       "k2": {
+        "text": "On the call he says he loves the Lodge, but the new night just doesn't work: he finishes work late and the drive is long. He's wondering whether he should resign. With his agreement, his friend passes this on to you. What next?",
+        "choices": [
+         {
+          "label": "Think about what the Lodge could change, and arrange to talk to him about the options.",
+          "next": "k3",
+          "feedback": "Step 2. The Lodge Mentor asks what the Lodge itself could do, and then involves the Brother in the answer. The meeting night may not change for one man, but there are often other options."
+         },
+         {
+          "label": "Explain that the Lodge voted on the new night and he'll need to make it work if he can.",
+          "next": "k2b",
+          "feedback": "True, but it closes the conversation. It tells him the Lodge's decision matters more than his circumstances, which is exactly how men come to feel they don't belong."
+         },
+         {
+          "label": "Ring him and remind him how much he has given the Lodge and how much he'd be missed.",
+          "next": "k2c",
+          "feedback": "Kindly meant, but it adds guilt to a practical problem. Being missed doesn't shorten his drive."
+         }
+        ]
+       },
+       "k2b": {
+        "text": "He says he understands. A week later the Secretary receives an email resigning his membership.",
+        "choices": [
+         {
+          "label": "Make sure the Secretary only acknowledges it, and arrange to talk to him about the options while the sixty days run.",
+          "next": "k3",
+          "feedback": "Good recovery. In Hertfordshire he automatically has sixty days to withdraw a resignation. Those sixty days are the time for a conversation."
+         }
+        ]
+       },
+       "k2c": {
+        "text": "He says, 'I know, and that makes it worse. I hate letting people down.' He sounds more uncomfortable than before.",
+        "choices": [
+         {
+          "label": "Apologise, take the pressure off, and arrange to talk about practical options.",
+          "next": "k3",
+          "feedback": "Better. Guilt makes people retreat. Options give them somewhere to go."
+         }
+        ]
+       },
+       "k3": {
+        "text": "He would like to stay a member of his Lodge, but realistically can make only a meeting or two a year. Lifts don't solve the timing. What do you suggest?",
+        "choices": [
+         {
+          "label": "Tell him he's welcome whenever he can come, with no guilt, and, with his agreement, ask the Provincial Mentoring Team to suggest a Lodge near home that meets at a time that suits him.",
+          "next": "end",
+          "feedback": "Steps 2 and 4 together. He keeps his place in his own Lodge at a level that works, and the Province can do what no single Lodge can: find a Lodge that fits his week. A Brother unhappy with one Lodge's arrangements is often very happy in another."
+         },
+         {
+          "label": "Leave it with him to look around for another Lodge if he wants to.",
+          "next": "k3b",
+          "feedback": "He might, but men in his position rarely know where to start, and it's easy to let it slide. An introduction makes it far more likely to happen."
+         }
+        ]
+       },
+       "k3b": {
+        "text": "Two months later nothing has happened. He means to look, but hasn't.",
+        "choices": [
+         {
+          "label": "With his agreement, ask your Assistant Provincial Mentor to help find a Lodge near his home.",
+          "next": "end",
+          "feedback": "Right. An introduction makes it easy. Referral to the Province is a sign of responsible mentoring, not failure."
+         }
+        ]
+       },
+       "end": {
+        "text": "The Assistant Provincial Mentor introduces him to a Lodge ten minutes from home that meets on Saturdays. He visits twice and joins it, and stays a member of his original Lodge, coming to its Installation every year.\n\nNobody 'won' anything. He found an arrangement that fits his life. When the Lodge Mentor and Membership Officer do their annual review, they note one anonymised theme: the change of meeting night has affected some long-standing members. That is worth knowing.",
+        "choices": []
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "title": "When a Brother thinks of resigning",
+   "summary": "Rule 183 in Hertfordshire, the conversation that matters, and parting well.",
+   "lessons": [
+    {
+     "title": "Rule 183 and the sixty days",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "### The rule as it applies in Hertfordshire\n\nA Brother may resign at any time, by written notice to the Secretary (an email is enough) or by saying so at a regular meeting of the Lodge. No acceptance is needed, and the Secretary has no power to accept it: he acknowledges receipt and reports it to the Lodge at the next regular meeting. Hertfordshire is one of the Provinces where the amended Rule 183 applies, so the Brother automatically has sixty days to withdraw his resignation, counted from the day the Secretary receives it or the day he resigns in open Lodge. No vote of the Lodge is needed. Those sixty days are the time for a conversation.\n\nGrand Lodge extended the window from 21 to 60 days in March 2015, so that there is time to find out whether the problem is the Lodge rather than Freemasonry.\n\nYou may come across older guidance, including UGLE's 2014 explanation and earlier Provincial documents, describing a Lodge vote to invite a Brother to withdraw. That version of the rule still exists in the Book of Constitutions, but only for areas where the amended rule has not yet been applied. Hertfordshire is named among the areas using the amended rule.\n\n### What it means in practice\n\n1. **The Secretary acknowledges receipt only,** and says the resignation will be reported at the next regular meeting. Nothing that reads as acceptance: no 'thank you for your years of service', however warmly meant.\n2. **The right people are told.** UGLE asks the Secretary to tell the Almoner and the Provincial Office without delay. It helps if the Lodge Mentor hears promptly too, so that the right person can get in touch.\n3. **Someone gets in touch soon.** The Almoner and Lodge Mentor agree who is best placed: often the Brother who knows him best, not the most senior. The next lesson covers the conversation.\n4. **The sixty days run automatically,** however he resigned. If he decides to withdraw, he tells the Secretary within that time."
+      },
+      {
+       "type": "callout",
+       "tone": "important",
+       "text": "Metropolitan Grand Lodge's Retention Team contacts every member who resigns and holds a confidential exit conversation. Its Mentor's Handbook (2025) reports that around one in three cases have ended positively, for example with the resignation withdrawn or the Brother joining another Lodge. That is London's own figure; the method is not published, and it is not a national rate. The same Handbook warns that avoidable delay will almost certainly make it too late. Don't let the sixty days drift."
+      }
+     ],
+     "devNotes": "Corrected per facts.md approved wording 1 and register A01 to A04, A06, A07, G07. Removed: Issue 1 step 4 ('a resignation spoken in open Lodge is irrevocable unless the Lodge votes there and then') which is wrong for Hertfordshire (A03); the editor's note about Hermes and the 2014 guidance (A02, G07); 'in a Hermes Province' wording. The 'same day, including the Lodge Mentor' standard is a Hertfordshire standard awaiting confirmation as approved Provincial policy (A05; Part 3 item 7). B6 Retention Guide section 5 and the D4 card still carry the old Lodge-vote wording and the 'one in three recovered' line: correct at their next issue."
+    },
+    {
+     "title": "Supporting a Brother who is thinking of resigning",
+     "kind": "content",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "This applies whether he mentions it over a drink, tells his Personal Mentor, or sends the Secretary an email on a Sunday night.\n\n### The spirit of it\n\nThe purpose is understanding, not persuasion. Be respectful and curious, and leave guilt out of it entirely. A man who feels he is being talked out of something tends to dig in. A man who feels heard often thinks again on his own. And sometimes, having thought it through, he will still go. That is his decision, and it may be the right one.\n\n### Before you get in touch\n\n- **Who is best placed?** Usually the Brother he trusts most: his Personal Mentor, his Proposer, a friend, or the Almoner. Not necessarily the most senior Brother, and not several people at once.\n- **Somewhere private, with time.** A phone call when he can talk, or a coffee. Not at the Festive Board.\n- **Go to listen,** not with a list of reasons he should stay.\n\n### Questions that help\n\n- 'What's led to this?'\n- 'What did you hope Freemasonry would be, and how has it matched up?'\n- 'Is there anything the Lodge could have done differently, or could still do?'\n- 'If things were different, what would you want your involvement to look like?'\n\nThen listen, and listen for the reason behind the reason. 'Time' may really be time. It may also be a meeting night that doesn't fit, a falling-out, an office he didn't know how to refuse, or simply that he isn't enjoying it.\n\n### Options worth exploring together\n\n- **A lighter pattern.** Coming when he can, stepping off the progression ladder or out of office for now, with no hard feelings.\n- **A break.** A quieter season while he stays a member, with a plan to talk again later.\n- **A different Lodge.** A man unhappy in one Lodge is often happy in another. The Provincial Mentoring Team can help him find one that fits his life, his diary or his age group.\n- **Parting well.** If he has decided, respect it.\n\n### If the cause is welfare\n\nIf money, health, bereavement or family is behind it, ask whether he'd like you to put him in touch with the Almoner, who can talk to him in confidence and may be able to involve the Masonic Charitable Foundation. Resignation should never be the price of a hard year. If you are worried about his safety, that is different: act on it straight away. The topic course Welfare, Wellbeing and Knowing Your Limits covers both.\n\n### If he is moving away\n\nThat is migration. See Module 6, and encourage him to keep his membership until he has found a new Lodge.\n\n### Parting well\n\nIf he still chooses to go, thank him sincerely. Make sure he knows he remains a Freemason (unless he is resigning from the Craft altogether), that he may visit, and that the door is open. Ask whether he'd like to stay in touch: the Lodge's socials, the Provincial newsletter, a card at Christmas. How a Lodge handles a departure is noticed by every Brother who stays, and it decides whether a return ever feels possible."
+      },
+      {
+       "type": "callout",
+       "tone": "tip",
+       "text": "Phrases to avoid, however kindly meant: 'after all we've done for you', 'you'll be letting the Lodge down', 'just give it one more year'. They put guilt where curiosity should be."
+      }
+     ],
+     "devNotes": "New lesson in Issue 3, replacing 'The retrieval conversation'. Built on A2 section 11 (understand reasons, opportunity to reconsider, reduced involvement or transfer, preserve goodwill), B6 section 5 and UGLE RETRIEVE 2. MCF wording per facts.md A12 ('may be able to help'; eligibility is the MCF's decision)."
+    },
+    {
+     "title": "Scenario: the resignation email",
+     "kind": "scenario",
+     "minutes": 6,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "You are the Lodge Mentor. Work through what you would do. There is no score: each choice shows how it is likely to play out."
+      }
+     ],
+     "scenario": {
+      "start": "r1",
+      "nodes": {
+       "r1": {
+        "text": "On Monday morning the Secretary forwards you an email sent late on Sunday by a Master Mason of four years: 'Please accept my resignation with immediate effect. Thank you for everything.' What happens first?",
+        "choices": [
+         {
+          "label": "The Secretary acknowledges receipt only and says it will be reported at the next regular meeting. Today the Almoner and the Provincial Office are told, and you and the Almoner agree who is best placed to get in touch.",
+          "next": "r2",
+          "feedback": "Right. Acknowledgement only, the right people told promptly, and a decision about who will call. Nothing has been closed, and the sixty days have only just begun."
+         },
+         {
+          "label": "The Secretary replies warmly, thanking him for his service and confirming the resignation.",
+          "next": "r1b",
+          "feedback": "Kindly meant, but it reads as acceptance, which the Secretary has no power to give, and it makes the door feel shut. The sixty days still apply, so it isn't fatal, but it makes the next conversation harder."
+         },
+         {
+          "label": "Leave it for a few weeks to let him cool off before anyone calls.",
+          "next": "r1c",
+          "feedback": "Giving him space sounds respectful, but the sixty days are the time for a conversation and they don't wait. Metropolitan Grand Lodge's experience is that avoidable delay will almost certainly make it too late."
+         }
+        ]
+       },
+       "r1b": {
+        "text": "He replies: 'Thanks. I thought that might be the reaction.' The tone is final.",
+        "choices": [
+         {
+          "label": "Ask the Brother who knows him best to ring him anyway, warmly, well within the sixty days, and to explain that the Secretary's letter was a formality.",
+          "next": "r2",
+          "feedback": "Harder now, but still worth it. A personal call from a friend carries more weight than a letter, and he still has time to change his mind if he wants to."
+         }
+        ]
+       },
+       "r1c": {
+        "text": "Seven weeks pass. When someone finally calls, he says politely that he has moved on, and has given his regalia to a friend's son who is about to join another Lodge.",
+        "choices": [
+         {
+          "label": "Thank him, part warmly, and make sure he knows the door is open.",
+          "next": "end_part",
+          "feedback": "The window has all but closed, so the right thing now is to part well. That still matters a great deal, to him and to everyone in the Lodge who hears how he was treated."
+         }
+        ]
+       },
+       "r2": {
+        "text": "His former Personal Mentor rings him that evening. He says it's 'time, really'. He sounds tired and a little embarrassed. What should the Personal Mentor do?",
+        "choices": [
+         {
+          "label": "Thank him for taking the call, ask what's led to it, and listen.",
+          "next": "r3",
+          "feedback": "Right. An open question and real listening give him room to tell you what is actually going on."
+         },
+         {
+          "label": "Tell him the Lodge really needs younger members like him, and ask him to give it another year.",
+          "next": "r2b",
+          "feedback": "This is persuasion before understanding, and it adds to whatever pressure he already feels."
+         },
+         {
+          "label": "Offer straight away to ask the Lodge about reducing his subscription if money is a factor.",
+          "next": "r2c",
+          "feedback": "Generous, but an offer before you understand the cause can miss the point and may embarrass him."
+         }
+        ]
+       },
+       "r2b": {
+        "text": "He says, 'I know, and that's half the problem. Every time I miss something I feel I'm letting everyone down.'",
+        "choices": [
+         {
+          "label": "Apologise, say that isn't how anyone sees it, and ask what has been going on.",
+          "next": "r3",
+          "feedback": "Good recovery. Owning a clumsy moment builds trust, and it opens the real conversation."
+         }
+        ]
+       },
+       "r2c": {
+        "text": "He says, a little stiffly, that it isn't really about the money.",
+        "choices": [
+         {
+          "label": "Apologise, and ask what has led to it.",
+          "next": "r3",
+          "feedback": "Better. Listen first; offers can come later, if they fit."
+         }
+        ]
+       },
+       "r3": {
+        "text": "He explains. Since his second child arrived, midweek evenings are hard. He has missed most meetings this year, and every summons makes him feel guilty. He was recently asked to take office next year and didn't know how to say no. What do you explore with him?",
+        "choices": [
+         {
+          "label": "Say that family comes first, and explore the options: stepping off the ladder for now, coming when he can, a quieter season while he stays a member, or a Lodge that fits better. Make clear it's his decision.",
+          "next": "r4",
+          "feedback": "This removes the guilt and puts real choices in front of him. Whatever he decides will be an informed decision, which is the aim."
+         },
+         {
+          "label": "Tell him that office is very manageable if he plans ahead, and that the Lodge was counting on him.",
+          "next": "r3b",
+          "feedback": "This adds to exactly the pressure that has brought him to resign. He told you he couldn't say no: don't make it harder."
+         }
+        ]
+       },
+       "r3b": {
+        "text": "He says he'll think about it. He sounds further from staying than when the call began.",
+        "choices": [
+         {
+          "label": "Go back: tell him family comes first, and that stepping back from office is entirely fine. Then talk through the options.",
+          "next": "r4",
+          "feedback": "Good. Taking the pressure off is often what makes room for him to think clearly."
+         }
+        ]
+       },
+       "r4": {
+        "text": "He is grateful, and says he'd like to talk to his wife. You agree to speak again in a fortnight, well inside the sixty days. What happens in the meantime?",
+        "choices": [
+         {
+          "label": "With his agreement, let the Lodge Mentor and DC know he is stepping back from the office he was offered, and leave him in peace until the agreed call.",
+          "next": "end_stay",
+          "feedback": "Right. The practical cause is dealt with, he isn't crowded, and the next contact is agreed. Only the people who need to know are told."
+         },
+         {
+          "label": "Ask the Master to ring him as well, so he knows how much the Lodge values him.",
+          "next": "r4b",
+          "feedback": "Well meant, but two calls from senior Brethren in one week can feel like a campaign rather than support."
+         }
+        ]
+       },
+       "r4b": {
+        "text": "The Master's call, kindly as it is meant, leaves him feeling under pressure. He sends his friend a short message: 'I just need a bit of space to think.'",
+        "choices": [
+         {
+          "label": "Apologise, give him the space, and keep to the agreed fortnight.",
+          "next": "end_stay",
+          "feedback": "Good recovery. Respecting his request for space is itself a form of support."
+         }
+        ]
+       },
+       "end_stay": {
+        "text": "A fortnight later he withdraws his resignation. He has stepped off the ladder for now, comes to two or three meetings a year, and enjoys them. The Lodge Mentor notes that contact was made and what was agreed, and nothing more.\n\nHe might equally have decided to go. Had he done so, the right response would have been to thank him sincerely, make sure he knew he remained a Freemason and could visit, ask whether he'd like to stay in touch, and leave the door open. Either outcome is a good one if he made the decision freely and with the full picture.",
+        "choices": []
+       },
+       "end_part": {
+        "text": "He leaves on good terms. With his agreement, the Almoner keeps him on the list for Lodge socials and the Provincial newsletter. He knows he remains a Freemason, that he can visit, and that he may still be eligible for help from the Masonic Charitable Foundation if he ever needs it.\n\nSome of the best returners come back to a Lodge that simply never stopped being friendly.",
+        "choices": []
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "title": "After a Brother leaves",
+   "summary": "Keeping the door open, re-engagement, and learning from losses without blame.",
+   "lessons": [
+    {
+     "title": "Unattached Brethren and the open door",
+     "kind": "content",
+     "minutes": 5,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A Brother who resigns from his Lodge has not necessarily left Freemasonry, and a loss need not be permanent. Circumstances change, and change back.\n\n### Rule 127 in plain terms\n\nA Brother who has resigned from every Lodge, but not from the Craft, is still a Freemason. He may visit any Lodge once, signing the attendance book as 'unattached'. He may visit one Lodge on up to two further occasions (three visits in all) if he is thinking of joining it, provided the Master of that Lodge has confirmed this purpose to the Secretary in writing and the last visit is within a year of the first. A Brother who ceased membership for arrears or was excluded may not visit until he joins a Lodge again; one who has resigned from the Craft or been expelled may not visit at all.\n\nWhen a Brother resigns, the Secretary should make sure he has his Clearance Certificate, which shows his status and which he will need if he joins another Lodge.\n\n### Keeping in touch, if he would like it\n\nUGLE suggests Lodges keep in touch with Brethren who have left because of a change in circumstances. Ask him first, and respect the answer. With his agreement:\n\n- Keep him on the list for Lodge socials and the Provincial newsletter\n- A card at Christmas or on his birthday from the Almoner\n- Invitations to social events and White Table evenings\n- Remind him he may still be eligible for help from the Masonic Charitable Foundation\n\n### Re-engagement\n\nRe-engagement is an invitation, not a chase. UGLE notes that during the Covid-19 pandemic many Lodges got back in touch with former members and rekindled their interest, and that some Provinces encourage Lodges to find unattached Freemasons in their area and invite them along. A friendly invitation from someone who knew him, at the right moment, is often all it takes. If he says 'not now', that is a perfectly good answer.\n\n### When a Brother comes back\n\nA re-joiner is a success story in the making. Treat him as a joining member: a Personal Mentor for at least his first year, a gentle conversation about why he left and what is different now, and a quiet catch-up on anything that has changed in the Lodge or the Province. If whatever caused the earlier departure starts to return, a Personal Mentor he trusts makes it far easier for him to say so early."
+      }
+     ],
+     "devNotes": "Rule 127 per facts.md approved wording 3 and A09, A10: the Issue 1 draft's 'three times in twelve months' and 'does not apply to excluded or expelled Brethren' were inaccurate. Clearance Certificate from the Secretaries' Handbook (Resignation section). MCF eligibility per A12. Re-joiner guidance from the Lodge Mentor's Guide 4.8. Note for the Provincial Grand Secretary: the Secretaries' Handbook still prints the pre-2020 Rule 127 text (Part 3 item 2)."
+    },
+    {
+     "title": "Learning from losses",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "UGLE warns against the comfortable story, 'he wasn't really right for us'. It may occasionally be true, but used as a habit it stops a Lodge learning anything, and it changes nothing.\n\n### Record the reason honestly, and briefly\n\nRule 146 requires the reason a member leaves to be recorded. Record the real reason where it is known, in a few plain words, without judgement and without personal detail. 'Meeting night no longer suits' is more useful to the Lodge than 'personal reasons', and kinder than an opinion.\n\n### Look for patterns, not culprits\n\nAt least once a year, the Lodge Mentor and the Membership Officer look at who has left and why, in general terms. Things worth looking at:\n\n- **When** in their membership Brethren leave: before Raising, after the Chair, after a long break\n- **Cost:** subscriptions, dining, the price of a big night\n- **Timing:** meeting nights, start times, the length of the evening\n- **Culture:** how new Brethren and visitors are welcomed, how absence is greeted on return\n- **Office:** Brethren pressed into office too early, or left waiting too long\n\nSeveral resignations in a short time are worth a fuller Lodge review, with help from the Province if you would like it.\n\n### A composite example\n\nOver eighteen months a Lodge loses four Brethren. The reasons recorded are 'work', 'work', 'moving away' and 'personal'. Looking a little closer, three of the four had been Initiated in the spring, two had never been to a Lodge of Instruction, and the man who moved away was never put in touch with a Lodge near his new home. None of that is anyone's fault, but all of it is useful. The Lodge plans summer contact for new Brethren, makes its Lodge of Instruction more welcoming, and adds 'ask about moves' to its Personal Mentors' briefing.\n\nNot every loss holds a lesson. Some men leave for reasons nobody could or should have changed, and it is fine to say so.\n\n### Share themes, never names\n\nShare anonymised themes with the Provincial Mentoring Team through the normal reporting: the monthly mentoring call, quarterly returns, the annual report. The Province can see patterns across Lodges that no single Lodge can, but it never needs names, and nothing should ever attribute blame."
+      }
+     ],
+     "devNotes": "Rule 146 wording per facts.md A11. Composite example is invented for teaching and deliberately general. The Issue 1 'record the real reason, not the polite one' softened: record the reason plainly and without personal or welfare detail (A3 section 7)."
+    },
+    {
+     "title": "Reflection: your Lodge's lessons",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A private reflection. Think about your Lodge in general terms, or use the composite example above. This is about patterns and habits, not individual Brethren."
+      }
+     ],
+     "prompt": "Thinking about your Lodge in general terms: what pattern, if any, do you suspect lies behind Brethren drifting away, and what is one thing the Lodge could change? Who would you involve? Please do not include names or personal details of other Brethren."
+    }
+   ]
+  },
+  {
+   "title": "Migration",
+   "summary": "A move away is a continuation of mentoring, not a loss.",
+   "lessons": [
+    {
+     "title": "Moving a Brother without losing him",
+     "kind": "content",
+     "minutes": 4,
+     "required": true,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "A move is one of the commonest reasons a Brother drifts away from Freemasonry, and one of the easiest to help with, provided someone knows in time. Migration is a continuation of mentoring, not an administrative exercise.\n\n1. **Find out early.** Ask about house and job moves as a natural part of keeping in touch, the way any friend would. The earlier you know, the better the chance he carries on without a break.\n2. **Tell the Provincial Office** (mentor@hertfordshirefreemasons.org.uk) as soon as you know. It will start the migration process with the destination Province: an introduction, suggestions of Lodges to visit, and support until he is settled.\n3. **Encourage him to keep his membership** until he has joined a Lodge in his new area, so his service is unbroken. If he does resign, make sure he has his Clearance Certificate and knows he can visit as an unattached Brother.\n4. **Stay in touch until he is settled.** The sending Lodge's part ends when he is happily at home in his new Lodge, not at the county boundary.\n\nNot everyone who moves wants to carry on, and that is his choice. But nobody should be lost simply because no one thought to make an introduction.\n\n### Brethren arriving in Hertfordshire\n\nThe same works in reverse. A Brother who moves into the Province and joins your Lodge is a joining member. He needs a Personal Mentor, introductions, a seat with good company at the Festive Board, and someone to explain how this Lodge does things. Let the Provincial Office know he has arrived, so the sending Lodge's loop is closed."
+      }
+     ],
+     "devNotes": "Wording per facts.md A13. UNRESOLVED: who triggers migration in Hertfordshire (Provincial Office or the Provincial Mentor's office) under current Hermes processes (Part 3 item 7). UGLE's 2021 Managing Migration paper said an address change recorded in Hermes would in future notify the destination Province; whether that is now live is not confirmed. Update step 2 when settled."
+    }
+   ]
+  },
+  {
+   "title": "Assessment and your Lodge task",
+   "summary": "Show what you know, then put it to work.",
+   "lessons": [
+    {
+     "title": "Final assessment",
+     "kind": "quiz",
+     "minutes": 10,
+     "required": true,
+     "isAssessment": true,
+     "passMark": 75,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Twelve questions, most of them situations. Where more than one answer is reasonable, the question says 'Choose all that apply'. You need 75% to pass, and you can try again."
+      }
+     ],
+     "questions": [
+      {
+       "kind": "multiple",
+       "prompt": "Which of these Brethren would it be sensible to give a friendly call? Choose all that apply.",
+       "options": [
+        "A Brother who has come to two meetings a year for many years, and missed September as he always does",
+        "A regular who has missed the last two meetings, sending apologies both times",
+        "An officer who has stopped coming to the Lodge of Instruction and hasn't replied to the DC",
+        "A Brother who sent apologies for one meeting because he was on holiday"
+       ],
+       "correct": [
+        1,
+        2
+       ],
+       "feedbackCorrect": "Right. Both are changes in the Brother's own pattern.",
+       "feedbackIncorrect": "The regular who has missed two in a row and the officer who has gone quiet are the changes worth a call. The other two are following their normal pattern or have an obvious reason.",
+       "explanation": "The signal is a change in a Brother's own pattern, not his level of attendance. UGLE suggests a call after two consecutive misses whether or not apologies were sent. A Brother who always comes twice a year may be perfectly content, and one holiday tells you nothing. Even for the two who merit a call, it's a friendly 'you were missed, how are you?', not a concern to be logged."
+      },
+      {
+       "kind": "single",
+       "prompt": "A regular Brother has missed two consecutive meetings. What does UGLE's guidance suggest?",
+       "options": [
+        "An agreed person phones him within seven days of the second meeting, whether or not he sent apologies",
+        "Wait for Hermes to notify the Almoner, then act",
+        "The Secretary writes reminding him of the Lodge's expectations on attendance"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. A friendly call within seven days, as a habit.",
+       "feedbackIncorrect": "UGLE suggests an agreed person phones him within seven days of the second meeting, with or without an apology.",
+       "explanation": "Where the Secretary records attendance in Hermes, UGLE says the system will also notify the Almoner, but don't wait for it: the call is the Lodge's to make. A letter about attendance is likely to read as a reprimand. The call is a friendly habit, not monitoring: its tone is 'you were missed', and usually he's fine."
+      },
+      {
+       "kind": "single",
+       "prompt": "The Treasurer notices that a usually reliable Brother has not paid this year's subscription. What is best?",
+       "options": [
+        "A quiet word to the Almoner or Lodge Mentor, so that someone who knows him can have a friendly chat",
+        "A formal reminder letter pointing out that membership ceases after two years in arrears (Rule 148)",
+        "Nothing until the second year: there's plenty of time"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. A reason to talk, not to chase.",
+       "feedbackIncorrect": "A quiet word, so someone who knows him can have a friendly chat. A formal letter or waiting are both less helpful.",
+       "explanation": "It may be an oversight, or it may be a sign that money is tight. A friendly conversation finds out which, and if it's hardship the Almoner can help, with his agreement. A letter quoting Rule 148 reads like a final demand. Waiting wastes the time when a conversation is easiest."
+      },
+      {
+       "kind": "single",
+       "prompt": "After a friendly call, a Personal Mentor learns that a Brother is struggling with debts and feeling low. He agrees to speak to the Almoner. What goes in the mentoring record?",
+       "options": [
+        "A brief note that contact was made and that he was put in touch with the Almoner",
+        "A full note of his circumstances, so the Lodge Mentor can follow it up",
+        "A note that he seems to be losing interest in the Lodge"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. Contact and action only; welfare detail stays with the Almoner.",
+       "feedbackIncorrect": "Record only that contact was made and that he was referred to the Almoner. Not his circumstances, and not opinions.",
+       "explanation": "Welfare matters are the Almoner's, and health or financial information is sensitive and deserves extra protection. Opinions about a Brother don't belong in a mentoring record at all. The Province's draft guidance is minimum necessary records, which the Brother knows about. If you are worried about his safety, that is different: see the topic course Welfare, Wellbeing and Knowing Your Limits."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother tells his Personal Mentor that the Lodge's new start time means he can rarely get there, and he is thinking of giving up. The Personal Mentor tells the Lodge Mentor, with his agreement. What should the Lodge Mentor do?",
+       "options": [
+        "Consider what the Lodge could change, and talk to him about the options, including a Lodge that meets at a better time",
+        "Explain that the Lodge voted on the start time and it can't be changed for one Brother",
+        "Ask the Master to remind him how much the Lodge values him"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. Step 2: what could the Lodge change, and what are his options?",
+       "feedbackIncorrect": "Step 2 is about what the Lodge itself could change, and exploring options with him.",
+       "explanation": "The start time may not change for one Brother, but the conversation shouldn't stop there: perhaps he can come when he can without guilt, or the Provincial Mentoring Team can suggest a Lodge that fits his week. Defending the Lodge's decision closes the door, and being told he is valued doesn't solve a practical problem."
+      },
+      {
+       "kind": "single",
+       "prompt": "A resignation email arrives from a Brother. What should the Secretary do?",
+       "options": [
+        "Acknowledge receipt, say it will be reported at the next regular meeting, and tell the Almoner and the Provincial Office without delay",
+        "Reply thanking him warmly for his service and confirming the resignation",
+        "Do nothing until the next meeting, when the Lodge will decide whether to invite him to withdraw"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. Acknowledge only, and tell the right people promptly.",
+       "feedbackIncorrect": "The Secretary acknowledges receipt only, and tells the Almoner and the Provincial Office without delay. It helps if the Lodge Mentor hears promptly too, so the right person can get in touch.",
+       "explanation": "The Secretary has no power to accept a resignation, and a warm 'thank you for your service' reads as acceptance. In Hertfordshire the amended Rule 183 applies, so no Lodge vote is needed: the sixty days run automatically from receipt. Waiting for the meeting wastes those days. The next step is for the Almoner and Lodge Mentor to agree who is best placed to get in touch."
+      },
+      {
+       "kind": "true_false",
+       "prompt": "In Hertfordshire, a Brother who resigns by saying so at a regular meeting of the Lodge still has sixty days in which he can withdraw his resignation.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. In Hertfordshire the sixty days apply however he resigns.",
+       "feedbackIncorrect": "True. In Hertfordshire the sixty days apply however he resigns, in writing or in open Lodge.",
+       "explanation": "Hertfordshire is one of the Provinces where the amended Rule 183 applies. The sixty days are counted from the day the Secretary receives the resignation or the day he resigns in open Lodge, and no vote of the Lodge is needed. The older version, under which a resignation in open Lodge was irrevocable unless the Lodge voted there and then, applies only where the amended rule has not been applied."
+      },
+      {
+       "kind": "multiple",
+       "prompt": "You are talking to a Brother who says he is thinking of resigning. Which of these are good approaches? Choose all that apply.",
+       "options": [
+        "Ask what has led to this, and listen for the reason behind the reason",
+        "Explore options with him: a lighter pattern, a break while he stays a member, or a different Lodge",
+        "Remind him how much the Lodge has invested in him and ask him to give it one more year",
+        "If he has made up his mind, thank him sincerely and make sure he knows the door is open"
+       ],
+       "correct": [
+        0,
+        1,
+        3
+       ],
+       "feedbackCorrect": "Right. Curiosity, options, and respect for his decision.",
+       "feedbackIncorrect": "Asking, exploring options and parting well are all good approaches. Appealing to what the Lodge has invested in him is not.",
+       "explanation": "The purpose is understanding, not persuasion. Guilt makes people dig in or withdraw, and even if it kept him, it would keep him unhappily. With the full picture, some Brethren find an arrangement that suits them, and some decide to go. Either can be a good outcome if he has decided freely."
+      },
+      {
+       "kind": "single",
+       "prompt": "During the conversation he mentions that money has been very tight since he was made redundant, and his mother is unwell. There is no suggestion of any risk to anyone's safety. What do you do?",
+       "options": [
+        "Ask whether he would like you to put him in touch with the Almoner, who can talk to him in confidence",
+        "Tell the Almoner straight away so that help can be arranged, without troubling him further",
+        "Offer to pay his subscription yourself"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. The Almoner, with his agreement.",
+       "feedbackIncorrect": "Ask whether he would like to be put in touch with the Almoner. Without a safety concern, it's his choice.",
+       "explanation": "Welfare belongs with the Almoner, who may be able to involve the Masonic Charitable Foundation. But a Brother's personal circumstances are his to share, so ask first; the exception is where someone's safety is at risk. Paying his subscription yourself is generous but can embarrass him and leaves the real need untouched. The topic course Welfare, Wellbeing and Knowing Your Limits goes further."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother resigned from his only Lodge two years ago because of work, but not from the Craft. He would like to come back to Lodge meetings. What does Rule 127 allow?",
+       "options": [
+        "He may visit any Lodge once, and one Lodge on up to two further occasions if he is thinking of joining it, with the Master's written confirmation to the Secretary and the last visit within a year of the first",
+        "He may visit any Lodge as often as he likes, provided he signs in as 'unattached'",
+        "He may not visit any Lodge until he has joined one again"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. That is Rule 127 as it now stands.",
+       "feedbackIncorrect": "He may visit any Lodge once, and one Lodge up to three times in all if he is thinking of joining it, with the Master's written confirmation.",
+       "explanation": "A Brother who has resigned from every Lodge, but not from the Craft, is still a Freemason. The restriction to no visits applies to Brethren who ceased membership for arrears or were excluded (until they join again), and to those who resigned from the Craft or were expelled (not at all). A warm invitation to visit your Lodge, with a view to joining, is a good way to re-engage him."
+      },
+      {
+       "kind": "single",
+       "prompt": "A Brother tells you he is moving to Yorkshire next spring for work. What should happen?",
+       "options": [
+        "Tell the Provincial Office as soon as possible, encourage him to keep his membership until he has joined a new Lodge, and keep in touch until he is settled",
+        "Wish him well and take him off the summons list when he goes",
+        "Suggest he resigns now to save on next year's subscription, and joins a Lodge up there later"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. Migration is a continuation of mentoring.",
+       "feedbackIncorrect": "Tell the Provincial Office early, encourage him to keep his membership until he has found a new Lodge, and stay in touch.",
+       "explanation": "The Provincial Office can start the migration process with the destination Province, so he has introductions waiting. Keeping his membership until he lands means his service is unbroken and he has a link while he looks. Resigning first makes it far more likely that, once settled in a new job and home, he simply never gets round to it."
+      },
+      {
+       "kind": "single",
+       "prompt": "Your Lodge has had four resignations in eighteen months. A senior Brother says, 'They weren't really right for us.' What is the most useful response?",
+       "options": [
+        "Suggest the Lodge Mentor and Membership Officer look at the reasons together, in general terms, for any pattern, with the Province's help if wanted",
+        "Agree: some men simply aren't suited to Freemasonry",
+        "Focus on recruiting four new members to replace them"
+       ],
+       "correct": [
+        0
+       ],
+       "feedbackCorrect": "Right. Look for patterns, not culprits.",
+       "feedbackIncorrect": "Look at the reasons together for any patterns. The comfortable story stops the Lodge learning.",
+       "explanation": "UGLE warns that blaming the leavers changes nothing. A calm look at when Brethren left, and the reasons recorded, often shows something the Lodge can change: meeting times, cost, how new Brethren are welcomed. Some losses will turn out to have had nothing to do with the Lodge, and that's fine too. Recruiting without understanding risks losing the next four the same way. Share any themes, anonymised, with the Provincial Mentoring Team."
+      }
+     ]
+    },
+    {
+     "title": "Your Lodge task",
+     "kind": "reflection",
+     "minutes": 3,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "An optional task to try in your own Lodge within the next thirty days, so that the next change of pattern, or the next resignation, starts a conversation rather than a formality.\n\nWith your Secretary and Almoner (and the Master, if he'd like to be involved), agree three things:\n\n1. If a resignation arrives, who is told, by when, and who decides who should get in touch.\n2. When a Brother's usual pattern changes, who makes the friendly call, and how the Personal Mentors know that it falls to them.\n3. How the Lodge keeps in touch with Brethren who have left, if they would like it.\n\nKeep any names on paper or with your Lodge Mentor, not here. The Academy only asks what you agreed and what you learned."
+      }
+     ],
+     "prompt": "What did you agree, what was already working well, and what will you do differently? Please do not include names or personal details of other Brethren."
+    },
+    {
+     "title": "Thirty days on",
+     "kind": "reflection",
+     "minutes": 2,
+     "required": false,
+     "blocks": [
+      {
+       "type": "text",
+       "markdown": "Come back to this lesson once you have tried your Lodge task. Your Assistant Provincial Mentor may ask you the same question over a coffee."
+      }
+     ],
+     "prompt": "What did you try, and what happened? What will you do differently next time, and who else in your Lodge should hear about it? Please do not include names or personal details of other Brethren."
+    }
+   ]
+  }
+ ]
+}
